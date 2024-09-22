@@ -1,0 +1,28 @@
+@keyframes blink {
+    0% {
+      opacity: 0.2;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0.2;
+    }
+  }
+  
+  @keyframes glow {
+    0% {
+      text-shadow: 0 0 40px rgba(79, 169, 77, 0.7); /* Adjust color and opacity */
+    }
+    50% {
+      text-shadow: 0 0 80px rgba(79, 169, 77, 0.5); /* Further increased spread and adjusted opacity */
+    }
+    100% {
+      text-shadow: 5px 10px 120px rgba(79, 169, 77, 0.3); /* Further increased spread and adjusted opacity */
+    }
+  }
+  
+  .blinking-glowing-text {
+    animation: blink 2s infinite, glow 2s infinite;
+  }
+  

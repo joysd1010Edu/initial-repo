@@ -1,0 +1,748 @@
+[
+    {
+      "keyFeatures": {
+        "name": "Corsair Vengeance RGB Pro",
+        "modelName": "CMW16GX4M2C3200C16",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "Corsair",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/bYb880fF/Corsair-1.png",
+"https://i.postimg.cc/N0MBwWQ1/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 50
+    },
+    {
+      "keyFeatures": {
+        "name": "G.Skill Ripjaws V",
+        "modelName": "F4-3600C16D-16GVKC",
+        "busSpeed": "3600 MHz",
+        "latency": "16-19-19-39",
+        "voltage": "1.35V",
+        "brand": "G.Skill",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 12
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3600 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/wBZ8YMfp/G-Skill-1.png",
+        "https://i.postimg.cc/CxvpJmbd/G-Skill-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "quantity": 40
+    },
+    {
+      "keyFeatures": {
+        "name": "G.SKILL Ripjaws V",
+        "modelName": "F4-3200C16D-16GVKB",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-38",
+        "voltage": "1.35V",
+        "brand": "G.SKILL",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 110,
+          "discount": 100,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/wBZ8YMfp/G-Skill-1.png",
+        "https://i.postimg.cc/CxvpJmbd/G-Skill-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "name": "Crucial Ballistix Sport LT",
+        "modelName": "BLS8G4D30AESBK",
+        "busSpeed": "3000 MHz",
+        "latency": "15-16-16-35",
+        "voltage": "1.35V",
+        "brand": "Crucial",
+        "type": "DDR4",
+        "size": "8GB",
+        "price": {
+          "regular": 75,
+          "discount": 70,
+          "emi": 7
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MHy8DwY8/Crucial-1.png",
+        "https://i.postimg.cc/d0LPfr96/Crucial-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "ADATA XPG Spectrix D60G",
+        "modelName": "AX4U320038G16A-DT60",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18",
+        "voltage": "1.35V",
+        "brand": "ADATA",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 11
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/hPBnGJS4/ADATA-1.png",
+        "https://i.postimg.cc/DwfKqtJt/ADATA-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Team T-FORCE Vulcan Z",
+        "modelName": "TLZGD416G3000HC16CDC01",
+        "busSpeed": "3000 MHz",
+        "latency": "16-18-18-38",
+        "voltage": "1.35V",
+        "brand": "Team",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 110,
+          "discount": 100,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MH0hBDW6/Team-1.png",
+        "https://i.postimg.cc/kXqrmkcB/Team-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "Kingston HyperX Fury RGB",
+        "modelName": "HX432C16FB3A/16",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18",
+        "voltage": "1.35V",
+        "brand": "Kingston",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 125,
+          "discount": 115,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/HnGgXnX2/Kingston-1.png",
+        "https://i.postimg.cc/FFjtw90M/Kingston-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Patriot Viper Steel Series",
+        "modelName": "PVS416G320C6K",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "Patriot",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/HnGgXnX2/Kingston-1.png",
+        "https://i.postimg.cc/FFjtw90M/Kingston-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "name": "Corsair Dominator Platinum RGB",
+        "modelName": "CMT32GX4M4C3200C16",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "Corsair",
+        "type": "DDR4",
+        "size": "32GB (8GB x 4)",
+        "price": {
+          "regular": 250,
+          "discount": 230,
+          "emi": 20
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/bYb880fF/Corsair-1.png",
+"https://i.postimg.cc/N0MBwWQ1/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "keyFeatures": {
+        "name": "TeamGroup T-Force Delta RGB",
+        "modelName": "TF4D416G3000HC16CDC01",
+        "busSpeed": "3000 MHz",
+        "latency": "16-18-18-38",
+        "voltage": "1.35V",
+        "brand": "TeamGroup",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/HnGgXnX2/Kingston-1.png",
+        "https://i.postimg.cc/FFjtw90M/Kingston-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "HyperX Fury Black",
+        "modelName": "HX426C16FB3/16",
+        "busSpeed": "2666 MHz",
+        "latency": "16-18-18",
+        "voltage": "1.2V",
+        "brand": "HyperX",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 100,
+          "discount": 90,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "2666 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MH0hBDW6/Team-1.png",
+        "https://i.postimg.cc/kXqrmkcB/Team-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Patriot Viper 4 Blackout",
+        "modelName": "PV416G320C6K",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "Patriot",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 110,
+          "discount": 100,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/bYb880fF/Corsair-1.png",
+        "https://i.postimg.cc/N0MBwWQ1/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "ADATA XPG Gammix D10",
+        "modelName": "AX4U300038G16A-DT10",
+        "busSpeed": "3000 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "ADATA",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 95,
+          "discount": 85,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/hPBnGJS4/ADATA-1.png",
+        "https://i.postimg.cc/DwfKqtJt/ADATA-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Crucial Ballistix Elite",
+        "modelName": "BLE2K8G4D32AESEK",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "Crucial",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 140,
+          "discount": 130,
+          "emi": 12
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MHy8DwY8/Crucial-1.png",
+        "https://i.postimg.cc/d0LPfr96/Crucial-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "G.SKILL Trident Z Neo",
+        "modelName": "F4-3600C16D-32GTZNC",
+        "busSpeed": "3600 MHz",
+        "latency": "16-19-19-39",
+        "voltage": "1.35V",
+        "brand": "G.SKILL",
+        "type": "DDR4",
+        "size": "32GB (16GB x 2)",
+        "price": {
+          "regular": 200,
+          "discount": 190,
+          "emi": 15
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3600 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/wBZ8YMfp/G-Skill-1.png",
+        "https://i.postimg.cc/CxvpJmbd/G-Skill-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "keyFeatures": {
+        "name": "Corsair Vengeance LPX",
+        "modelName": "CMK32GX4M2D3600C18",
+        "busSpeed": "3600 MHz",
+        "latency": "18-22-22-42",
+        "voltage": "1.35V",
+        "brand": "Corsair",
+        "type": "DDR4",
+        "size": "32GB (16GB x 2)",
+        "price": {
+          "regular": 180,
+          "discount": 170,
+          "emi": 14
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3600 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/bYb880fF/Corsair-1.png",
+        "https://i.postimg.cc/N0MBwWQ1/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "ADATA XPG Spectrix D41",
+        "modelName": "AX4U3000316G16-SR41",
+        "busSpeed": "3000 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "ADATA",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 110,
+          "discount": 100,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/hPBnGJS4/ADATA-1.png",
+        "https://i.postimg.cc/DwfKqtJt/ADATA-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "ADATA XPG Spectrix D41",
+        "modelName": "AX4U3000316G16-SR41",
+        "busSpeed": "3000 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "ADATA",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 110,
+          "discount": 100,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/hPBnGJS4/ADATA-1.png",
+        "https://i.postimg.cc/DwfKqtJt/ADATA-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Patriot Signature Line",
+        "modelName": "PSD416G2400KH",
+        "busSpeed": "2400 MHz",
+        "latency": "17-17-17-39",
+        "voltage": "1.2V",
+        "brand": "Patriot",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 85,
+          "discount": 75,
+          "emi": 7
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "2400 MHz",
+        "heatsink": false
+      },
+      "images": [
+        "https://i.postimg.cc/hPBnGJS4/ADATA-1.png",
+        "https://i.postimg.cc/DwfKqtJt/ADATA-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "name": "GeIL Evo Spear",
+        "modelName": "GAMT416GB3000C16ADC",
+        "busSpeed": "3000 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "GeIL",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 95,
+          "discount": 85,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "3000 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/HnGgXnX2/Kingston-1.png",
+        "https://i.postimg.cc/FFjtw90M/Kingston-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "name": "Team T-Create Classic",
+        "modelName": "TCRSD416G2666HC19FC-D",
+        "busSpeed": "2666 MHz",
+        "latency": "19-19-19-43",
+        "voltage": "1.2V",
+        "brand": "Team",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "rgb": false,
+        "frequency": "2666 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MH0hBDW6/Team-1.png",
+        "https://i.postimg.cc/kXqrmkcB/Team-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "PNY XLR8 Gaming EPIC-X RGB",
+        "modelName": "MD16GK2D4320016XRGB",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "PNY",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 11
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MHy8DwY8/Crucial-1.png",
+        "https://i.postimg.cc/d0LPfr96/Crucial-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Silicon Power XPOWER Turbine RGB",
+        "modelName": "SP016GXLZU320BDB",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-36",
+        "voltage": "1.35V",
+        "brand": "Silicon Power",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 110,
+          "discount": 100,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/MH0hBDW6/Team-1.png",
+        "https://i.postimg.cc/kXqrmkcB/Team-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "KLEVV CRAS X RGB",
+        "modelName": "KM4U323GGL-16X",
+        "busSpeed": "3200 MHz",
+        "latency": "16-18-18-38",
+        "voltage": "1.35V",
+        "brand": "KLEVV",
+        "type": "DDR4",
+        "size": "16GB (8GB x 2)",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "rgb": true,
+        "frequency": "3200 MHz",
+        "heatsink": true
+      },
+      "images": [
+        "https://i.postimg.cc/bYb880fF/Corsair-1.png",
+        "https://i.postimg.cc/N0MBwWQ1/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Lifetime Warranty"
+      },
+      "quantity": 15
+    } 
+
+  ]
+  

@@ -1,0 +1,399 @@
+[
+    {
+      "name": "APC Back-UPS Pro 1500VA",
+      "brandName": "APC",
+      "modelName": "Back-UPS Pro 1500VA",
+      "price": {
+        "regular": 200,
+        "discount": 180,
+        "emi": 20
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "88-147V"
+      },
+      "batteryDetails": {
+        "batteryType": "Maintenance-free Sealed Lead-Acid",
+        "backupTime": "Up to 90 minutes",
+        "chargingTime": "3 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 900,
+      "capacity": "1500VA / 900W",
+      "images": [
+        "https://i.postimg.cc/dQhgkz6H/arc-1.png",
+        "https://i.postimg.cc/kDrQBVsm/arc-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "name": "CyberPower CP1500PFCLCD",
+      "brandName": "CyberPower",
+      "modelName": "CP1500PFCLCD",
+      "price": {
+        "regular": 180,
+        "discount": 160,
+        "emi": 18
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "90-140V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 135 minutes",
+        "chargingTime": "8 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 900,
+      "capacity": "1500VA / 900W",
+      "images": [
+        "https://i.postimg.cc/7ZkRRbkd/cyberpower-1.png",
+        "https://i.postimg.cc/kMLzxfhn/cyberpower-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "APC Back-UPS Pro 1500",
+      "brandName": "APC",
+      "modelName": "BR1500G",
+      "price": {
+        "regular": 200,
+        "discount": 180,
+        "emi": 20
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "88-147V"
+      },
+      "batteryDetails": {
+        "batteryType": "Maintenance-Free Sealed Lead-Acid",
+        "backupTime": "Up to 120 minutes",
+        "chargingTime": "6 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 865,
+      "capacity": "1500VA / 865W",
+      "images": [
+        "https://i.postimg.cc/dQhgkz6H/arc-1.png",
+        "https://i.postimg.cc/kDrQBVsm/arc-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Tripp Lite SMART1500LCDT",
+      "brandName": "Tripp Lite",
+      "modelName": "SMART1500LCDT",
+      "price": {
+        "regular": 220,
+        "discount": 200,
+        "emi": 22
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "92-150V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 100 minutes",
+        "chargingTime": "7 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 900,
+      "capacity": "1500VA / 900W",
+      "images": [
+        "https://i.postimg.cc/jdN9vPGy/tripple-lite-1.png",
+        "https://i.postimg.cc/Z5xQzZYR/tripple-lite-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "Eaton 5P1500RC",
+      "brandName": "Eaton",
+      "modelName": "5P1500RC",
+      "price": {
+        "regular": 250,
+        "discount": 230,
+        "emi": 25
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "80-144V"
+      },
+      "batteryDetails": {
+        "batteryType": "User-Replaceable Sealed Lead-Acid",
+        "backupTime": "Up to 110 minutes",
+        "chargingTime": "5 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 1440,
+      "capacity": "1500VA / 1440W",
+      "images": [
+        "https://i.postimg.cc/dQhgkz6H/arc-1.png",
+        "https://i.postimg.cc/kDrQBVsm/arc-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "name": "CyberPower EC850LCD",
+      "brandName": "CyberPower",
+      "modelName": "EC850LCD",
+      "price": {
+        "regular": 90,
+        "discount": 80,
+        "emi": 10
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "85-140V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 60 minutes",
+        "chargingTime": "4 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 510,
+      "capacity": "850VA / 510W",
+      "images": [
+        "https://i.postimg.cc/7ZkRRbkd/cyberpower-1.png",
+        "https://i.postimg.cc/kMLzxfhn/cyberpower-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "APC Smart-UPS 1000VA",
+      "brandName": "APC",
+      "modelName": "SMT1000",
+      "price": {
+        "regular": 300,
+        "discount": 280,
+        "emi": 30
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "92-147V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 80 minutes",
+        "chargingTime": "6 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 700,
+      "capacity": "1000VA / 700W",
+      "images": [
+        "https://i.postimg.cc/dQhgkz6H/arc-1.png",
+        "https://i.postimg.cc/kDrQBVsm/arc-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Tripp Lite OMNI1500LCDT",
+      "brandName": "Tripp Lite",
+      "modelName": "OMNI1500LCDT",
+      "price": {
+        "regular": 180,
+        "discount": 160,
+        "emi": 18
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "92-150V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 110 minutes",
+        "chargingTime": "7 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 900,
+      "capacity": "1500VA / 900W",
+      "images": [
+        "https://i.postimg.cc/jdN9vPGy/tripple-lite-1.png",
+        "https://i.postimg.cc/Z5xQzZYR/tripple-lite-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "name": "Eaton 5SC1000",
+      "brandName": "Eaton",
+      "modelName": "5SC1000",
+      "price": {
+        "regular": 270,
+        "discount": 250,
+        "emi": 26
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "85-140V"
+      },
+      "batteryDetails": {
+        "batteryType": "User-Replaceable Sealed Lead-Acid",
+        "backupTime": "Up to 90 minutes",
+        "chargingTime": "6 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 800,
+      "capacity": "1000VA / 800W",
+      "images": [
+        "https://i.postimg.cc/jdN9vPGy/tripple-lite-1.png",
+        "https://i.postimg.cc/Z5xQzZYR/tripple-lite-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 8
+    },
+    {
+      "name": "CyberPower CP850PFCLCD",
+      "brandName": "CyberPower",
+      "modelName": "CP850PFCLCD",
+      "price": {
+        "regular": 120,
+        "discount": 100,
+        "emi": 15
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "90-140V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 75 minutes",
+        "chargingTime": "5 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 510,
+      "capacity": "850VA / 510W",
+      "images": [
+        "https://i.postimg.cc/7ZkRRbkd/cyberpower-1.png",
+        "https://i.postimg.cc/kMLzxfhn/cyberpower-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "name": "APC Smart-UPS 2200VA",
+      "brandName": "APC",
+      "modelName": "SMT2200",
+      "price": {
+        "regular": 450,
+        "discount": 420,
+        "emi": 45
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "92-147V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 150 minutes",
+        "chargingTime": "8 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 1760,
+      "capacity": "2200VA / 1760W",
+      "images": [
+        "https://i.postimg.cc/dQhgkz6H/arc-1.png",
+        "https://i.postimg.cc/kDrQBVsm/arc-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 7
+    },
+    {
+      "name": "Tripp Lite ECO550UPS",
+      "brandName": "Tripp Lite",
+      "modelName": "ECO550UPS",
+      "price": {
+        "regular": 70,
+        "discount": 60,
+        "emi": 8
+      },
+      "voltageSecurityDetails": {
+        "voltageRegulation": "Automatic Voltage Regulation (AVR)",
+        "voltageTransferRange": "92-150V"
+      },
+      "batteryDetails": {
+        "batteryType": "Sealed Lead-Acid",
+        "backupTime": "Up to 40 minutes",
+        "chargingTime": "3 hours to 90%"
+      },
+      "inputVoltage": "120V",
+      "outputVoltage": "120V",
+      "frequency": "60Hz",
+      "maxWattCapacity": 300,
+      "capacity": "550VA / 300W",
+      "images": [
+        "https://i.postimg.cc/jdN9vPGy/tripple-lite-1.png",
+        "https://i.postimg.cc/Z5xQzZYR/tripple-lite-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    }
+  ]
+  

@@ -1,0 +1,678 @@
+[
+    {
+      "name": "Corsair K95 RGB Platinum XT",
+      "brandName": "Corsair",
+      "modelName": "K95 RGB Platinum XT",
+      "price": {
+        "regular": 200,
+        "discount": 180,
+        "emi": 20
+      },
+      "specialFeatures": ["PBT Double-Shot Keycaps", "iCUE Software Support"],
+      "dimension": "465 x 171 x 36 mm",
+      "color": "Black",
+      "weight": "1.31kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Cherry MX Brown",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 110,
+      "images": [
+        "https://i.postimg.cc/Y91D8R9K/Hyper-X-Alloy-Origins-Core-1.png",
+        "https://i.postimg.cc/fRGvFd1w/Hyper-X-Alloy-Origins-Core-2.png",
+        "https://i.postimg.cc/QxNYkpZw/Hyper-X-Alloy-Origins-Core-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Logitech G Pro X Mechanical Gaming Keyboard",
+      "brandName": "Logitech",
+      "modelName": "G Pro X",
+      "price": {
+        "regular": 150,
+        "discount": 130,
+        "emi": 15
+      },
+      "specialFeatures": ["Hot-swappable Switches", "Customizable RGB Lighting"],
+      "dimension": "361 x 153 x 34 mm",
+      "color": "Black",
+      "weight": "980g",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "GX Clicky",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 87,
+      "images": [
+        "https://i.postimg.cc/Sx2rDdTT/Keychron-Q1-1.png",
+        "https://i.postimg.cc/5NG5Yv4w/Keychron-Q1-2.png",
+        "https://i.postimg.cc/jdGNdbcc/Keychron-Q1-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
+      "brandName": "Razer",
+      "modelName": "BlackWidow Elite",
+      "price": {
+        "regular": 169,
+        "discount": 150,
+        "emi": 17
+      },
+      "specialFeatures": ["Razer Mechanical Switches", "Magnetic Wrist Rest"],
+      "dimension": "457 x 174 x 42 mm",
+      "color": "Black",
+      "weight": "1.5kg",
+      "connectorInterface": "USB 3.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Razer Green",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/hjSVW1sq/NK65-Entry-Edition-1.png",
+        "https://i.postimg.cc/wvHQxp6Z/NK65-Entry-Edition-2.png",
+        "https://i.postimg.cc/9fBqpqhg/NK65-Entry-Edition-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard",
+      "brandName": "Corsair",
+      "modelName": "K95 RGB Platinum XT",
+      "price": {
+        "regular": 199,
+        "discount": 180,
+        "emi": 20
+      },
+      "specialFeatures": ["Cherry MX Switches", "Dedicated Macro Keys"],
+      "dimension": "465 x 171 x 36 mm",
+      "color": "Gunmetal",
+      "weight": "1.31kg",
+      "connectorInterface": "USB 3.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Cherry MX Brown",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 110,
+      "images": [
+        "https://i.postimg.cc/X7ZdbJfX/Tecware-Phantom-1.png",
+        "https://i.postimg.cc/3RJ0bJr8/Tecware-Phantom-2.png",
+        "https://i.postimg.cc/bJCSXcdQ/Tecware-Phantom-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "SteelSeries Apex Pro Mechanical Gaming Keyboard",
+      "brandName": "SteelSeries",
+      "modelName": "Apex Pro",
+      "price": {
+        "regular": 199,
+        "discount": 180,
+        "emi": 20
+      },
+      "specialFeatures": ["Adjustable Mechanical Switches", "RGB Illumination"],
+      "dimension": "436 x 139 x 40 mm",
+      "color": "Black",
+      "weight": "1.2kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "SteelSeries OmniPoint",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/Y91D8R9K/Hyper-X-Alloy-Origins-Core-1.png",
+        "https://i.postimg.cc/fRGvFd1w/Hyper-X-Alloy-Origins-Core-2.png",
+        "https://i.postimg.cc/QxNYkpZw/Hyper-X-Alloy-Origins-Core-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "HyperX Alloy FPS Pro Tenkeyless Mechanical Gaming Keyboard",
+      "brandName": "HyperX",
+      "modelName": "Alloy FPS Pro",
+      "price": {
+        "regular": 79,
+        "discount": 70,
+        "emi": 8
+      },
+      "specialFeatures": ["Compact Design", "Red LED Backlight"],
+      "dimension": "359 x 130 x 34 mm",
+      "color": "Silver",
+      "weight": "1.04kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": false,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": false,
+      "switchType": "Cherry MX Red",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 87,
+      "images": [
+        "https://i.postimg.cc/Sx2rDdTT/Keychron-Q1-1.png",
+        "https://i.postimg.cc/5NG5Yv4w/Keychron-Q1-2.png",
+        "https://i.postimg.cc/jdGNdbcc/Keychron-Q1-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "name": "Ducky One 2 Mini 60% Mechanical Gaming Keyboard",
+      "brandName": "Ducky",
+      "modelName": "One 2 Mini",
+      "price": {
+        "regular": 109,
+        "discount": 95,
+        "emi": 10
+      },
+      "specialFeatures": ["Compact 60% Layout", "Detachable USB-C Cable"],
+      "dimension": "302 x 108 x 40 mm",
+      "color": "White",
+      "weight": "0.6kg",
+      "connectorInterface": "USB-C",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Cherry MX Brown",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 61,
+      "images": [
+        "https://i.postimg.cc/hjSVW1sq/NK65-Entry-Edition-1.png",
+        "https://i.postimg.cc/wvHQxp6Z/NK65-Entry-Edition-2.png",
+        "https://i.postimg.cc/9fBqpqhg/NK65-Entry-Edition-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Cooler Master CK550 Mechanical Gaming Keyboard",
+      "brandName": "Cooler Master",
+      "modelName": "CK550",
+      "price": {
+        "regular": 89,
+        "discount": 75,
+        "emi": 9
+      },
+      "specialFeatures": ["Brushed Aluminum Design", "RGB Backlighting"],
+      "dimension": "460 x 135 x 41 mm",
+      "color": "Gunmetal Gray",
+      "weight": "850g",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Gateron Blue",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/X7ZdbJfX/Tecware-Phantom-1.png",
+        "https://i.postimg.cc/3RJ0bJr8/Tecware-Phantom-2.png",
+        "https://i.postimg.cc/bJCSXcdQ/Tecware-Phantom-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "name": "ASUS ROG Strix Scope TKL Electro Punk Mechanical Gaming Keyboard",
+      "brandName": "ASUS",
+      "modelName": "ROG Strix Scope TKL",
+      "price": {
+        "regular": 129,
+        "discount": 115,
+        "emi": 12
+      },
+      "specialFeatures": ["Compact TKL Design", "Quick-Toggle Switch"],
+      "dimension": "357 x 136 x 40 mm",
+      "color": "Electro Punk",
+      "weight": "900g",
+      "connectorInterface": "USB 3.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Cherry MX Red",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 87,
+      "images": [
+        "https://i.postimg.cc/Y91D8R9K/Hyper-X-Alloy-Origins-Core-1.png",
+        "https://i.postimg.cc/fRGvFd1w/Hyper-X-Alloy-Origins-Core-2.png",
+        "https://i.postimg.cc/QxNYkpZw/Hyper-X-Alloy-Origins-Core-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "Logitech K780 Multi-Device Wireless Keyboard",
+      "brandName": "Logitech",
+      "modelName": "K780",
+      "price": {
+        "regular": 79,
+        "discount": 65,
+        "emi": 8
+      },
+      "specialFeatures": ["Multi-Device Connectivity", "Integrated Phone Holder"],
+      "dimension": "380 x 158 x 22 mm",
+      "color": "White",
+      "weight": "875g",
+      "connectorInterface": "Wireless (Bluetooth/RF)",
+      "wired": false,
+      "switchCategory": "Membrane",
+      "RGB": false,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": false,
+      "keyboardType": "Office",
+      "numberOfKeys": 101,
+      "images": [
+        "https://i.postimg.cc/Sx2rDdTT/Keychron-Q1-1.png",
+        "https://i.postimg.cc/5NG5Yv4w/Keychron-Q1-2.png",
+        "https://i.postimg.cc/jdGNdbcc/Keychron-Q1-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Dell Alienware Pro Gaming Keyboard AW768",
+      "brandName": "Dell",
+      "modelName": "Alienware AW768",
+      "price": {
+        "regular": 119,
+        "discount": 105,
+        "emi": 11
+      },
+      "specialFeatures": ["Dedicated Macro Keys", "AlienFX RGB Lighting"],
+      "dimension": "560 x 220 x 50 mm",
+      "color": "Silver",
+      "weight": "1.36kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Kailh Brown",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 110,
+      "images": [
+        "https://i.postimg.cc/hjSVW1sq/NK65-Entry-Edition-1.png",
+        "https://i.postimg.cc/wvHQxp6Z/NK65-Entry-Edition-2.png",
+        "https://i.postimg.cc/9fBqpqhg/NK65-Entry-Edition-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "HP Pavilion 500 Membrane Gaming Keyboard",
+      "brandName": "HP",
+      "modelName": "Pavilion 500",
+      "price": {
+        "regular": 59,
+        "discount": 50,
+        "emi": 6
+      },
+      "specialFeatures": ["Membrane Switches", "Customizable LED Backlight"],
+      "dimension": "455 x 137 x 25 mm",
+      "color": "Black",
+      "weight": "800g",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Membrane",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": false,
+      "keyboardType": "Gaming",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/X7ZdbJfX/Tecware-Phantom-1.png",
+        "https://i.postimg.cc/3RJ0bJr8/Tecware-Phantom-2.png",
+        "https://i.postimg.cc/bJCSXcdQ/Tecware-Phantom-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "Corsair K70 RGB MK.2 Rapidfire Mechanical Gaming Keyboard",
+      "brandName": "Corsair",
+      "modelName": "K70 RGB MK.2 Rapidfire",
+      "price": {
+        "regular": 159,
+        "discount": 140,
+        "emi": 15
+      },
+      "specialFeatures": ["Cherry MX Speed Switches", "Aluminum Frame"],
+      "dimension": "438 x 166 x 38 mm",
+      "color": "Silver",
+      "weight": "1.25kg",
+      "connectorInterface": "USB 3.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Cherry MX Speed",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/Y91D8R9K/Hyper-X-Alloy-Origins-Core-1.png",
+        "https://i.postimg.cc/fRGvFd1w/Hyper-X-Alloy-Origins-Core-2.png",
+        "https://i.postimg.cc/QxNYkpZw/Hyper-X-Alloy-Origins-Core-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Roccat Vulcan 121 AIMO Mechanical Gaming Keyboard",
+      "brandName": "Roccat",
+      "modelName": "Vulcan 121 AIMO",
+      "price": {
+        "regular": 149,
+        "discount": 130,
+        "emi": 14
+      },
+      "specialFeatures": ["Titan Switches", "AIMO Intelligent Lighting"],
+      "dimension": "462 x 235 x 32 mm",
+      "color": "Gunmetal Black",
+      "weight": "1.15kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Titan Switch",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/Sx2rDdTT/Keychron-Q1-1.png",
+        "https://i.postimg.cc/5NG5Yv4w/Keychron-Q1-2.png",
+        "https://i.postimg.cc/jdGNdbcc/Keychron-Q1-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Logitech MX Keys Wireless Illuminated Keyboard",
+      "brandName": "Logitech",
+      "modelName": "MX Keys",
+      "price": {
+        "regular": 99,
+        "discount": 90,
+        "emi": 10
+      },
+      "specialFeatures": ["Wireless Connectivity", "Backlit Keys"],
+      "dimension": "430 x 131 x 20 mm",
+      "color": "Graphite",
+      "weight": "810g",
+      "connectorInterface": "Wireless (Bluetooth/RF)",
+      "wired": false,
+      "switchCategory": "Membrane",
+      "RGB": false,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": false,
+      "keyboardType": "Office",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/hjSVW1sq/NK65-Entry-Edition-1.png",
+        "https://i.postimg.cc/wvHQxp6Z/NK65-Entry-Edition-2.png",
+        "https://i.postimg.cc/9fBqpqhg/NK65-Entry-Edition-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "HyperX Alloy Origins Core Tenkeyless Mechanical Gaming Keyboard",
+      "brandName": "HyperX",
+      "modelName": "Alloy Origins Core",
+      "price": {
+        "regular": 99,
+        "discount": 85,
+        "emi": 9
+      },
+      "specialFeatures": ["Compact TKL Design", "HyperX Red Switches"],
+      "dimension": "360 x 132 x 34 mm",
+      "color": "Silver",
+      "weight": "900g",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "HyperX Red",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 87,
+      "images": [
+        "https://i.postimg.cc/X7ZdbJfX/Tecware-Phantom-1.png",
+        "https://i.postimg.cc/3RJ0bJr8/Tecware-Phantom-2.png",
+        "https://i.postimg.cc/bJCSXcdQ/Tecware-Phantom-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "name": "Ducky Shine 7 RGB Mechanical Gaming Keyboard",
+      "brandName": "Ducky",
+      "modelName": "Shine 7",
+      "price": {
+        "regular": 179,
+        "discount": 160,
+        "emi": 18
+      },
+      "specialFeatures": ["Cherry MX RGB Switches", "Aluminum Top Case"],
+      "dimension": "446 x 140 x 45 mm",
+      "color": "Gunmetal Gray",
+      "weight": "1.5kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Cherry MX RGB Red",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 108,
+      "images": [
+        "https://i.postimg.cc/Y91D8R9K/Hyper-X-Alloy-Origins-Core-1.png",
+        "https://i.postimg.cc/fRGvFd1w/Hyper-X-Alloy-Origins-Core-2.png",
+        "https://i.postimg.cc/QxNYkpZw/Hyper-X-Alloy-Origins-Core-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Anne Pro 2 Compact 60% Mechanical Gaming Keyboard",
+      "brandName": "Anne",
+      "modelName": "Pro 2",
+      "price": {
+        "regular": 89,
+        "discount": 75,
+        "emi": 9
+      },
+      "specialFeatures": ["Compact 60% Layout", "Wireless Bluetooth"],
+      "dimension": "286 x 99 x 40 mm",
+      "color": "White",
+      "weight": "0.8kg",
+      "connectorInterface": "Wireless (Bluetooth/USB-C)",
+      "wired": false,
+      "switchCategory": "Mechanical",
+      "RGB": true,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": true,
+      "switchType": "Gateron Brown",
+      "keyboardType": "Gaming",
+      "numberOfKeys": 61,
+      "images": [
+        "https://i.postimg.cc/Sx2rDdTT/Keychron-Q1-1.png",
+        "https://i.postimg.cc/5NG5Yv4w/Keychron-Q1-2.png",
+        "https://i.postimg.cc/jdGNdbcc/Keychron-Q1-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Dell KB216 Wired Multimedia Keyboard",
+      "brandName": "Dell",
+      "modelName": "KB216",
+      "price": {
+        "regular": 24,
+        "discount": 20,
+        "emi": 3
+      },
+      "specialFeatures": ["Multimedia Hotkeys", "Slim Design"],
+      "dimension": "456 x 150 x 23 mm",
+      "color": "Black",
+      "weight": "0.5kg",
+      "connectorInterface": "USB 2.0",
+      "wired": true,
+      "switchCategory": "Membrane",
+      "RGB": false,
+      "waterproof": false,
+      "backlit": false,
+      "programmable": false,
+      "keyboardType": "Office",
+      "numberOfKeys": 104,
+      "images": [
+        "https://i.postimg.cc/hjSVW1sq/NK65-Entry-Edition-1.png",
+        "https://i.postimg.cc/wvHQxp6Z/NK65-Entry-Edition-2.png",
+        "https://i.postimg.cc/9fBqpqhg/NK65-Entry-Edition-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "name": "Apple Magic Keyboard with Numeric Keypad",
+      "brandName": "Apple",
+      "modelName": "Magic Keyboard",
+      "price": {
+        "regular": 129,
+        "discount": 115,
+        "emi": 12
+      },
+      "specialFeatures": ["Numeric Keypad", "Bluetooth Connectivity"],
+      "dimension": "420 x 115 x 21 mm",
+      "color": "Silver",
+      "weight": "0.39kg",
+      "connectorInterface": "Wireless (Bluetooth/USB-Lightning)",
+      "wired": false,
+      "switchCategory": "Scissor Mechanism",
+      "RGB": false,
+      "waterproof": false,
+      "backlit": true,
+      "programmable": false,
+      "keyboardType": "Office",
+      "numberOfKeys": 109,
+      "images": [
+        "https://i.postimg.cc/X7ZdbJfX/Tecware-Phantom-1.png",
+        "https://i.postimg.cc/3RJ0bJr8/Tecware-Phantom-2.png",
+        "https://i.postimg.cc/bJCSXcdQ/Tecware-Phantom-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    }
+  ]
+  

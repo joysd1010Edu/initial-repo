@@ -1,0 +1,339 @@
+[
+    {
+      "name": "Logitech G560 LIGHTSYNC",
+      "brandName": "Logitech",
+      "modelName": "G560 LIGHTSYNC",
+      "price": {
+        "regular": 200,
+        "discount": 180,
+        "emi": 20
+      },
+      "specialFeatures": ["LIGHTSYNC RGB Lighting", "DTS:X Ultra Surround Sound"],
+      "surroundSound": true,
+      "color": "Black",
+      "RGB": true,
+      "speakerGrade": "High-End",
+      "connectionInterface": "USB, 3.5mm, Bluetooth",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": true,
+      "images": [
+        "https://i.postimg.cc/DypXG6sv/logitech-1.png",
+        "https://i.postimg.cc/d34T4mx9/logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Creative Pebble 2.0",
+      "brandName": "Creative",
+      "modelName": "Pebble 2.0",
+      "price": {
+        "regular": 30,
+        "discount": 25,
+        "emi": 3
+      },
+      "specialFeatures": ["Space-Saving Design", "Easy Access Volume Control"],
+      "surroundSound": false,
+      "color": "White",
+      "RGB": false,
+      "speakerGrade": "Entry-Level",
+      "connectionInterface": "3.5mm",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/xjRHfn1b/jbl-1.png",
+        "https://i.postimg.cc/JhZD9WF0/jbl-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Logitech Z313",
+      "brandName": "Logitech",
+      "modelName": "Z313",
+      "price": {
+        "regular": 50,
+        "discount": 45,
+        "emi": 4
+      },
+      "specialFeatures": ["Rich Bass", "Compact Subwoofer"],
+      "surroundSound": true,
+      "color": "Black",
+      "RGB": false,
+      "speakerGrade": "Mid-Range",
+      "connectionInterface": "3.5mm",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/DypXG6sv/logitech-1.png",
+        "https://i.postimg.cc/d34T4mx9/logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Bose Companion 2 Series III",
+      "brandName": "Bose",
+      "modelName": "Companion 2 Series III",
+      "price": {
+        "regular": 99,
+        "discount": 89,
+        "emi": 6
+      },
+      "specialFeatures": ["TrueSpace Stereo Digital Processing Circuitry", "Auxiliary Input"],
+      "surroundSound": false,
+      "color": "Silver",
+      "RGB": false,
+      "speakerGrade": "High-End",
+      "connectionInterface": "3.5mm",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/kgkR15fL/sony-1.png",
+        "https://i.postimg.cc/kXgSDz2Y/sony-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "name": "Edifier R980T",
+      "brandName": "Edifier",
+      "modelName": "R980T",
+      "price": {
+        "regular": 69,
+        "discount": 59,
+        "emi": 5
+      },
+      "specialFeatures": ["Classic Wood Finish", "Remote Control"],
+      "surroundSound": false,
+      "color": "Wood",
+      "RGB": false,
+      "speakerGrade": "Mid-Range",
+      "connectionInterface": "Dual RCA",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/Kz7Tgy7w/razer-1.png",
+        "https://i.postimg.cc/P5L8QDzm/razer-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "name": "JBL Charge 4",
+      "brandName": "JBL",
+      "modelName": "Charge 4",
+      "price": {
+        "regular": 149,
+        "discount": 139,
+        "emi": 8
+      },
+      "specialFeatures": ["Waterproof Design", "20 Hours of Playtime"],
+      "surroundSound": false,
+      "color": "Blue",
+      "RGB": false,
+      "speakerGrade": "Portable",
+      "connectionInterface": "Bluetooth",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/xjRHfn1b/jbl-1.png",
+        "https://i.postimg.cc/JhZD9WF0/jbl-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "Razer Nommo Chroma",
+      "brandName": "Razer",
+      "modelName": "Nommo Chroma",
+      "price": {
+        "regular": 149,
+        "discount": 129,
+        "emi": 7
+      },
+      "specialFeatures": ["Customizable RGB Lighting", "Dedicated Gaming Mode"],
+      "surroundSound": true,
+      "color": "Black",
+      "RGB": true,
+      "speakerGrade": "Gaming",
+      "connectionInterface": "USB",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": true,
+      "images": [
+        "https://i.postimg.cc/Kz7Tgy7w/razer-1.png",
+        "https://i.postimg.cc/P5L8QDzm/razer-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 8
+    },
+    {
+      "name": "Harman Kardon SoundSticks III",
+      "brandName": "Harman Kardon",
+      "modelName": "SoundSticks III",
+      "price": {
+        "regular": 149,
+        "discount": 129,
+        "emi": 6
+      },
+      "specialFeatures": ["Iconic Design", "Wireless Connectivity"],
+      "surroundSound": true,
+      "color": "Clear",
+      "RGB": true,
+      "speakerGrade": "High-End",
+      "connectionInterface": "Bluetooth",
+      "wired": false,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/xjRHfn1b/jbl-1.png",
+        "https://i.postimg.cc/JhZD9WF0/jbl-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Sony SRS-XB41",
+      "brandName": "Sony",
+      "modelName": "SRS-XB41",
+      "price": {
+        "regular": 179,
+        "discount": 159,
+        "emi": 7
+      },
+      "specialFeatures": ["Extra Bass", "Built-in Party Lights"],
+      "surroundSound": false,
+      "color": "Red",
+      "RGB": true,
+      "speakerGrade": "Portable",
+      "connectionInterface": "Bluetooth",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/kgkR15fL/sony-1.png",
+        "https://i.postimg.cc/kXgSDz2Y/sony-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "name": "Audioengine A5+",
+      "brandName": "Audioengine",
+      "modelName": "A5+ Wireless",
+      "price": {
+        "regular": 499,
+        "discount": 449,
+        "emi": 12
+      },
+      "specialFeatures": ["Wireless Connectivity", "Premium Sound Quality"],
+      "surroundSound": false,
+      "color": "Walnut",
+      "RGB": false,
+      "speakerGrade": "Premium",
+      "connectionInterface": "Bluetooth",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/DypXG6sv/logitech-1.png",
+        "https://i.postimg.cc/d34T4mx9/logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "name": "Corsair SP2500",
+      "brandName": "Corsair",
+      "modelName": "SP2500",
+      "price": {
+        "regular": 199,
+        "discount": 179,
+        "emi": 8
+      },
+      "specialFeatures": ["Dolby Digital 5.1", "Subwoofer with Adjustable Crossover"],
+      "surroundSound": true,
+      "color": "Black",
+      "RGB": false,
+      "speakerGrade": "Gaming",
+      "connectionInterface": "3.5mm",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": true,
+      "images": [
+        "https://i.postimg.cc/Kz7Tgy7w/razer-1.png",
+        "https://i.postimg.cc/P5L8QDzm/razer-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 17
+    },
+    {
+      "name": "Yamaha MusicCast Bar 400",
+      "brandName": "Yamaha",
+      "modelName": "MusicCast Bar 400",
+      "price": {
+        "regular": 499,
+        "discount": 449,
+        "emi": 10
+      },
+      "specialFeatures": ["Dolby Atmos", "Wireless Subwoofer"],
+      "surroundSound": true,
+      "color": "Black",
+      "RGB": false,
+      "speakerGrade": "Premium",
+      "connectionInterface": "HDMI",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/kgkR15fL/sony-1.png",
+        "https://i.postimg.cc/kXgSDz2Y/sony-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    }
+  ]
+  

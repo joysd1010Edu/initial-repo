@@ -1,0 +1,92 @@
+[
+    {
+        "name": "DeskTop",
+        "link": "desktop",
+        "id": "1",
+        "child": [
+            {
+                "name": "Desktop Offer",
+                "link": "desktop",
+                "id": "1",
+                "child": [
+                    {
+                        "submenu": "Intel PC",
+                        "link": "",
+                        "id": "1"
+                    },
+                    {
+                        "submenu": "AMD PC",
+                        "link": "",
+                        "id": "1"
+                    }
+                ]
+            },
+            {
+                "name": "Brand PC",
+                "link": "desktop",
+                "id": "1"
+            },
+            {
+                "name": "Apple iMac",
+                "link": "desktop",
+                "id": "1"
+            },
+            {
+                "name": "Mini PC",
+                "link": "desktop",
+                "id": "1"
+            },
+            
+            {
+                "name": "Show All PC",
+                "link": "desktop",
+                "id": "1"
+            }
+        ]
+    },
+    {
+        "name": "Laptop",
+        "link": "desktop",
+        "id": "1",
+        "child": [
+            {
+                "name": "Asus",
+                "link": "desktop",
+                "id": "1"
+                
+            },
+            {
+                "name": "HP",
+                "link": "desktop",
+                "id": "1"
+            },
+            {
+                "name": "Dell",
+                "link": "desktop",
+                "id": "1",
+                "child": [
+                    {
+                        "submenu": "Intel PC",
+                        "link": "",
+                        "id": "1"
+                    },
+                    {
+                        "submenu": "AMD PC",
+                        "link": "",
+                        "id": "1"
+                    }]
+            },
+            {
+                "name": "MacBook",
+                "link": "desktop",
+                "id": "1"
+            },
+            
+            {
+                "name": "ALl Laptop",
+                "link": "desktop",
+                "id": "1"
+            }
+        ]
+    }
+]

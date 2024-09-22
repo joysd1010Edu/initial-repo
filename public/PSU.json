@@ -1,0 +1,1010 @@
+[
+    {
+      "keyFeatures": {
+        "name": "Corsair RM750x",
+        "modelName": "RM750x",
+        "brandName": "Corsair",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit"],
+        "cableFeatures": ["Modular Design", "Sleeved Cables"],
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 12
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 750,
+        "certification": "Corsair Link Compatible"
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "10A",
+        "modularType": "Fully Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "150 x 86 x 160mm",
+        "weight": "2.5 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 7,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/vB4fJ37K/ASUS-ROG-Thor-850-W-1.png",
+        "https://i.postimg.cc/pT3zRzqL/ASUS-ROG-Thor-850-W-2.png",
+        "https://i.postimg.cc/tJPPTJMt/ASUS-ROG-Thor-850-W-3.png"
+      ],
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "EVGA SuperNOVA 850 G3",
+        "modelName": "SuperNOVA 850 G3",
+        "brandName": "EVGA",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Single Sleeved Cables"],
+        "price": {
+          "regular": 150,
+          "discount": 140,
+          "emi": 15
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 130,
+        "totalWatt": 850,
+        "certification": "ECO Mode"
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "12A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "150 x 85 x 150mm",
+        "weight": "2.8 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/bwRxkGNm/be-quiet-Straight-Power-11-850-W-1.png",
+        "https://i.postimg.cc/L8SkJkRq/be-quiet-Straight-Power-11-850-W-2.png",
+        "https://i.postimg.cc/fW0Y5qRt/be-quiet-Straight-Power-11-850-W-3.png"
+        
+      ],
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "EVGA SuperNOVA 850 G3",
+        "modelName": "SuperNOVA 850 G3",
+        "brandName": "EVGA",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Sleeved Cables"],
+        "price": {
+          "regular": 150,
+          "discount": 140,
+          "emi": 15
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 130,
+        "totalWatt": 850,
+        "certification": "EVGA ECO Mode",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "12A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 85 x 150mm",
+        "weight": "2.8 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/KYqtpdTL/Cooler-Master-V850-SFX-Gold-1.png",
+        "https://i.postimg.cc/rFXxHGDh/Cooler-Master-V850-SFX-Gold-2.png",
+        "https://i.postimg.cc/hGP9rSXc/Cooler-Master-V850-SFX-Gold-3.png"
+      ],
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "name": "Cooler Master MWE Gold 650 V2",
+        "modelName": "MWE Gold 650 V2",
+        "brandName": "Cooler Master",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Semi-Modular", "Flat Cables"],
+        "price": {
+          "regular": 85,
+          "discount": 78,
+          "emi": 10
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 650,
+        "certification": "ErP 2013",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "8A",
+        "modularType": "Semi-Modular",
+        "outputWatt": 650,
+        "manufacturingDetails": "Made in Malaysia",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "140 x 86 x 150mm",
+        "weight": "2.2 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/W1SZtQXK/Corsair-RMx-1000-W-1.png",
+        "https://i.postimg.cc/5NBLWHvf/Corsair-RMx-1000-W-2.png",
+        "https://i.postimg.cc/htKxDSbT/Corsair-RMx-1000-W-3.png"
+      ],
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Seasonic Focus GX-750",
+        "modelName": "Focus GX-750",
+        "brandName": "Seasonic",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Cables"],
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 13
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 750,
+        "certification": "Hybrid Silent Fan Control",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "10A",
+        "modularType": "Fully Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 86 x 150mm",
+        "weight": "2.4 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/vB4fJ37K/ASUS-ROG-Thor-850-W-1.png",
+        "https://i.postimg.cc/pT3zRzqL/ASUS-ROG-Thor-850-W-2.png",
+        "https://i.postimg.cc/tJPPTJMt/ASUS-ROG-Thor-850-W-3.png"
+      ],
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "Seasonic Focus GX-750",
+        "modelName": "Focus GX-750",
+        "brandName": "Seasonic",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Cables"],
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 13
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 750,
+        "certification": "Hybrid Silent Fan Control",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "10A",
+        "modularType": "Fully Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 86 x 150mm",
+        "weight": "2.4 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/bwRxkGNm/be-quiet-Straight-Power-11-850-W-1.png",
+        "https://i.postimg.cc/L8SkJkRq/be-quiet-Straight-Power-11-850-W-2.png",
+        "https://i.postimg.cc/fW0Y5qRt/be-quiet-Straight-Power-11-850-W-3.png"
+      ],
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "NZXT C750",
+        "modelName": "C750",
+        "brandName": "NZXT",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit"],
+        "cableFeatures": ["Fully Modular", "Customizable Individually Sleeved Cables"],
+        "price": {
+          "regular": 140,
+          "discount": 130,
+          "emi": 14
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 750,
+        "certification": "CAM-powered Digital RGB Lighting",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "12A",
+        "modularType": "Fully Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "150 x 85 x 160mm",
+        "weight": "2.6 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 7,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/KYqtpdTL/Cooler-Master-V850-SFX-Gold-1.png",
+        "https://i.postimg.cc/rFXxHGDh/Cooler-Master-V850-SFX-Gold-2.png",
+        "https://i.postimg.cc/hGP9rSXc/Cooler-Master-V850-SFX-Gold-3.png"
+      ],
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Thermaltake Toughpower GF1 750W",
+        "modelName": "Toughpower GF1 750W",
+        "brandName": "Thermaltake",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Cables"],
+        "price": {
+          "regular": 125,
+          "discount": 115,
+          "emi": 12.5
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 140,
+        "totalWatt": 750,
+        "certification": "RGB Sync",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "11A",
+        "modularType": "Fully Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 87 x 150mm",
+        "weight": "2.3 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/W1SZtQXK/Corsair-RMx-1000-W-1.png",
+        "https://i.postimg.cc/5NBLWHvf/Corsair-RMx-1000-W-2.png",
+        "https://i.postimg.cc/htKxDSbT/Corsair-RMx-1000-W-3.png"
+      ],
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "name": "Antec Earthwatts Gold Pro 750W",
+        "modelName": "Earthwatts Gold Pro 750W",
+        "brandName": "Antec",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Semi-Modular", "Flat Cables"],
+        "price": {
+          "regular": 95,
+          "discount": 88,
+          "emi": 10.5
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 750,
+        "certification": "AQ3 Antec Quality 3-year warranty",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "9A",
+        "modularType": "Semi-Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "150 x 86 x 140mm",
+        "weight": "2.1 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/vB4fJ37K/ASUS-ROG-Thor-850-W-1.png",
+        "https://i.postimg.cc/pT3zRzqL/ASUS-ROG-Thor-850-W-2.png",
+        "https://i.postimg.cc/tJPPTJMt/ASUS-ROG-Thor-850-W-3.png"
+      ],
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "be quiet! Straight Power 11 850W Platinum",
+        "modelName": "Straight Power 11 850W",
+        "brandName": "be quiet!",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Sleeved Cables"],
+        "price": {
+          "regular": 180,
+          "discount": 170,
+          "emi": 18
+        },
+        "efficiency": "80 PLUS Platinum",
+        "fanSize": 135,
+        "totalWatt": 850,
+        "certification": "Silent Wings 3 Fan",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "10A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in Germany",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "170 x 85 x 150mm",
+        "weight": "2.7 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 7,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/bwRxkGNm/be-quiet-Straight-Power-11-850-W-1.png",
+        "https://i.postimg.cc/L8SkJkRq/be-quiet-Straight-Power-11-850-W-2.png",
+        "https://i.postimg.cc/fW0Y5qRt/be-quiet-Straight-Power-11-850-W-3.png"
+      ],
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "SilverStone Strider Gold S Series 750W",
+        "modelName": "Strider Gold S 750W",
+        "brandName": "SilverStone",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Cables"],
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 12
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 750,
+        "certification": "Compact Design",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "9A",
+        "modularType": "Fully Modular",
+        "outputWatt": 750,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "140 x 86 x 150mm",
+        "weight": "2.3 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/KYqtpdTL/Cooler-Master-V850-SFX-Gold-1.png",
+        "https://i.postimg.cc/rFXxHGDh/Cooler-Master-V850-SFX-Gold-2.png",
+        "https://i.postimg.cc/hGP9rSXc/Cooler-Master-V850-SFX-Gold-3.png"
+      ],
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Deepcool DQ850-M-V2L WH 850W",
+        "modelName": "DQ850-M-V2L",
+        "brandName": "Deepcool",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Semi-Modular", "Flat Cables"],
+        "price": {
+          "regular": 95,
+          "discount": 88,
+          "emi": 10.5
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 850,
+        "certification": "Active Power Factor Correction",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "11A",
+        "modularType": "Semi-Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "150 x 85 x 160mm",
+        "weight": "2.4 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/W1SZtQXK/Corsair-RMx-1000-W-1.png",
+        "https://i.postimg.cc/5NBLWHvf/Corsair-RMx-1000-W-2.png",
+        "https://i.postimg.cc/htKxDSbT/Corsair-RMx-1000-W-3.png"
+      ],
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Gigabyte AORUS P850W 80+ Gold",
+        "modelName": "AORUS P850W",
+        "brandName": "Gigabyte",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Customizable RGB Lighting"],
+        "price": {
+          "regular": 160,
+          "discount": 150,
+          "emi": 16
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 135,
+        "totalWatt": 850,
+        "certification": "Smart Fan Control",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "10A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 87 x 150mm",
+        "weight": "2.5 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 7,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/vB4fJ37K/ASUS-ROG-Thor-850-W-1.png",
+        "https://i.postimg.cc/pT3zRzqL/ASUS-ROG-Thor-850-W-2.png",
+        "https://i.postimg.cc/tJPPTJMt/ASUS-ROG-Thor-850-W-3.png"
+      ],
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "name": "ASUS ROG Thor 850W Platinum",
+        "modelName": "ROG Thor 850W",
+        "brandName": "ASUS",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Sleeved Cables"],
+        "price": {
+          "regular": 200,
+          "discount": 190,
+          "emi": 20
+        },
+        "efficiency": "80 PLUS Platinum",
+        "fanSize": 135,
+        "totalWatt": 850,
+        "certification": "Aura Sync RGB Lighting",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "11A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "170 x 85 x 150mm",
+        "weight": "2.8 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/bwRxkGNm/be-quiet-Straight-Power-11-850-W-1.png",
+        "https://i.postimg.cc/L8SkJkRq/be-quiet-Straight-Power-11-850-W-2.png",
+        "https://i.postimg.cc/fW0Y5qRt/be-quiet-Straight-Power-11-850-W-3.png"
+      ],
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Rosewill Photon 1200W 80+ Gold",
+        "modelName": "Photon 1200W",
+        "brandName": "Rosewill",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Black Cables"],
+        "price": {
+          "regular": 180,
+          "discount": 170,
+          "emi": 18
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 135,
+        "totalWatt": 1200,
+        "certification": "Silent 135mm Fan",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "15A",
+        "modularType": "Fully Modular",
+        "outputWatt": 1200,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "180 x 85 x 150mm",
+        "weight": "3.2 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/KYqtpdTL/Cooler-Master-V850-SFX-Gold-1.png",
+        "https://i.postimg.cc/rFXxHGDh/Cooler-Master-V850-SFX-Gold-2.png",
+        "https://i.postimg.cc/hGP9rSXc/Cooler-Master-V850-SFX-Gold-3.png"
+      ],
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "Corsair AX1000 80+ Titanium",
+        "modelName": "AX1000",
+        "brandName": "Corsair",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Individually Sleeved Cables"],
+        "price": {
+          "regular": 300,
+          "discount": 280,
+          "emi": 30
+        },
+        "efficiency": "80 PLUS Titanium",
+        "fanSize": 140,
+        "totalWatt": 1000,
+        "certification": "Zero RPM Fan Mode",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "12A",
+        "modularType": "Fully Modular",
+        "outputWatt": 1000,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "190 x 87 x 150mm",
+        "weight": "3.5 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 10,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/W1SZtQXK/Corsair-RMx-1000-W-1.png",
+        "https://i.postimg.cc/5NBLWHvf/Corsair-RMx-1000-W-2.png",
+        "https://i.postimg.cc/htKxDSbT/Corsair-RMx-1000-W-3.png"
+      ],
+      "quantity": 12
+    },
+    {
+      "keyFeatures": {
+        "name": "Cooler Master V850 Gold V2",
+        "modelName": "V850 Gold V2",
+        "brandName": "Cooler Master",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Cables"],
+        "price": {
+          "regular": 150,
+          "discount": 140,
+          "emi": 15
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 135,
+        "totalWatt": 850,
+        "certification": "Quiet Operation",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "10A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 85 x 150mm",
+        "weight": "2.9 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 7,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/vB4fJ37K/ASUS-ROG-Thor-850-W-1.png",
+        "https://i.postimg.cc/pT3zRzqL/ASUS-ROG-Thor-850-W-2.png",
+        "https://i.postimg.cc/tJPPTJMt/ASUS-ROG-Thor-850-W-3.png"
+      ],
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Thermaltake Toughpower iRGB Plus 1250W",
+        "modelName": "Toughpower iRGB Plus 1250W",
+        "brandName": "Thermaltake",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "RGB Lighting"],
+        "price": {
+          "regular": 220,
+          "discount": 200,
+          "emi": 22
+        },
+        "efficiency": "80 PLUS Platinum",
+        "fanSize": 140,
+        "totalWatt": 1250,
+        "certification": "Riing Plus RGB Fan",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "16A",
+        "modularType": "Fully Modular",
+        "outputWatt": 1250,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "200 x 87 x 150mm",
+        "weight": "3.8 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/bwRxkGNm/be-quiet-Straight-Power-11-850-W-1.png",
+        "https://i.postimg.cc/L8SkJkRq/be-quiet-Straight-Power-11-850-W-2.png",
+        "https://i.postimg.cc/fW0Y5qRt/be-quiet-Straight-Power-11-850-W-3.png"
+      ],
+      "quantity": 14
+    },
+    {
+      "keyFeatures": {
+        "name": "Deepcool Gamer Storm DQ1000-M-V2L 1000W",
+        "modelName": "DQ1000-M-V2L",
+        "brandName": "Deepcool",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Semi-Modular", "Flat Cables"],
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 13
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 120,
+        "totalWatt": 1000,
+        "certification": "Hybrid Fan",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "14A",
+        "modularType": "Semi-Modular",
+        "outputWatt": 1000,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 85 x 150mm",
+        "weight": "3.0 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/KYqtpdTL/Cooler-Master-V850-SFX-Gold-1.png",
+        "https://i.postimg.cc/rFXxHGDh/Cooler-Master-V850-SFX-Gold-2.png",
+        "https://i.postimg.cc/hGP9rSXc/Cooler-Master-V850-SFX-Gold-3.png"
+      ],
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "AORUS P1200W 80+ Platinum",
+        "modelName": "AORUS P1200W",
+        "brandName": "AORUS",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Customizable RGB Lighting"],
+        "price": {
+          "regular": 250,
+          "discount": 230,
+          "emi": 25
+        },
+        "efficiency": "80 PLUS Platinum",
+        "fanSize": 140,
+        "totalWatt": 1200,
+        "certification": "Smart Power Sensor",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "15A",
+        "modularType": "Fully Modular",
+        "outputWatt": 1200,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "170 x 87 x 160mm",
+        "weight": "3.5 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 7,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/W1SZtQXK/Corsair-RMx-1000-W-1.png",
+        "https://i.postimg.cc/5NBLWHvf/Corsair-RMx-1000-W-2.png",
+        "https://i.postimg.cc/htKxDSbT/Corsair-RMx-1000-W-3.png"
+      ],
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Fractal Design Ion+ 860P 860W Platinum",
+        "modelName": "Ion+ 860P",
+        "brandName": "Fractal Design",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Flat Cables"],
+        "price": {
+          "regular": 170,
+          "discount": 160,
+          "emi": 17
+        },
+        "efficiency": "80 PLUS Platinum",
+        "fanSize": 140,
+        "totalWatt": 860,
+        "certification": "UltraFlex Cables",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "13A",
+        "modularType": "Fully Modular",
+        "outputWatt": 860,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 85 x 150mm",
+        "weight": "3.0 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/vB4fJ37K/ASUS-ROG-Thor-850-W-1.png",
+        "https://i.postimg.cc/pT3zRzqL/ASUS-ROG-Thor-850-W-2.png",
+        "https://i.postimg.cc/tJPPTJMt/ASUS-ROG-Thor-850-W-3.png"
+      ],
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "ROG Strix 850G 850W Gold",
+        "modelName": "ROG Strix 850G",
+        "brandName": "ASUS",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Sleeved Cables"],
+        "price": {
+          "regular": 200,
+          "discount": 190,
+          "emi": 20
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 135,
+        "totalWatt": 850,
+        "certification": "Axial-tech Fan Design",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "12A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "170 x 87 x 150mm",
+        "weight": "2.9 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/bwRxkGNm/be-quiet-Straight-Power-11-850-W-1.png",
+        "https://i.postimg.cc/L8SkJkRq/be-quiet-Straight-Power-11-850-W-2.png",
+        "https://i.postimg.cc/fW0Y5qRt/be-quiet-Straight-Power-11-850-W-3.png"
+      ],
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Seasonic PRIME GX-1000 80+ Gold",
+        "modelName": "PRIME GX-1000",
+        "brandName": "Seasonic",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Sleeved Cables"],
+        "price": {
+          "regular": 250,
+          "discount": 240,
+          "emi": 25
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 135,
+        "totalWatt": 1000,
+        "certification": "Premium Hybrid Fan Control",
+        "rgbLighting": false
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "14A",
+        "modularType": "Fully Modular",
+        "outputWatt": 1000,
+        "manufacturingDetails": "Made in Taiwan",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "180 x 85 x 150mm",
+        "weight": "3.2 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 10,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/KYqtpdTL/Cooler-Master-V850-SFX-Gold-1.png",
+        "https://i.postimg.cc/rFXxHGDh/Cooler-Master-V850-SFX-Gold-2.png",
+        "https://i.postimg.cc/hGP9rSXc/Cooler-Master-V850-SFX-Gold-3.png"
+      ],
+      "quantity": 17
+    },
+    {
+      "keyFeatures": {
+        "name": "NZXT C850 850W 80+ Gold",
+        "modelName": "C850",
+        "brandName": "NZXT",
+        "protectionDetails": ["Over Voltage", "Over Current", "Short Circuit", "Under Voltage"],
+        "cableFeatures": ["Fully Modular", "Individually Sleeved Cables"],
+        "price": {
+          "regular": 160,
+          "discount": 150,
+          "emi": 16
+        },
+        "efficiency": "80 PLUS Gold",
+        "fanSize": 135,
+        "totalWatt": 850,
+        "certification": "CAM-powered Digital RGB Lighting",
+        "rgbLighting": true
+      },
+      "voltage": {
+        "inputVoltage": "100-240V",
+        "frequency": "50-60Hz",
+        "currentFlow": "11A",
+        "modularType": "Fully Modular",
+        "outputWatt": 850,
+        "manufacturingDetails": "Made in China",
+        "connectorFeatures": ["ATX", "EPS", "PCIe", "SATA", "Peripheral"]
+      },
+      "physicalDimension": {
+        "dimension": "160 x 87 x 150mm",
+        "weight": "2.8 kg"
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "images": [
+        "https://i.postimg.cc/W1SZtQXK/Corsair-RMx-1000-W-1.png",
+        "https://i.postimg.cc/5NBLWHvf/Corsair-RMx-1000-W-2.png",
+        "https://i.postimg.cc/htKxDSbT/Corsair-RMx-1000-W-3.png"
+      ],
+      "quantity": 22
+    }
+  ]
+  

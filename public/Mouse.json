@@ -1,0 +1,723 @@
+[
+    {
+      "name": "Logitech G502 HERO",
+      "brandName": "Logitech",
+      "modelName": "G502 HERO",
+      "price": {
+        "regular": 70,
+        "discount": 60,
+        "emi": 7
+      },
+      "numberOfKeys": 11,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 200
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "100 - 16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 11,
+      "color": "Black",
+      "acceleration": "40G",
+      "batteryLife": "N/A",
+      "weight": "121g",
+      "dimensions": "132 x 75 x 40 mm",
+      "images": [
+        "https://i.postimg.cc/x1SGmB1p/Logitech-1.png",
+"https://i.postimg.cc/zvgWbkZ1/Logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "Razer DeathAdder Elite",
+      "brandName": "Razer",
+      "modelName": "DeathAdder Elite",
+      "price": {
+        "regular": 60,
+        "discount": 50,
+        "emi": 6
+      },
+      "numberOfKeys": 7,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 7,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "105g",
+      "dimensions": "127 x 70 x 44 mm",
+      "images": [
+        "https://i.postimg.cc/h4614DjN/Razer-1.png",
+"https://i.postimg.cc/Y9jQkHd0/Razer-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Logitech G Pro X Superlight",
+      "brandName": "Logitech",
+      "modelName": "G Pro X Superlight",
+      "price": {
+        "regular": 149,
+        "discount": 129,
+        "emi": 12
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 25600,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": false,
+      "resolution": "25600 DPI",
+      "connectionType": "Wireless",
+      "numberOfButtons": 6,
+      "color": "White",
+      "acceleration": "40G",
+      "batteryLife": "70 hours",
+      "weight": "63g",
+      "dimensions": "125 x 63.5 x 40 mm",
+      "images": [
+        "https://i.postimg.cc/x1SGmB1p/Logitech-1.png",
+"https://i.postimg.cc/zvgWbkZ1/Logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Corsair Dark Core RGB/SE",
+      "brandName": "Corsair",
+      "modelName": "Dark Core RGB/SE",
+      "price": {
+        "regular": 89,
+        "discount": 75,
+        "emi": 8
+      },
+      "numberOfKeys": 9,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wireless",
+      "numberOfButtons": 9,
+      "color": "Gunmetal Black",
+      "acceleration": "50G",
+      "batteryLife": "24 hours",
+      "weight": "128g",
+      "dimensions": "127 x 70 x 44 mm",
+      "images": [
+        "https://i.postimg.cc/k4ZKgpHc/Corsair-1.png",
+"https://i.postimg.cc/jjMyG5QB/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "name": "SteelSeries Rival 600",
+      "brandName": "SteelSeries",
+      "modelName": "Rival 600",
+      "price": {
+        "regular": 79,
+        "discount": 69,
+        "emi": 6
+      },
+      "numberOfKeys": 7,
+      "dpiRange": {
+        "highest": 12000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "12000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 7,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "96g",
+      "dimensions": "131 x 69 x 43 mm",
+      "images": [
+        "https://i.postimg.cc/Nj76kbys/Glorious-1.png",
+"https://i.postimg.cc/yYRXk7sS/Glorious-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "ASUS ROG Gladius II",
+      "brandName": "ASUS",
+      "modelName": "ROG Gladius II",
+      "price": {
+        "regular": 69,
+        "discount": 59,
+        "emi": 6
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 12000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": false,
+      "resolution": "12000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 6,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "110g",
+      "dimensions": "126 x 67 x 45 mm",
+      "images": [
+        "https://i.postimg.cc/K4hTngx3/ASUS-1.png",
+"https://i.postimg.cc/VspWfJQ8/ASUS-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "name": "HP Omen Reactor",
+      "brandName": "HP",
+      "modelName": "Omen Reactor",
+      "price": {
+        "regular": 54,
+        "discount": 45,
+        "emi": 5
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 200
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 6,
+      "color": "Red/Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "135g",
+      "dimensions": "130 x 67 x 40 mm",
+      "images": [
+        "https://i.postimg.cc/Nj76kbys/Glorious-1.png",
+"https://i.postimg.cc/yYRXk7sS/Glorious-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Logitech MX Master 3",
+      "brandName": "Logitech",
+      "modelName": "MX Master 3",
+      "price": {
+        "regular": 99,
+        "discount": 89,
+        "emi": 10
+      },
+      "numberOfKeys": 7,
+      "dpiRange": {
+        "highest": 4000,
+        "lowest": 200
+      },
+      "RGB": false,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "4000 DPI",
+      "connectionType": "Wireless",
+      "numberOfButtons": 7,
+      "color": "Graphite",
+      "acceleration": "40G",
+      "batteryLife": "70 days",
+      "weight": "141g",
+      "dimensions": "124 x 84 x 51 mm",
+      "images": [
+        "https://i.postimg.cc/x1SGmB1p/Logitech-1.png",
+        "https://i.postimg.cc/zvgWbkZ1/Logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 8
+    },
+    {
+      "name": "Corsair Harpoon RGB Wireless",
+      "brandName": "Corsair",
+      "modelName": "Harpoon RGB Wireless",
+      "price": {
+        "regular": 59,
+        "discount": 49,
+        "emi": 6
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 10000,
+        "lowest": 200
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": false,
+      "resolution": "10000 DPI",
+      "connectionType": "Wireless",
+      "numberOfButtons": 6,
+      "color": "Black",
+      "acceleration": "30G",
+      "batteryLife": "30 hours",
+      "weight": "99g",
+      "dimensions": "115 x 68 x 40 mm",
+      "images": [
+        "https://i.postimg.cc/k4ZKgpHc/Corsair-1.png",
+"https://i.postimg.cc/jjMyG5QB/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 14
+    },
+    {
+      "name": "Roccat Kone AIMO",
+      "brandName": "Roccat",
+      "modelName": "Kone AIMO",
+      "price": {
+        "regular": 79,
+        "discount": 69,
+        "emi": 8
+      },
+      "numberOfKeys": 12,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 12,
+      "color": "White",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "130g",
+      "dimensions": "125 x 78 x 42 mm",
+      "images": [
+        "https://i.postimg.cc/Nj76kbys/Glorious-1.png",
+"https://i.postimg.cc/yYRXk7sS/Glorious-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 11
+    },
+    {
+      "name": "Microsoft Intellimouse Explorer",
+      "brandName": "Microsoft",
+      "modelName": "Intellimouse Explorer",
+      "price": {
+        "regular": 49,
+        "discount": 39,
+        "emi": 5
+      },
+      "numberOfKeys": 5,
+      "dpiRange": {
+        "highest": 3200,
+        "lowest": 200
+      },
+      "RGB": false,
+      "programmable": true,
+      "standard": true,
+      "laser": false,
+      "resolution": "3200 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 5,
+      "color": "Gray",
+      "acceleration": "30G",
+      "batteryLife": "N/A",
+      "weight": "100g",
+      "dimensions": "129 x 67 x 38 mm",
+      "images": [
+        "https://i.postimg.cc/Nj76kbys/Glorious-1.png",
+        "https://i.postimg.cc/yYRXk7sS/Glorious-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 17
+    },
+    {
+      "name": "Razer Naga Trinity",
+      "brandName": "Razer",
+      "modelName": "Naga Trinity",
+      "price": {
+        "regular": 99,
+        "discount": 89,
+        "emi": 10
+      },
+      "numberOfKeys": 19,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 19,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "120g",
+      "dimensions": "119 x 74 x 43 mm",
+      "images": [
+        "https://i.postimg.cc/h4614DjN/Razer-1.png",
+"https://i.postimg.cc/Y9jQkHd0/Razer-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 13
+    },
+    {
+      "name": "SteelSeries Sensei Ten",
+      "brandName": "SteelSeries",
+      "modelName": "Sensei Ten",
+      "price": {
+        "regular": 79,
+        "discount": 69,
+        "emi": 8
+      },
+      "numberOfKeys": 8,
+      "dpiRange": {
+        "highest": 18000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "18000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 8,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "92g",
+      "dimensions": "125 x 69 x 39 mm",
+      "images": [
+        "https://i.postimg.cc/QM8p455p/Zowie-1.png",
+"https://i.postimg.cc/ZYCLhBTr/Zowie-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 16
+    },
+    {
+      "name": "Logitech G502 HERO",
+      "brandName": "Logitech",
+      "modelName": "G502 HERO",
+      "price": {
+        "regular": 79,
+        "discount": 69,
+        "emi": 8
+      },
+      "numberOfKeys": 11,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 200
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 11,
+      "color": "Black",
+      "acceleration": "40G",
+      "batteryLife": "N/A",
+      "weight": "121g",
+      "dimensions": "132 x 75 x 40 mm",
+      "images": [
+        "https://i.postimg.cc/x1SGmB1p/Logitech-1.png",
+"https://i.postimg.cc/zvgWbkZ1/Logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Corsair Ironclaw RGB",
+      "brandName": "Corsair",
+      "modelName": "Ironclaw RGB",
+      "price": {
+        "regular": 69,
+        "discount": 59,
+        "emi": 6
+      },
+      "numberOfKeys": 7,
+      "dpiRange": {
+        "highest": 18000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "18000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 7,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "105g",
+      "dimensions": "130 x 80 x 45 mm",
+      "images": [
+        "https://i.postimg.cc/k4ZKgpHc/Corsair-1.png",
+"https://i.postimg.cc/jjMyG5QB/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "HyperX Pulsefire FPS Pro",
+      "brandName": "HyperX",
+      "modelName": "Pulsefire FPS Pro",
+      "price": {
+        "regular": 59,
+        "discount": 49,
+        "emi": 6
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 200
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 6,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "95g",
+      "dimensions": "127 x 71 x 41 mm",
+      "images": [
+        "https://i.postimg.cc/QM8p455p/Zowie-1.png",
+"https://i.postimg.cc/ZYCLhBTr/Zowie-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "ASUS TUF Gaming M5",
+      "brandName": "ASUS",
+      "modelName": "TUF Gaming M5",
+      "price": {
+        "regular": 49,
+        "discount": 39,
+        "emi": 5
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 6200,
+        "lowest": 200
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "6200 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 6,
+      "color": "Gunmetal Gray",
+      "acceleration": "30G",
+      "batteryLife": "N/A",
+      "weight": "85g",
+      "dimensions": "115 x 62 x 39 mm",
+      "images": [
+        "https://i.postimg.cc/K4hTngx3/ASUS-1.png",
+"https://i.postimg.cc/VspWfJQ8/ASUS-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 14
+    },
+    {
+      "name": "Corsair M65 RGB Elite",
+      "brandName": "Corsair",
+      "modelName": "M65 RGB Elite",
+      "price": {
+        "regular": 59,
+        "discount": 49,
+        "emi": 6
+      },
+      "numberOfKeys": 8,
+      "dpiRange": {
+        "highest": 18000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": true,
+      "resolution": "18000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 8,
+      "color": "Black",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "97g",
+      "dimensions": "116 x 76 x 39 mm",
+      "images": [
+        "https://i.postimg.cc/k4ZKgpHc/Corsair-1.png",
+"https://i.postimg.cc/jjMyG5QB/Corsair-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 16
+    },
+    {
+      "name": "Roccat Kain 120 AIMO",
+      "brandName": "Roccat",
+      "modelName": "Kain 120 AIMO",
+      "price": {
+        "regular": 69,
+        "discount": 59,
+        "emi": 6
+      },
+      "numberOfKeys": 6,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 100
+      },
+      "RGB": true,
+      "programmable": true,
+      "standard": true,
+      "laser": false,
+      "resolution": "16000 DPI",
+      "connectionType": "Wired",
+      "numberOfButtons": 6,
+      "color": "Gray",
+      "acceleration": "50G",
+      "batteryLife": "N/A",
+      "weight": "105g",
+      "dimensions": "126 x 72 x 42 mm",
+      "images": [
+        "https://i.postimg.cc/QM8p455p/Zowie-1.png",
+"https://i.postimg.cc/ZYCLhBTr/Zowie-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 14
+    },
+    {
+      "name": "Logitech G604 LIGHTSPEED",
+      "brandName": "Logitech",
+      "modelName": "G604 LIGHTSPEED",
+      "price": {
+        "regular": 99,
+        "discount": 89,
+        "emi": 10
+      },
+      "numberOfKeys": 15,
+      "dpiRange": {
+        "highest": 16000,
+        "lowest": 200
+      },
+      "RGB": false,
+      "programmable": true,
+      "standard": true,
+      "laser": false,
+      "resolution": "16000 DPI",
+      "connectionType": "Wireless",
+      "numberOfButtons": 15,
+      "color": "Black",
+      "acceleration": "40G",
+      "batteryLife": "240 hours",
+      "weight": "135g",
+      "dimensions": "130 x 80 x 45 mm",
+      "images": [
+        "https://i.postimg.cc/x1SGmB1p/Logitech-1.png",
+"https://i.postimg.cc/zvgWbkZ1/Logitech-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    }
+  ]
+  

@@ -1,0 +1,352 @@
+[
+    {
+      "name": "Cooler Master Hyper 212 RGB",
+      "brandName": "Cooler Master",
+      "modelName": "Hyper 212 RGB",
+      "price": {
+        "regular": 100,
+        "discount": 90,
+        "emi": 10
+      },
+      "noiseLevel": "26 dBA",
+      "airflow": 57,
+      "fanSpeed": 1600,
+      "connector": "4-Pin",
+      "inputCurrent": "0.37A",
+      "cableLength": "240mm",
+      "weight": "530g",
+      "size": "120 x 79.6 x 158.8 mm",
+      "RGB": true,
+      "specialFeatures": ["Direct Contact Technology", "Precise Air Flow"],
+      "images": [
+        "https://i.postimg.cc/hGGKJPbm/Arctic-P12-PWM-PST-1.png",
+"https://i.postimg.cc/YSjwrDMf/Arctic-P12-PWM-PST-2.png"
+       
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "NZXT Kraken X63",
+      "brandName": "NZXT",
+      "modelName": "Kraken X63",
+      "price": {
+        "regular": 140,
+        "discount": 130,
+        "emi": 12
+      },
+      "noiseLevel": "36 dBA",
+      "airflow": 98,
+      "fanSpeed": 800,
+      "connector": "4-Pin PWM",
+      "inputCurrent": "0.36A",
+      "cableLength": "400mm",
+      "weight": "1.29kg",
+      "size": "138.4 x 122.4 x 27 mm",
+      "RGB": true,
+      "specialFeatures": ["Advanced Lighting Modes", "CAM Software Control"],
+      "images": [
+        "https://i.postimg.cc/KjP6qdDF/Cooler-Master-1.png",
+"https://i.postimg.cc/KcTx3WL0/Cooler-Master-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "NZXT H510i",
+      "brandName": "NZXT",
+      "modelName": "H510i",
+      "price": {
+        "regular": 120,
+        "discount": 110,
+        "emi": 12
+      },
+      "noiseLevel": "28 dBA",
+      "airflow": 68,
+      "fanSpeed": 1500,
+      "connector": "3-Pin",
+      "inputCurrent": "0.45A",
+      "cableLength": "300mm",
+      "weight": "750g",
+      "size": "210 x 460 x 428 mm",
+      "RGB": true,
+      "specialFeatures": ["Smart Device V2", "Cable Management System"],
+      "images": [
+        "https://i.postimg.cc/P5Xjcr77/Thermaltake-1.png",
+"https://i.postimg.cc/bJ7PF0X0/Thermaltake-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Corsair Crystal 570X RGB",
+      "brandName": "Corsair",
+      "modelName": "Crystal 570X RGB",
+      "price": {
+        "regular": 180,
+        "discount": 160,
+        "emi": 15
+      },
+      "noiseLevel": "25 dBA",
+      "airflow": 80,
+      "fanSpeed": 1700,
+      "connector": "4-Pin",
+      "inputCurrent": "0.40A",
+      "cableLength": "280mm",
+      "weight": "950g",
+      "size": "234 x 512 x 480 mm",
+      "RGB": true,
+      "specialFeatures": ["Tempered Glass Panels", "Dual-Chamber Layout"],
+      "images": [
+        "https://i.postimg.cc/hGGKJPbm/Arctic-P12-PWM-PST-1.png",
+"https://i.postimg.cc/YSjwrDMf/Arctic-P12-PWM-PST-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "Thermaltake View 71 RGB",
+      "brandName": "Thermaltake",
+      "modelName": "View 71 RGB",
+      "price": {
+        "regular": 200,
+        "discount": 180,
+        "emi": 18
+      },
+      "noiseLevel": "30 dBA",
+      "airflow": 75,
+      "fanSpeed": 1600,
+      "connector": "3-Pin",
+      "inputCurrent": "0.38A",
+      "cableLength": "300mm",
+      "weight": "850g",
+      "size": "230 x 525 x 510 mm",
+      "RGB": true,
+      "specialFeatures": ["5mm Thick Tempered Glass", "Vertical GPU Mount"],
+      "images": [
+        "https://i.postimg.cc/KjP6qdDF/Cooler-Master-1.png",
+"https://i.postimg.cc/KcTx3WL0/Cooler-Master-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "Phanteks Eclipse P400S",
+      "brandName": "Phanteks",
+      "modelName": "Eclipse P400S",
+      "price": {
+        "regular": 90,
+        "discount": 80,
+        "emi": 9
+      },
+      "noiseLevel": "22 dBA",
+      "airflow": 65,
+      "fanSpeed": 1500,
+      "connector": "4-Pin",
+      "inputCurrent": "0.35A",
+      "cableLength": "250mm",
+      "weight": "700g",
+      "size": "210 x 470 x 470 mm",
+      "RGB": true,
+      "specialFeatures": ["Soundproofing Panels", "PWM Hub"],
+      "images": [
+        "https://i.postimg.cc/P5Xjcr77/Thermaltake-1.png",
+"https://i.postimg.cc/bJ7PF0X0/Thermaltake-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "name": "Fractal Design Meshify C",
+      "brandName": "Fractal Design",
+      "modelName": "Meshify C",
+      "price": {
+        "regular": 110,
+        "discount": 100,
+        "emi": 10
+      },
+      "noiseLevel": "24 dBA",
+      "airflow": 72,
+      "fanSpeed": 1550,
+      "connector": "3-Pin",
+      "inputCurrent": "0.42A",
+      "cableLength": "270mm",
+      "weight": "780g",
+      "size": "217 x 453 x 413 mm",
+      "RGB": false,
+      "specialFeatures": ["High-Airflow Design", "Cable Management System"],
+      "images": [
+        "https://i.postimg.cc/hGGKJPbm/Arctic-P12-PWM-PST-1.png",
+"https://i.postimg.cc/YSjwrDMf/Arctic-P12-PWM-PST-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "name": "Be Quiet! Dark Base Pro 900",
+      "brandName": "Be Quiet!",
+      "modelName": "Dark Base Pro 900",
+      "price": {
+        "regular": 250,
+        "discount": 230,
+        "emi": 20
+      },
+      "noiseLevel": "18 dBA",
+      "airflow": 78,
+      "fanSpeed": 1600,
+      "connector": "4-Pin",
+      "inputCurrent": "0.50A",
+      "cableLength": "320mm",
+      "weight": "1000g",
+      "size": "243 x 586 x 577 mm",
+      "RGB": true,
+      "specialFeatures": ["Qi Wireless Charging", "Modular Design"],
+      "images": [
+        "https://i.postimg.cc/KjP6qdDF/Cooler-Master-1.png",
+"https://i.postimg.cc/KcTx3WL0/Cooler-Master-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Lian Li PC-O11 Dynamic",
+      "brandName": "Lian Li",
+      "modelName": "PC-O11 Dynamic",
+      "price": {
+        "regular": 150,
+        "discount": 140,
+        "emi": 14
+      },
+      "noiseLevel": "28 dBA",
+      "airflow": 76,
+      "fanSpeed": 1550,
+      "connector": "4-Pin",
+      "inputCurrent": "0.45A",
+      "cableLength": "280mm",
+      "weight": "900g",
+      "size": "272 x 446 x 445 mm",
+      "RGB": true,
+      "specialFeatures": ["Dual-Chamber Design", "Tempered Glass Side Panels"],
+      "images": [
+        "https://i.postimg.cc/P5Xjcr77/Thermaltake-1.png",
+"https://i.postimg.cc/bJ7PF0X0/Thermaltake-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 28
+    },
+    {
+      "name": "Cooler Master MasterCase H500P Mesh",
+      "brandName": "Cooler Master",
+      "modelName": "MasterCase H500P Mesh",
+      "price": {
+        "regular": 170,
+        "discount": 160,
+        "emi": 16
+      },
+      "noiseLevel": "26 dBA",
+      "airflow": 85,
+      "fanSpeed": 1600,
+      "connector": "4-Pin",
+      "inputCurrent": "0.38A",
+      "cableLength": "300mm",
+      "weight": "820g",
+      "size": "242 x 544 x 542 mm",
+      "RGB": true,
+      "specialFeatures": ["High-Airflow Mesh", "Two 200mm RGB Fans"],
+      "images": [
+        "https://i.postimg.cc/hGGKJPbm/Arctic-P12-PWM-PST-1.png",
+"https://i.postimg.cc/YSjwrDMf/Arctic-P12-PWM-PST-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "NZXT H710i",
+      "brandName": "NZXT",
+      "modelName": "H710i",
+      "price": {
+        "regular": 220,
+        "discount": 200,
+        "emi": 22
+      },
+      "noiseLevel": "30 dBA",
+      "airflow": 70,
+      "fanSpeed": 1500,
+      "connector": "3-Pin",
+      "inputCurrent": "0.40A",
+      "cableLength": "320mm",
+      "weight": "980g",
+      "size": "230 x 516 x 494 mm",
+      "RGB": true,
+      "specialFeatures": ["CAM-powered Smart Device", "Adaptive Noise Reduction"],
+      "images": [
+        "https://i.postimg.cc/KjP6qdDF/Cooler-Master-1.png",
+"https://i.postimg.cc/KcTx3WL0/Cooler-Master-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "Deepcool MATREXX 55",
+      "brandName": "Deepcool",
+      "modelName": "MATREXX 55",
+      "price": {
+        "regular": 80,
+        "discount": 70,
+        "emi": 8
+      },
+      "noiseLevel": "24 dBA",
+      "airflow": 68,
+      "fanSpeed": 1550,
+      "connector": "4-Pin",
+      "inputCurrent": "0.35A",
+      "cableLength": "260mm",
+      "weight": "750g",
+      "size": "210 x 470 x 454 mm",
+      "RGB": false,
+      "specialFeatures": ["Tempered Glass Side Panel", "Wide Cooling Support"],
+      "images": [
+        "https://i.postimg.cc/P5Xjcr77/Thermaltake-1.png",
+"https://i.postimg.cc/bJ7PF0X0/Thermaltake-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 32
+    }
+  ]
+  

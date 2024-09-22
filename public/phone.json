@@ -1,0 +1,3637 @@
+[
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "6GB",
+      "romSize": "64GB",
+      "modelName": "iphone6",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (64MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Full HD+ IPS LCD",
+      "processorChipsetName": "MediaTek Helio G95",
+      "processorChipsetSize": "12nm",
+      "batterySize": "5000mAh"
+
+    },
+    "image": ["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+    "https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+    "https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+    "https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"],
+    "price": {
+      "regularPrice": 399,
+      "discountPrice": 349,
+      "emiPrice": 35
+    },
+    "physicalDescription": {
+      "thickness": "8.2mm",
+      "weight": "180g",
+      "bodyMaterial": "Plastic",
+      "color": "Aqua Blue"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "IPS LCD",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "88%",
+      "displayFeatures": ["HDR support", "60Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Proximity sensor", "Ambient light sensor", "Magnetometer"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "18W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "MediaTek Helio G95",
+      "size": "12nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.05GHz",
+      "GPU": "Mali-G76"
+    },
+    "memory": {
+      "ramSize": "6GB",
+      "romSize": "64GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "eMMC 5.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "2MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "Full HD at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Single speaker",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 11",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 5",
+      "bluetoothDetail": "Bluetooth 5.0",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "iphone7",
+      "brand": "apple",
+      "rearCameraSpecification": "Penta camera (108MP + 16MP + 12MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 8MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Exynos 990",
+      "processorChipsetSize": "7nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 899,
+      "discountPrice": 799,
+      "emiPrice": 79
+    },
+    "physicalDescription": {
+      "thickness": "8.5mm",
+      "weight": "190g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Silver"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "93%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Barometer"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "30W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Exynos 990",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.73GHz",
+      "GPU": "Mali-G77 MP11"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.0"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.7", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Quad-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "12MP telephoto" },
+          { "aperture": "f/2.0", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensing"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 13",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "4GB",
+      "romSize": "64GB",
+      "modelName": "iphone8",
+      "brand": "apple",
+      "rearCameraSpecification": "Dual camera (48MP + 5MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "HD+ IPS LCD",
+      "processorChipsetName": "Qualcomm Snapdragon 665",
+      "processorChipsetSize": "11nm",
+      "batterySize": "4000mAh"
+    },
+    "image": ["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+    "https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+    "https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+    "https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"]
+    ,
+    "price": {
+      "regularPrice": 299,
+      "discountPrice": 249,
+      "emiPrice": 25
+    },
+    "physicalDescription": {
+      "thickness": "8.0mm",
+      "weight": "170g",
+      "bodyMaterial": "Plastic",
+      "color": "Pearl White"
+    },
+    "displayInfo": {
+      "size": "6.2 inches",
+      "displayType": "IPS LCD",
+      "resolution": "HD+ (720 x 1520 pixels)",
+      "screenToBodyRatio": "82%",
+      "displayFeatures": ["60Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Proximity sensor", "Ambient light sensor"],
+      "facelock": "No",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4000mAh",
+      "chargingWatt": "15W",
+      "chargerType": "Micro-USB"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 665",
+      "size": "11nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.0GHz",
+      "GPU": "Adreno 610"
+    },
+    "memory": {
+      "ramSize": "4GB",
+      "romSize": "64GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "eMMC 5.1"
+    },
+    "camera": {
+      "numberOfCameras": 3,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Depth sensing"], "lensDetail": "5MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "Full HD at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Single speaker",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 12",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 5",
+      "bluetoothDetail": "Bluetooth 5.0",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+  
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "iphone9",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (64MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Full HD+ AMOLED",
+      "processorChipsetName": "Samsung Exynos 980",
+      "processorChipsetSize": "8nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+"https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+"https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+"https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"],
+    "price": {
+      "regularPrice": 599,
+      "discountPrice": 549,
+      "emiPrice": 49
+    },
+    "physicalDescription": {
+      "thickness": "7.9mm",
+      "weight": "175g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Crimson Red"
+    },
+    "displayInfo": {
+      "size": "6.3 inches",
+      "displayType": "AMOLED",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "91%",
+      "displayFeatures": ["HDR10+", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "25W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 980",
+      "size": "8nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.2GHz",
+      "GPU": "Mali-G76 MP5"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 2.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Depth sensing"], "lensDetail": "5MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 13",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+  
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "iphone10",
+      "brand": "apple",
+      "rearCameraSpecification": "Quad camera (108MP + 12MP + 20MP + 2MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 8MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 888",
+      "processorChipsetSize": "5nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 899,
+      "discountPrice": 799,
+      "emiPrice": 79
+    },
+    "physicalDescription": {
+      "thickness": "7.8mm",
+      "weight": "185g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Starry Black"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "92%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "30W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 888",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.84GHz",
+      "GPU": "Adreno 660"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 6,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "2MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 14",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "iphone15",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (48MP + 20MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 870",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4800mAh"
+    },
+    "image": ["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+    "https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+    "https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+    "https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"],
+    "price": {
+      "regularPrice": 699,
+      "discountPrice": 649,
+      "emiPrice": 69
+    },
+    "physicalDescription": {
+      "thickness": "8.1mm",
+      "weight": "178g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Ocean Blue"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "90%",
+      "displayFeatures": ["HDR10+", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4800mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 870",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.2GHz",
+      "GPU": "Adreno 650"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "20MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "8MP telephoto" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 15",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "modelName": "iphone14",
+      "brand": "apple",
+      "rearCameraSpecification": "Quad camera (108MP + 12MP + 16MP + 5MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 8MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Apple A15 Bionic",
+      "processorChipsetSize": "5nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 1099,
+      "discountPrice": 999,
+      "emiPrice": 89
+    },
+    "physicalDescription": {
+      "thickness": "7.7mm",
+      "weight": "175g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Space Gray"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "94%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Barometer"],
+      "facelock": "Yes",
+      "fingerprint": "No"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "40W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Apple A15 Bionic",
+      "size": "5nm",
+      "coreCount": "Hexa-core",
+      "clockSpeed": "3.23GHz",
+      "GPU": "Apple GPU"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "sdCardSlot": "No",
+      "slotCapacity": "",
+      "romType": "NVMe"
+    },
+    "camera": {
+      "numberOfCameras": 6,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.6", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "16MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "iOS 16",
+      "uiDetails": "iOS"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "No",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "modelName": "iphone13",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (50MP + 12MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ OLED",
+      "processorChipsetName": "Huawei Kirin 990",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4200mAh"
+    },
+    "image": ["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+    "https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+    "https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+    "https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"],
+    "price": {
+      "regularPrice": 799,
+      "discountPrice": 699,
+      "emiPrice": 59
+    },
+    "physicalDescription": {
+      "thickness": "7.5mm",
+      "weight": "170g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Emerald Green"
+    },
+    "displayInfo": {
+      "size": "6.3 inches",
+      "displayType": "OLED",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "88%",
+      "displayFeatures": ["HDR10", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor", "IR blaster"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4200mAh",
+      "chargingWatt": "22.5W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Huawei Kirin 990",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.86GHz",
+      "GPU": "Mali-G76 MP16"
+    },
+    "memory": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "UFS 3.0"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "50MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "8MP telephoto" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "EMUI 12",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.1",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "modelName": "iphone12",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (50MP + 12MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ OLED",
+      "processorChipsetName": "Huawei Kirin 990",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4200mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 799,
+      "discountPrice": 699,
+      "emiPrice": 59
+    },
+    "physicalDescription": {
+      "thickness": "7.5mm",
+      "weight": "170g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Emerald Green"
+    },
+    "displayInfo": {
+      "size": "6.3 inches",
+      "displayType": "OLED",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "88%",
+      "displayFeatures": ["HDR10", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor", "IR blaster"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4200mAh",
+      "chargingWatt": "22.5W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Huawei Kirin 990",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.86GHz",
+      "GPU": "Mali-G76 MP16"
+    },
+    "memory": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "UFS 3.0"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "50MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "8MP telephoto" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "EMUI 12",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.1",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "iphone11 pro",
+      "brand": "apple",
+      "rearCameraSpecification": "Quad camera (64MP + 16MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Mediatek Dimensity 1200",
+      "processorChipsetSize": "6nm",
+      "batterySize": "5000mAh"
+    },
+    "image":["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+    "https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+    "https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+    "https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"],
+    "price": {
+      "regularPrice": 899,
+      "discountPrice": 799,
+      "emiPrice": 69
+    },
+    "physicalDescription": {
+      "thickness": "7.6mm",
+      "weight": "175g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Black"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "91%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor", "IR blaster"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Mediatek Dimensity 1200",
+      "size": "6nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.0GHz",
+      "GPU": "Mali-G77 MC9"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "8MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "2MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 13",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "modelName": "iphone15 pro",
+      "brand": "apple",
+      "rearCameraSpecification": "Penta camera (108MP + 48MP + 20MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 12MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Samsung Exynos 2200",
+      "processorChipsetSize": "4nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 999,
+      "discountPrice": 899,
+      "emiPrice": 79
+    },
+    "physicalDescription": {
+      "thickness": "7.7mm",
+      "weight": "180g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Phantom Silver"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "93%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "45W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 2200",
+      "size": "4nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.2GHz",
+      "GPU": "Mali-G710 MP24"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 4.0"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.6", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 14",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "iphone15 pro max",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (64MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Single front camera (20MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 765G",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/DwmDpztM/i-Phone-14-Pro-Max-1.png",
+    "https://i.postimg.cc/cLK9Mb3q/i-Phone-14-Pro-Max-2.png",
+    "https://i.postimg.cc/MZDFWRwL/i-Phone-14-Pro-Max-3.png",
+    "https://i.postimg.cc/WbYYZvh6/i-Phone-14-Pro-Max-4.png"],
+    "price": {
+      "regularPrice": 749,
+      "discountPrice": 699,
+      "emiPrice": 59
+    },
+    "physicalDescription": {
+      "thickness": "8.2mm",
+      "weight": "182g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Sapphire Blue"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "90%",
+      "displayFeatures": ["HDR10+", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "25W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 765G",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.4GHz",
+      "GPU": "Adreno 620"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 2.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "20MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 15",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "iphone13 pro",
+      "brand": "apple",
+      "rearCameraSpecification": "Quad camera (108MP + 20MP + 12MP + 8MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 8MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Samsung Exynos 1280",
+      "processorChipsetSize": "6nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 849,
+      "discountPrice": 799,
+      "emiPrice": 69
+    },
+    "physicalDescription": {
+      "thickness": "7.8mm",
+      "weight": "178g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Starry Black"
+    },
+    "displayInfo": {
+      "size": "6.6 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "92%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "40W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 1280",
+      "size": "6nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.9GHz",
+      "GPU": "Mali-G78 MP12"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 6,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.6", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "20MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "12MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 16",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "iphone13 pro max",
+      "brand": "apple",
+      "rearCameraSpecification": "Triple camera (48MP + 8MP + 5MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 870",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/NM8P22H5/i-Phone-14-Pro-1.png",
+    "https://i.postimg.cc/yxVpm6mn/i-Phone-14-Pro-2.png",
+    "https://i.postimg.cc/VkThx8wL/i-Phone-14-Pro-3.png",
+    "https://i.postimg.cc/3NnSnM9h/i-Phone-14-Pro-4.png"],
+    "price": {
+      "regularPrice": 699,
+      "discountPrice": 649,
+      "emiPrice": 54
+    },
+    "physicalDescription": {
+      "thickness": "8.5mm",
+      "weight": "185g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Cerulean Blue"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "91%",
+      "displayFeatures": ["HDR10+", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "30W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 870",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.2GHz",
+      "GPU": "Adreno 650"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 17",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "galaxy S23",
+      "brand": "samsung",
+      "rearCameraSpecification": "Quad camera (64MP + 16MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "MediaTek Dimensity 1100",
+      "processorChipsetSize": "6nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 799,
+      "discountPrice": 749,
+      "emiPrice": 64
+    },
+    "physicalDescription": {
+      "thickness": "7.9mm",
+      "weight": "180g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Silver"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "92%",
+      "displayFeatures": ["HDR10+", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "MediaTek Dimensity 1100",
+      "size": "6nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.6GHz",
+      "GPU": "Mali-G77 MC9"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 60fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 18",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "modelName": "galaxy S23 ultra",
+      "brand": "samsung",
+      "rearCameraSpecification": "Penta camera (108MP + 48MP + 20MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 16MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 888",
+      "processorChipsetSize": "5nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 1099,
+      "discountPrice": 999,
+      "emiPrice": 89
+    },
+    "physicalDescription": {
+      "thickness": "8.0mm",
+      "weight": "188g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Sunset Orange"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "93%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "50W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 888",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.84GHz",
+      "GPU": "Adreno 660"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "sdCardSlot": "No",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.6", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "12MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "5MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 19",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "galaxy S22 ultra",
+      "brand": "samsung",
+      "rearCameraSpecification": "Quad camera (48MP + 12MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ IPS LCD",
+      "processorChipsetName": "Qualcomm Snapdragon 750G",
+      "processorChipsetSize": "8nm",
+      "batterySize": "4000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"]
+    ,
+    "price": {
+      "regularPrice": 599,
+      "discountPrice": 549,
+      "emiPrice": 45
+    },
+    "physicalDescription": {
+      "thickness": "8.4mm",
+      "weight": "175g",
+      "bodyMaterial": "Plastic",
+      "color": "Midnight Black"
+    },
+    "displayInfo": {
+      "size": "6.3 inches",
+      "displayType": "IPS LCD",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "85%",
+      "displayFeatures": ["HDR10", "60Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4000mAh",
+      "chargingWatt": "18W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 750G",
+      "size": "8nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.2GHz",
+      "GPU": "Adreno 619"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 2.2"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Mono speaker",
+      "microphone": "Single microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "No"
+    },
+    "os": {
+      "operatingSystem": "Android 20",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.1",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "galaxy S22",
+      "brand": "samsung",
+      "rearCameraSpecification": "Triple camera (64MP + 16MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Samsung Exynos 2100",
+      "processorChipsetSize": "5nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 899,
+      "discountPrice": 849,
+      "emiPrice": 71
+    },
+    "physicalDescription": {
+      "thickness": "7.7mm",
+      "weight": "172g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Pearl White"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "94%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "40W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 2100",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.9GHz",
+      "GPU": "Mali-G78 MP14"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "No",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "8MP telephoto" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 21",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "galaxy S21 ultra",
+      "brand": "samsung",
+      "rearCameraSpecification": "Quad camera (64MP + 8MP + 5MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "MediaTek Helio G95",
+      "processorChipsetSize": "12nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 499,
+      "discountPrice": 449,
+      "emiPrice": 37
+    },
+    "physicalDescription": {
+      "thickness": "8.6mm",
+      "weight": "190g",
+      "bodyMaterial": "Plastic",
+      "color": "Aurora Blue"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "90%",
+      "displayFeatures": ["HDR10", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "25W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "MediaTek Helio G95",
+      "size": "12nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.05GHz",
+      "GPU": "Mali-G76 MC4"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "eMMC 5.1"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Mono speaker",
+      "microphone": "Single microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "No"
+    },
+    "os": {
+      "operatingSystem": "Android 22",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.1",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "modelName": "galaxy S21",
+      "brand": "samsung",
+      "rearCameraSpecification": "Penta camera (108MP + 48MP + 20MP + 12MP + 8MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 16MP)",
+      "displayQuality": "Quad HD+ AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 888",
+      "processorChipsetSize": "5nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 1199,
+      "discountPrice": 1099,
+      "emiPrice": 91
+    },
+    "physicalDescription": {
+      "thickness": "8.1mm",
+      "weight": "180g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Cosmic Black"
+    },
+    "displayInfo": {
+      "size": "6.6 inches",
+      "displayType": "AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "95%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "55W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 888",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.84GHz",
+      "GPU": "Adreno 660"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "sdCardSlot": "No",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.6", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "12MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "8MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 23",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "modelName": "galaxy S20",
+      "brand": "samsung",
+      "rearCameraSpecification": "Quad camera (48MP + 16MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Full HD+ AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 765G",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 799,
+      "discountPrice": 749,
+      "emiPrice": 63
+    },
+    "physicalDescription": {
+      "thickness": "7.8mm",
+      "weight": "175g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Midnight Blue"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "91%",
+      "displayFeatures": ["HDR10", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "30W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 765G",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.4GHz",
+      "GPU": "Adreno 620"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 2.1"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 24",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "modelName": "galaxy z fold",
+      "brand": "samsung",
+      "rearCameraSpecification": "Triple camera (48MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ IPS LCD",
+      "processorChipsetName": "MediaTek Helio P70",
+      "processorChipsetSize": "12nm",
+      "batterySize": "4000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 399,
+      "discountPrice": 349,
+      "emiPrice": 29
+    },
+    "physicalDescription": {
+      "thickness": "8.3mm",
+      "weight": "170g",
+      "bodyMaterial": "Plastic",
+      "color": "Pearl White"
+    },
+    "displayInfo": {
+      "size": "6.2 inches",
+      "displayType": "IPS LCD",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "88%",
+      "displayFeatures": ["HDR", "60Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4000mAh",
+      "chargingWatt": "18W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "MediaTek Helio P70",
+      "size": "12nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.1GHz",
+      "GPU": "Mali-G72 MP3"
+    },
+    "memory": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "eMMC 5.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "Full HD at 30fps",
+        "rearCamera": "Full HD at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Mono speaker",
+      "microphone": "Single microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "No"
+    },
+    "os": {
+      "operatingSystem": "Android 25",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 5",
+      "bluetoothDetail": "Bluetooth 5.0",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "modelName": "galaxy z fold ultra",
+      "brand": "samsung",
+      "rearCameraSpecification": "Penta camera (108MP + 16MP + 12MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 8MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Samsung Exynos 2100",
+      "processorChipsetSize": "5nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 999,
+      "discountPrice": 949,
+      "emiPrice": 79
+    },
+    "physicalDescription": {
+      "thickness": "7.9mm",
+      "weight": "175g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Bronze"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "93%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "45W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 2100",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.9GHz",
+      "GPU": "Mali-G78 MP14"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "512GB",
+      "sdCardSlot": "No",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "12MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 26",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "modelName": "galaxy a3",
+      "brand": "samsung",
+      "rearCameraSpecification": "Triple camera (50MP + 16MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (20MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 870",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4700mAh"
+    },
+    "image": ["https://i.postimg.cc/ZqdQZMYP/Galaxy-S23-1.png",
+    "https://i.postimg.cc/d1cx0jDb/Galaxy-S23-2.png",
+    "https://i.postimg.cc/zXGP3BXG/Galaxy-S23-3.png",
+    "https://i.postimg.cc/MK9NYBrB/Galaxy-S23-4.png"],
+    "price": {
+      "regularPrice": 699,
+      "discountPrice": 649,
+      "emiPrice": 54
+    },
+    "physicalDescription": {
+      "thickness": "8.0mm",
+      "weight": "180g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Phantom Black"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "92%",
+      "displayFeatures": ["HDR10+", "90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4700mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 870",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.2GHz",
+      "GPU": "Adreno 650"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "50MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "20MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 27",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "modelName": "redmi 10",
+      "brand": "redmi",
+      "rearCameraSpecification": "Quad camera (64MP + 20MP + 12MP + 8MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 12MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 888",
+      "processorChipsetSize": "5nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/vBv3ZRJn/redmi-13-1.png",
+    "https://i.postimg.cc/D0j61ryy/redmi-13-2.png",
+    "https://i.postimg.cc/sxDKB6zN/redmi-13-3.png",
+    "https://i.postimg.cc/T2Ct86qM/redmi-13-4.png"],
+    "price": {
+      "regularPrice": 1199,
+      "discountPrice": 1099,
+      "emiPrice": 91
+    },
+    "physicalDescription": {
+      "thickness": "7.7mm",
+      "weight": "185g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Silver"
+    },
+    "displayInfo": {
+      "size": "6.6 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "94%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "65W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 888",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.84GHz",
+      "GPU": "Adreno 660"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "sdCardSlot": "No",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 6,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "20MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "12MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 28",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "modelName": "redmi 11",
+      "brand": "redmi",
+      "rearCameraSpecification": "Dual camera (20MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (12MP)",
+      "displayQuality": "Full HD+ LCD",
+      "processorChipsetName": "MediaTek Helio G80",
+      "processorChipsetSize": "12nm",
+      "batterySize": "4000mAh"
+    },
+    "image": ["https://i.postimg.cc/vBv3ZRJn/redmi-13-1.png",
+    "https://i.postimg.cc/D0j61ryy/redmi-13-2.png",
+    "https://i.postimg.cc/sxDKB6zN/redmi-13-3.png",
+    "https://i.postimg.cc/T2Ct86qM/redmi-13-4.png"],
+    "price": {
+      "regularPrice": 299,
+      "discountPrice": 249,
+      "emiPrice": 20
+    },
+    "physicalDescription": {
+      "thickness": "8.5mm",
+      "weight": "170g",
+      "bodyMaterial": "Plastic",
+      "color": "Aqua Blue"
+    },
+    "displayInfo": {
+      "size": "6.2 inches",
+      "displayType": "LCD",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "87%",
+      "displayFeatures": ["60Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "No",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4000mAh",
+      "chargingWatt": "18W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "MediaTek Helio G80",
+      "size": "12nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.0GHz",
+      "GPU": "Mali-G52 MC2"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "eMMC 5.1"
+    },
+    "camera": {
+      "numberOfCameras": 3,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "20MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "12MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "Full HD at 30fps",
+        "rearCamera": "Full HD at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Mono speaker",
+      "microphone": "Single microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "No"
+    },
+    "os": {
+      "operatingSystem": "Android 29",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 5",
+      "bluetoothDetail": "Bluetooth 5.0",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "modelName": "redmi 12",
+      "brand": "redmi",
+      "rearCameraSpecification": "Triple camera (48MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ AMOLED",
+      "processorChipsetName": "Samsung Exynos 850",
+      "processorChipsetSize": "8nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/vBv3ZRJn/redmi-13-1.png",
+    "https://i.postimg.cc/D0j61ryy/redmi-13-2.png",
+    "https://i.postimg.cc/sxDKB6zN/redmi-13-3.png",
+    "https://i.postimg.cc/T2Ct86qM/redmi-13-4.png"],
+    "price": {
+      "regularPrice": 349,
+      "discountPrice": 299,
+      "emiPrice": 25
+    },
+    "physicalDescription": {
+      "thickness": "8.2mm",
+      "weight": "175g",
+      "bodyMaterial": "Plastic",
+      "color": "Coral Red"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "90%",
+      "displayFeatures": ["HDR10"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "No",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "18W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 850",
+      "size": "8nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.0GHz",
+      "GPU": "Mali-G52"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "eMMC 5.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "5MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "Full HD at 30fps",
+        "rearCamera": "Full HD at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Mono speaker",
+      "microphone": "Single microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "No"
+    },
+    "os": {
+      "operatingSystem": "Android 30",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.1",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "modelName": "redmi 13",
+      "brand": "redmi",
+      "rearCameraSpecification": "Quad camera (64MP + 16MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 870",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4500mAh"
+    },
+    "image":["https://i.postimg.cc/vBv3ZRJn/redmi-13-1.png",
+    "https://i.postimg.cc/D0j61ryy/redmi-13-2.png",
+    "https://i.postimg.cc/sxDKB6zN/redmi-13-3.png",
+    "https://i.postimg.cc/T2Ct86qM/redmi-13-4.png"],
+    "price": {
+      "regularPrice": 799,
+      "discountPrice": 749,
+      "emiPrice": 62
+    },
+    "physicalDescription": {
+      "thickness": "8.1mm",
+      "weight": "178g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Midnight Black"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "91%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 870",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.2GHz",
+      "GPU": "Adreno 650"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 31",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "modelName": "redmi 13 pro",
+      "brand": "redmi",
+      "rearCameraSpecification": "Dual camera (48MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (16MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "MediaTek Dimensity 720",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4000mAh"
+    },
+    "image": ["https://i.postimg.cc/vBv3ZRJn/redmi-13-1.png",
+    "https://i.postimg.cc/D0j61ryy/redmi-13-2.png",
+    "https://i.postimg.cc/sxDKB6zN/redmi-13-3.png",
+    "https://i.postimg.cc/T2Ct86qM/redmi-13-4.png"],
+    "price": {
+      "regularPrice": 449,
+      "discountPrice": 399,
+      "emiPrice": 33
+    },
+    "physicalDescription": {
+      "thickness": "8.3mm",
+      "weight": "172g",
+      "bodyMaterial": "Glass and Plastic",
+      "color": "Sunset Orange"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "89%",
+      "displayFeatures": ["HDR10"]
+    },
+    "sensors": {
+      "sensorList": ["Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "No",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4000mAh",
+      "chargingWatt": "25W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "MediaTek Dimensity 720",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.0GHz",
+      "GPU": "Mali-G57 MC3"
+    },
+    "memory": {
+      "ramSize": "6GB",
+      "romSize": "128GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 256GB",
+      "romType": "UFS 2.1"
+    },
+    "camera": {
+      "numberOfCameras": 3,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "8MP ultra-wide" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "16MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "Full HD at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Mono speaker",
+      "microphone": "Single microphone",
+      "speakerFeatures": ["Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "No"
+    },
+    "os": {
+      "operatingSystem": "Android 32",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "4G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.1",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "1TB",
+      "modelName": "redmi 13s",
+      "brand": "redmi",
+      "rearCameraSpecification": "Penta camera (108MP + 48MP + 20MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 12MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Samsung Exynos 990",
+      "processorChipsetSize": "7nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/vBv3ZRJn/redmi-13-1.png",
+    "https://i.postimg.cc/D0j61ryy/redmi-13-2.png",
+    "https://i.postimg.cc/sxDKB6zN/redmi-13-3.png",
+    "https://i.postimg.cc/T2Ct86qM/redmi-13-4.png"],
+    "price": {
+      "regularPrice": 1399,
+      "discountPrice": 1299,
+      "emiPrice": 108
+    },
+    "physicalDescription": {
+      "thickness": "8.5mm",
+      "weight": "195g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Bronze"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "93%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "45W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 990",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.73GHz",
+      "GPU": "Mali-G77 MP11"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "1TB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.0"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Quad-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "12MP depth sensor" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 33",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "6GB",
+      "romSize": "256GB",
+      "modelName": "realme 8",
+      "brand": "realme",
+      "rearCameraSpecification": "Triple camera (64MP + 16MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (20MP)",
+      "displayQuality": "Full HD+ LCD",
+      "processorChipsetName": "Qualcomm Snapdragon 765G",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/N0mdZ2bp/Realme-GT-Neo-5-1.png",
+    "https://i.postimg.cc/Vk377W9J/Realme-GT-Neo-5-2.png",
+    "https://i.postimg.cc/63KMK6mw/Realme-GT-Neo-5-3.png",
+    "https://i.postimg.cc/yYxvsbvJ/Realme-GT-Neo-5-4.png"],
+    "price": {
+      "regularPrice": 599,
+      "discountPrice": 549,
+      "emiPrice": 45
+    },
+    "physicalDescription": {
+      "thickness": "7.9mm",
+      "weight": "170g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Ocean Blue"
+    },
+    "displayInfo": {
+      "size": "6.3 inches",
+      "displayType": "LCD",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "88%",
+      "displayFeatures": ["90Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "30W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 765G",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.4GHz",
+      "GPU": "Adreno 620"
+    },
+    "memory": {
+      "ramSize": "6GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 2.1"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "8MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "20MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 34",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "modelName": "realme 9",
+      "brand": "realme",
+      "rearCameraSpecification": "Quad camera (48MP + 16MP + 8MP + 2MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 750G",
+      "processorChipsetSize": "8nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/N0mdZ2bp/Realme-GT-Neo-5-1.png",
+    "https://i.postimg.cc/Vk377W9J/Realme-GT-Neo-5-2.png",
+    "https://i.postimg.cc/63KMK6mw/Realme-GT-Neo-5-3.png",
+    "https://i.postimg.cc/yYxvsbvJ/Realme-GT-Neo-5-4.png"],
+    "price": {
+      "regularPrice": 499,
+      "discountPrice": 449,
+      "emiPrice": 37
+    },
+    "physicalDescription": {
+      "thickness": "7.8mm",
+      "weight": "168g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Midnight Black"
+    },
+    "displayInfo": {
+      "size": "6.5 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2400 pixels)",
+      "screenToBodyRatio": "91%",
+      "displayFeatures": ["HDR10"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 750G",
+      "size": "8nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.2GHz",
+      "GPU": "Adreno 619"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 2.2"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "48MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "8MP macro" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "2MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 35",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "modelName": "realme 10",
+      "brand": "realme",
+      "rearCameraSpecification": "Penta camera (108MP + 48MP + 20MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 12MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 888",
+      "processorChipsetSize": "5nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/N0mdZ2bp/Realme-GT-Neo-5-1.png",
+    "https://i.postimg.cc/Vk377W9J/Realme-GT-Neo-5-2.png",
+    "https://i.postimg.cc/63KMK6mw/Realme-GT-Neo-5-3.png",
+    "https://i.postimg.cc/yYxvsbvJ/Realme-GT-Neo-5-4.png"],
+    "price": {
+      "regularPrice": 1499,
+      "discountPrice": 1399,
+      "emiPrice": 116
+    },
+    "physicalDescription": {
+      "thickness": "8.6mm",
+      "weight": "200g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Celestial Blue"
+    },
+    "displayInfo": {
+      "size": "6.8 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "94%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "65W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 888",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.84GHz",
+      "GPU": "Adreno 660"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.7", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "12MP depth sensor" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 36",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "modelName": "realme 11",
+      "brand": "realme",
+      "rearCameraSpecification": "Triple camera (64MP + 16MP + 8MP)",
+      "frontCameraSpecification": "Single front camera (20MP)",
+      "displayQuality": "Full HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 870",
+      "processorChipsetSize": "7nm",
+      "batterySize": "4500mAh"
+    },
+    "image": ["https://i.postimg.cc/N0mdZ2bp/Realme-GT-Neo-5-1.png",
+    "https://i.postimg.cc/Vk377W9J/Realme-GT-Neo-5-2.png",
+    "https://i.postimg.cc/63KMK6mw/Realme-GT-Neo-5-3.png",
+    "https://i.postimg.cc/yYxvsbvJ/Realme-GT-Neo-5-4.png"],
+    "price": {
+      "regularPrice": 699,
+      "discountPrice": 649,
+      "emiPrice": 54
+    },
+    "physicalDescription": {
+      "thickness": "8.0mm",
+      "weight": "175g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Aurora Blue"
+    },
+    "displayInfo": {
+      "size": "6.4 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Full HD+ (1080 x 2340 pixels)",
+      "screenToBodyRatio": "90%",
+      "displayFeatures": ["HDR10"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "4500mAh",
+      "chargingWatt": "33W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 870",
+      "size": "7nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "3.2GHz",
+      "GPU": "Adreno 650"
+    },
+    "memory": {
+      "ramSize": "8GB",
+      "romSize": "256GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 512GB",
+      "romType": "UFS 3.0"
+    },
+    "camera": {
+      "numberOfCameras": 4,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "64MP wide", "flashDetail": "Dual-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "16MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "8MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "20MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 30fps",
+        "rearCamera": "4K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 37",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "3.5mm"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "modelName": "realme 8 pro",
+      "brand": "realme",
+      "rearCameraSpecification": "Quad camera (108MP + 48MP + 20MP + 12MP)",
+      "frontCameraSpecification": "Single front camera (32MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Samsung Exynos 2100",
+      "processorChipsetSize": "5nm",
+      "batterySize": "5000mAh"
+    },
+    "image": ["https://i.postimg.cc/N0mdZ2bp/Realme-GT-Neo-5-1.png",
+    "https://i.postimg.cc/Vk377W9J/Realme-GT-Neo-5-2.png",
+    "https://i.postimg.cc/63KMK6mw/Realme-GT-Neo-5-3.png",
+    "https://i.postimg.cc/yYxvsbvJ/Realme-GT-Neo-5-4.png"],
+    "price": {
+      "regularPrice": 1099,
+      "discountPrice": 999,
+      "emiPrice": 83
+    },
+    "physicalDescription": {
+      "thickness": "8.2mm",
+      "weight": "180g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Mystic Black"
+    },
+    "displayInfo": {
+      "size": "6.6 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "92%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "5000mAh",
+      "chargingWatt": "45W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Samsung Exynos 2100",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.9GHz",
+      "GPU": "Mali-G78 MP14"
+    },
+    "memory": {
+      "ramSize": "12GB",
+      "romSize": "512GB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 5,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.8", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Quad-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "12MP depth sensor" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 38",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "No"
+    }
+  },
+
+  {
+    "quantity":20,
+    "keyFeatures": {
+      "ramSize": "16GB",
+      "romSize": "1TB",
+      "modelName": "realme 9 pro",
+      "brand": "realme",
+      "rearCameraSpecification": "Penta camera (108MP + 48MP + 20MP + 12MP + 5MP)",
+      "frontCameraSpecification": "Dual front camera (32MP + 12MP)",
+      "displayQuality": "Quad HD+ Super AMOLED",
+      "processorChipsetName": "Qualcomm Snapdragon 888",
+      "processorChipsetSize": "5nm",
+      "batterySize": "6000mAh"
+    },
+    "image": ["https://i.postimg.cc/N0mdZ2bp/Realme-GT-Neo-5-1.png",
+    "https://i.postimg.cc/Vk377W9J/Realme-GT-Neo-5-2.png",
+    "https://i.postimg.cc/63KMK6mw/Realme-GT-Neo-5-3.png",
+    "https://i.postimg.cc/yYxvsbvJ/Realme-GT-Neo-5-4.png"],
+    "price": {
+      "regularPrice": 1599,
+      "discountPrice": 1499,
+      "emiPrice": 125
+    },
+    "physicalDescription": {
+      "thickness": "8.3mm",
+      "weight": "210g",
+      "bodyMaterial": "Glass and Aluminum",
+      "color": "Phantom Silver"
+    },
+    "displayInfo": {
+      "size": "6.7 inches",
+      "displayType": "Super AMOLED",
+      "resolution": "Quad HD+ (1440 x 3200 pixels)",
+      "screenToBodyRatio": "95%",
+      "displayFeatures": ["HDR10+", "120Hz refresh rate"]
+    },
+    "sensors": {
+      "sensorList": ["Face ID", "Accelerometer", "Gyroscope", "Proximity sensor", "Ambient light sensor", "Fingerprint sensor"],
+      "facelock": "Yes",
+      "fingerprint": "Yes"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyProvider": "Manufacturer's Warranty"
+    },
+    "battery": {
+      "batterySize": "6000mAh",
+      "chargingWatt": "65W",
+      "chargerType": "USB-C"
+    },
+    "processor": {
+      "chipsetName": "Qualcomm Snapdragon 888",
+      "size": "5nm",
+      "coreCount": "Octa-core",
+      "clockSpeed": "2.84GHz",
+      "GPU": "Adreno 660"
+    },
+    "memory": {
+      "ramSize": "16GB",
+      "romSize": "1TB",
+      "sdCardSlot": "Yes",
+      "slotCapacity": "Up to 1TB",
+      "romType": "UFS 3.1"
+    },
+    "camera": {
+      "numberOfCameras": 7,
+      "cameraSpecification": {
+        "rearCamera": [
+          { "aperture": "f/1.7", "features": ["Night mode", "Portrait mode"], "lensDetail": "108MP wide", "flashDetail": "Quad-LED" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "48MP ultra-wide" },
+          { "aperture": "f/2.4", "features": ["Telephoto"], "lensDetail": "20MP telephoto" },
+          { "aperture": "f/2.4", "features": ["Depth sensor"], "lensDetail": "12MP depth sensor" },
+          { "aperture": "f/2.4", "features": ["Macro"], "lensDetail": "5MP macro" }
+        ],
+        "frontCamera": [
+          { "aperture": "f/2.0", "features": ["Portrait mode"], "lensDetail": "32MP wide" },
+          { "aperture": "f/2.2", "features": ["Ultra-wide"], "lensDetail": "12MP ultra-wide" }
+        ]
+      },
+      "videoRecordingDetail": {
+        "frontCamera": "4K at 60fps",
+        "rearCamera": "8K at 30fps"
+      }
+    },
+    "audio": {
+      "speaker": "Stereo speakers",
+      "microphone": "Dual-microphone",
+      "speakerFeatures": ["Dolby Atmos", "Hi-Res Audio"],
+      "secondaryNoiseCancellationMic": "Yes"
+    },
+    "os": {
+      "operatingSystem": "Android 39",
+      "uiDetails": "Custom UI"
+    },
+    "network": {
+      "bandDetail": "5G support",
+      "wifiDetail": "Wi-Fi 6E",
+      "bluetoothDetail": "Bluetooth 5.2",
+      "otgSupport": "Yes",
+      "audioJack": "Yes"
+    }
+  }
+  
+  ]

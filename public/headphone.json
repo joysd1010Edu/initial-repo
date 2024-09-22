@@ -1,0 +1,399 @@
+[
+    {
+      "name": "SteelSeries Arctis Pro + GameDAC",
+      "brandName": "SteelSeries",
+      "modelName": "Arctis Pro + GameDAC",
+      "price": {
+        "regular": 250,
+        "discount": 230,
+        "emi": 25
+      },
+      "specialFeatures": ["GameDAC for High-Resolution Audio", "ClearCast Bidirectional Microphone"],
+      "surroundSound": true,
+      "color": "Black",
+      "frequencyRange": "10Hz - 40kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "200 x 190 x 95 mm",
+      "soundMode": "Stereo, DTS Headphone:X v2.0",
+      "noiseCancellation": false,
+      "RGB": true,
+      "speakerGrade": "High-End",
+      "connectionInterface": "USB, 3.5mm",
+      "wired": true,
+      "withMicrophone": true,
+      "gaming": true,
+      "images": [
+        "https://i.postimg.cc/Y0MXG78J/AKG-K712-Pro-1.png",
+        "https://i.postimg.cc/dVxSWzty/AKG-K712-Pro-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "brandName": "Sony",
+      "modelName": "WH-1000XM4",
+      "price": {
+        "regular": 350,
+        "discount": 330,
+        "emi": 35
+      },
+      "specialFeatures": ["Industry-Leading Noise Cancellation", "Touch Sensor Controls"],
+      "surroundSound": false,
+      "color": "Silver",
+      "frequencyRange": "4Hz - 40kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "182 x 196 x 81.5 mm",
+      "soundMode": "Stereo",
+      "noiseCancellation": true,
+      "RGB": false,
+      "speakerGrade": "Premium",
+      "connectionInterface": "Bluetooth, NFC",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/tCRS9Xs6/Beyerdynamic-DT-1990-Pro-1.png",
+        "https://i.postimg.cc/Y9cD7YF2/Beyerdynamic-DT-1990-Pro-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "brandName": "Bose",
+      "modelName": "QuietComfort 35 II",
+      "price": {
+        "regular": 299,
+        "discount": 279,
+        "emi": 30
+      },
+      "specialFeatures": ["Active Noise Cancellation", "Voice Assistant Integration"],
+      "surroundSound": true,
+      "color": "Black",
+      "frequencyRange": "10Hz - 20kHz",
+      "magnetDetail": "Ferrite",
+      "dimension": "180 x 170 x 80 mm",
+      "soundMode": "Dolby Atmos",
+      "noiseCancellation": true,
+      "RGB": false,
+      "speakerGrade": "High-End",
+      "connectionInterface": "Bluetooth, AUX",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/2yG0ntK3/Dan-Clark-Audio-Aeon-Flow-Closed-1.png",
+        "https://i.postimg.cc/dQjNM7Vv/Dan-Clark-Audio-Aeon-Flow-Closed-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Extended Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "name": "Sennheiser HD 660 S",
+      "brandName": "Sennheiser",
+      "modelName": "HD 660 S",
+      "price": {
+        "regular": 499,
+        "discount": 469,
+        "emi": 50
+      },
+      "specialFeatures": ["Open-Back Design", "High Impedance"],
+      "surroundSound": false,
+      "color": "Titan",
+      "frequencyRange": "10Hz - 41kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "185 x 195 x 90 mm",
+      "soundMode": "High-Fidelity",
+      "noiseCancellation": false,
+      "RGB": false,
+      "speakerGrade": "Premium",
+      "connectionInterface": "Wired (3.5mm), Balanced XLR",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/3JLLRPGc/Shure-SRH1540-1.png",
+        "https://i.postimg.cc/wvhfjM5X/Shure-SRH1540-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "name": "Audio-Technica ATH-M50x",
+      "brandName": "Audio-Technica",
+      "modelName": "ATH-M50x",
+      "price": {
+        "regular": 149,
+        "discount": 129,
+        "emi": 15
+      },
+      "specialFeatures": ["Studio Monitor Headphones", "Detachable Cable"],
+      "surroundSound": false,
+      "color": "White",
+      "frequencyRange": "15Hz - 28kHz",
+      "magnetDetail": "Rare Earth Magnets",
+      "dimension": "160 x 180 x 75 mm",
+      "soundMode": "Studio Quality",
+      "noiseCancellation": false,
+      "RGB": false,
+      "speakerGrade": "Professional",
+      "connectionInterface": "Detachable Cable (3.5mm), Coiled Cable (6.3mm)",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/Y0MXG78J/AKG-K712-Pro-1.png",
+        "https://i.postimg.cc/dVxSWzty/AKG-K712-Pro-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "name": "JBL Free X",
+      "brandName": "JBL",
+      "modelName": "Free X",
+      "price": {
+        "regular": 99,
+        "discount": 79,
+        "emi": 10
+      },
+      "specialFeatures": ["True Wireless", "Waterproof"],
+      "surroundSound": false,
+      "color": "Blue",
+      "frequencyRange": "20Hz - 20kHz",
+      "magnetDetail": "Dynamic Drivers",
+      "dimension": "25 x 30 x 20 mm (per earbud)",
+      "soundMode": "Stereo",
+      "noiseCancellation": false,
+      "RGB": false,
+      "speakerGrade": "Standard",
+      "connectionInterface": "Bluetooth",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/tCRS9Xs6/Beyerdynamic-DT-1990-Pro-1.png",
+        "https://i.postimg.cc/Y9cD7YF2/Beyerdynamic-DT-1990-Pro-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "name": "SteelSeries Arctis 7",
+      "brandName": "SteelSeries",
+      "modelName": "Arctis 7",
+      "price": {
+        "regular": 149,
+        "discount": 129,
+        "emi": 15
+      },
+      "specialFeatures": ["Wireless Gaming Headset", "DTS Headphone:X v2.0"],
+      "surroundSound": true,
+      "color": "Black/White",
+      "frequencyRange": "20Hz - 20kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "190 x 230 x 90 mm",
+      "soundMode": "Gaming Audio",
+      "noiseCancellation": false,
+      "RGB": true,
+      "speakerGrade": "Gaming",
+      "connectionInterface": "Wireless USB, 3.5mm",
+      "wired": true,
+      "withMicrophone": true,
+      "gaming": true,
+      "images": [
+        "https://i.postimg.cc/2yG0ntK3/Dan-Clark-Audio-Aeon-Flow-Closed-1.png",
+        "https://i.postimg.cc/dQjNM7Vv/Dan-Clark-Audio-Aeon-Flow-Closed-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Extended Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "name": "Jabra Elite 85h",
+      "brandName": "Jabra",
+      "modelName": "Elite 85h",
+      "price": {
+        "regular": 249,
+        "discount": 219,
+        "emi": 25
+      },
+      "specialFeatures": ["SmartSound Technology", "Water-Resistant"],
+      "surroundSound": false,
+      "color": "Copper Black",
+      "frequencyRange": "10Hz - 20kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "195 x 185 x 80 mm",
+      "soundMode": "AI-Powered",
+      "noiseCancellation": true,
+      "RGB": false,
+      "speakerGrade": "Premium",
+      "connectionInterface": "Bluetooth, AUX",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/3JLLRPGc/Shure-SRH1540-1.png",
+        "https://i.postimg.cc/wvhfjM5X/Shure-SRH1540-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "name": "Beats Studio3 Wireless",
+      "brandName": "Beats",
+      "modelName": "Studio3 Wireless",
+      "price": {
+        "regular": 349,
+        "discount": 319,
+        "emi": 35
+      },
+      "specialFeatures": ["Apple W1 Chip", "Fast Fuel Charging"],
+      "surroundSound": false,
+      "color": "Matte Black",
+      "frequencyRange": "20Hz - 20kHz",
+      "magnetDetail": "Ferrite",
+      "dimension": "185 x 200 x 85 mm",
+      "soundMode": "Pure Adaptive Noise Canceling",
+      "noiseCancellation": true,
+      "RGB": false,
+      "speakerGrade": "High-End",
+      "connectionInterface": "Bluetooth",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/Y0MXG78J/AKG-K712-Pro-1.png",
+        "https://i.postimg.cc/dVxSWzty/AKG-K712-Pro-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "name": "AKG K701",
+      "brandName": "AKG",
+      "modelName": "K701",
+      "price": {
+        "regular": 199,
+        "discount": 179,
+        "emi": 20
+      },
+      "specialFeatures": ["Open-Back Design", "Varimotion Two-Layer Diaphragm"],
+      "surroundSound": true,
+      "color": "White",
+      "frequencyRange": "10Hz - 39.8kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "205 x 210 x 80 mm",
+      "soundMode": "Natural Sound Imaging",
+      "noiseCancellation": false,
+      "RGB": false,
+      "speakerGrade": "Reference",
+      "connectionInterface": "Detachable Cable (3.5mm), XLR",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/tCRS9Xs6/Beyerdynamic-DT-1990-Pro-1.png",
+        "https://i.postimg.cc/Y9cD7YF2/Beyerdynamic-DT-1990-Pro-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Extended Warranty"
+      },
+      "quantity": 17
+    },
+    {
+      "name": "Razer Opus",
+      "brandName": "Razer",
+      "modelName": "Opus",
+      "price": {
+        "regular": 199,
+        "discount": 179,
+        "emi": 20
+      },
+      "specialFeatures": ["THX Certified", "Advanced Hybrid Active Noise Cancellation"],
+      "surroundSound": false,
+      "color": "Quartz Pink",
+      "frequencyRange": "20Hz - 20kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "185 x 195 x 80 mm",
+      "soundMode": "THX Spatial Audio",
+      "noiseCancellation": true,
+      "RGB": true,
+      "speakerGrade": "Gaming",
+      "connectionInterface": "Bluetooth, AUX",
+      "wired": false,
+      "withMicrophone": true,
+      "gaming": true,
+      "images": [
+        "https://i.postimg.cc/2yG0ntK3/Dan-Clark-Audio-Aeon-Flow-Closed-1.png",
+        "https://i.postimg.cc/dQjNM7Vv/Dan-Clark-Audio-Aeon-Flow-Closed-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 14
+    },
+    {
+      "name": "Beyerdynamic DT 990 Pro",
+      "brandName": "Beyerdynamic",
+      "modelName": "DT 990 Pro",
+      "price": {
+        "regular": 179,
+        "discount": 159,
+        "emi": 18
+      },
+      "specialFeatures": ["Open-Back Design", "Analytical Sound"],
+      "surroundSound": false,
+      "color": "Black",
+      "frequencyRange": "5Hz - 35kHz",
+      "magnetDetail": "Neodymium",
+      "dimension": "200 x 210 x 90 mm",
+      "soundMode": "Studio Quality",
+      "noiseCancellation": false,
+      "RGB": false,
+      "speakerGrade": "Professional",
+      "connectionInterface": "Wired (3.5mm), Coiled Cable",
+      "wired": true,
+      "withMicrophone": false,
+      "gaming": false,
+      "images": [
+        "https://i.postimg.cc/3JLLRPGc/Shure-SRH1540-1.png",
+        "https://i.postimg.cc/wvhfjM5X/Shure-SRH1540-2.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "quantity": 21
+    }
+  ]
+  

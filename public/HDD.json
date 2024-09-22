@@ -1,0 +1,243 @@
+[
+    {
+      "keyFeatures": {
+        "readSpeed": "150 MB/s",
+        "writeSpeed": "150 MB/s",
+        "modelName": "Seagate Barracuda",
+        "brandName": "Seagate",
+        "name": "Barracuda",
+        "size": "2TB",
+        "rpm": "7200",
+        "interface": "SATA III",
+        "type": "HDD",
+        "formFactor": "3.5-inch",
+        "price": {
+          "regular": 60,
+          "discount": 55,
+          "emi": 6
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/fbZg4HK5/WD-Red-1.png",
+"https://i.postimg.cc/HL2vTQvm/WD-Red-2.png",
+"https://i.postimg.cc/jq9gqqcD/WD-Red-3.png"
+      ],
+      "quantity": 40,
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "specialFeatures": ["Quiet Operation", "Optimized for Desktops", "Low Power Consumption"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "200 MB/s",
+        "writeSpeed": "180 MB/s",
+        "modelName": "Western Digital Blue",
+        "brandName": "WD",
+        "name": "Blue",
+        "size": "1TB",
+        "rpm": "5400",
+        "interface": "SATA III",
+        "type": "HDD",
+        "formFactor": "3.5-inch",
+        "price": {
+          "regular": 45,
+          "discount": 40,
+          "emi": 5
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/X7C2rM1Q/Western-Digital-Blue-1.png",
+        "https://i.postimg.cc/FHbDxy4S/Western-Digital-Blue-2.png",
+        "https://i.postimg.cc/bN7BgYS7/Western-Digital-Blue-3.png"
+      ],
+      "quantity": 30,
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["ShockGuard Technology", "StableTrac", "NoTouch Ramp Load Technology"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "220 MB/s",
+        "writeSpeed": "200 MB/s",
+        "modelName": "Seagate Barracuda",
+        "brandName": "Seagate",
+        "name": "Barracuda",
+        "size": "2TB",
+        "rpm": "7200",
+        "interface": "SATA III",
+        "type": "HDD",
+        "formFactor": "3.5-inch",
+        "price": {
+          "regular": 65,
+          "discount": 60,
+          "emi": 7
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/wMtw5nqx/Western-Digital-Purple-1.png",
+        "https://i.postimg.cc/TPC0zThY/Western-Digital-Purple-2.png",
+        "https://i.postimg.cc/P5nSZ6Bh/Western-Digital-Purple-3.png"
+      ],
+      "quantity": 25,
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["OptiCache Technology", "Seagate AcuTrac", "Multi-Tier Caching Technology"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "180 MB/s",
+        "writeSpeed": "160 MB/s",
+        "modelName": "Toshiba P300",
+        "brandName": "Toshiba",
+        "name": "P300",
+        "size": "1TB",
+        "rpm": "7200",
+        "interface": "SATA III",
+        "type": "HDD",
+        "formFactor": "3.5-inch",
+        "price": {
+          "regular": 50,
+          "discount": 48,
+          "emi": 6
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/fbZg4HK5/WD-Red-1.png",
+        "https://i.postimg.cc/HL2vTQvm/WD-Red-2.png",
+        "https://i.postimg.cc/jq9gqqcD/WD-Red-3.png"
+      ],
+      "quantity": 20,
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["Advanced Format Technology", "Data Protection Technology", "Internal Shock Detection"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "240 MB/s",
+        "writeSpeed": "220 MB/s",
+        "modelName": "Samsung Spinpoint",
+        "brandName": "Samsung",
+        "name": "Spinpoint",
+        "size": "4TB",
+        "rpm": "5400",
+        "interface": "SATA III",
+        "type": "HDD",
+        "formFactor": "3.5-inch",
+        "price": {
+          "regular": 85,
+          "discount": 80,
+          "emi": 9
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/X7C2rM1Q/Western-Digital-Blue-1.png",
+        "https://i.postimg.cc/FHbDxy4S/Western-Digital-Blue-2.png",
+        "https://i.postimg.cc/bN7BgYS7/Western-Digital-Blue-3.png"
+      ],
+      "quantity": 15,
+      "warrantyDetails": {
+        "warrantyPeriod": 6,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["NoiseGuard Technology", "SilentSeek Technology", "Dual-Actuator Technology"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "210 MB/s",
+        "writeSpeed": "190 MB/s",
+        "modelName": "Hitachi Ultrastar",
+        "brandName": "Hitachi",
+        "name": "Ultrastar",
+        "size": "3TB",
+        "rpm": "7200",
+        "interface": "SATA III",
+        "type": "HDD",
+        "formFactor": "3.5-inch",
+        "price": {
+          "regular": 75,
+          "discount": 70,
+          "emi": 8
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/wMtw5nqx/Western-Digital-Purple-1.png",
+        "https://i.postimg.cc/TPC0zThY/Western-Digital-Purple-2.png",
+        "https://i.postimg.cc/P5nSZ6Bh/Western-Digital-Purple-3.png"
+      ],
+      "quantity": 18,
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["Rotational Vibration Safeguard", "Advanced Power Management", "HiVERT Technology"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "230 MB/s",
+        "writeSpeed": "210 MB/s",
+        "modelName": "SanDisk SSD Plus",
+        "brandName": "SanDisk",
+        "name": "SSD Plus",
+        "size": "512GB",
+        "rpm": "N/A",
+        "interface": "SATA III",
+        "type": "SSD",
+        "formFactor": "2.5-inch",
+        "price": {
+          "regular": 95,
+          "discount": 90,
+          "emi": 10
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/X7C2rM1Q/Western-Digital-Blue-1.png",
+        "https://i.postimg.cc/FHbDxy4S/Western-Digital-Blue-2.png",
+        "https://i.postimg.cc/bN7BgYS7/Western-Digital-Blue-3.png"
+      ],
+      "quantity": 22,
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["NAND Flash Technology", "Shock Resistant", "Up to 545MB/s Read Speed"]
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "250 MB/s",
+        "writeSpeed": "230 MB/s",
+        "modelName": "Corsair MP510",
+        "brandName": "Corsair",
+        "name": "MP510",
+        "size": "1TB",
+        "rpm": "N/A",
+        "interface": "NVMe PCIe Gen3",
+        "type": "SSD",
+        "formFactor": "M.2",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 12
+        }
+      },
+      "images": [
+        "https://i.postimg.cc/wMtw5nqx/Western-Digital-Purple-1.png",
+        "https://i.postimg.cc/TPC0zThY/Western-Digital-Purple-2.png",
+        "https://i.postimg.cc/P5nSZ6Bh/Western-Digital-Purple-3.png"
+      ],
+      "quantity": 15,
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Manufacturer's Warranty"
+      },
+      "specialFeatures": ["High-Density 3D TLC NAND", "Compact M.2 Form Factor", "Up to 3,480MB/s Read Speed"]
+    }
+  ]
+  

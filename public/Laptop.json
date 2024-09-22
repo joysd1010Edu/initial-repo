@@ -1,0 +1,3724 @@
+[
+  {
+    "keyFeatures": {
+      "modelname": "HP EliteBook",
+      "cache": 12,
+      "display": "14-inch QHD",
+      "generation": 11,
+      "brand": "HP",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1200,
+      "emiPrice": 100,
+      "discountedPrice": 1100,
+      "specialFeatures": ["Fingerprint Reader", "Thunderbolt 4", "IR Webcam"]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "2.8 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 12
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "QHD",
+      "displayFeatures": ["IPS", "Anti-glare", "Touchscreen"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/6q2xLRmh/hp-1.png",
+"https://i.postimg.cc/W3fPkSX3/hp-2.png",
+"https://i.postimg.cc/hGsnSKmV/hp-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "Collaboration Keys"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "IR Webcam",
+      "audioFeature": "Bang & Olufsen Audio"
+    },
+    "audio": {
+      "speakerFeature": "Bang & multi Quad Speakers",
+      "microphoneFeature": "HP Noise Reduction Software"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["Ethernet", "SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.2"
+    },
+    "physicalDetails": {
+      "color": "Silver",
+      "weight": "1.34 kg",
+      "thickness": "17.9mm",
+      "dimensions": "323 x 214 x 17.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "52 Wh",
+      "adapterWatt": 65,
+      "adapterType": "USB Type-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 50
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Asus ROG Strix",
+      "cache": 16,
+      "display": "17.3-inch 4K UHD",
+      "generation": 10,
+      "brand": "Asus",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2500,
+      "emiPrice": 200,
+      "discountedPrice": 2300,
+      "specialFeatures": [
+        "RGB Backlit Keyboard",
+        "144Hz Refresh Rate",
+        "NVIDIA G-Sync"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9",
+      "generation": 10,
+      "clockSpeed": "2.9 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 16
+    },
+    "display": {
+      "size": "17.3-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["IPS", "G-Sync", "144Hz Refresh Rate"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 4,
+      "maxRamCapacity": 64,
+      "storageType": "1TB NVMe SSD",
+      "storageSize": 1000,
+      "ssdSlot": 2,
+      "extraSsdSlot": 1,
+      "readSpeed": 3500,
+      "writeSpeed": 3000
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/qMKdNsnJ/Asus-1.png",
+"https://i.postimg.cc/nVgJVRXS/Asus-2.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GeForce RTX 3080",
+      "memorySize": 8,
+      "memoryType": "GDDR6X"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["RGB Backlit", "N-Key Rollover", "Anti-Ghosting"],
+      "touchpadFeatures": ["Precision Touchpad", "NumberPad"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Sonic Studio"
+    },
+    "audio": {
+      "speakerFeature": "4-Watt Stereo Speakers",
+      "microphoneFeature": "Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 3", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["Ethernet", "SD Card Reader", "Mini DisplayPort"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "2.9 kg",
+      "thickness": "28.2mm",
+      "dimensions": "399 x 293 x 28.2 mm"
+    },
+    "batteryDetails": {
+      "capacity": "90 Wh",
+      "adapterWatt": 230,
+      "adapterType": "230W Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "International"
+    },
+    "quantity": 30
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Lenovo ThinkPad X1 Carbon",
+      "cache": 8,
+      "display": "14-inch WQHD",
+      "generation": 10,
+      "brand": "Lenovo",
+      "ram": 16,
+      "ramType": "LPDDR3",
+      "storage": 512,
+      "regularPrice": 1600,
+      "emiPrice": 130,
+      "discountedPrice": 1500,
+      "specialFeatures": [
+        "Dolby Atmos Speaker System",
+        "RapidCharge",
+        "Fingerprint Reader"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 10,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "WQHD",
+      "displayFeatures": ["IPS", "Anti-glare"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 2133,
+      "ramType": "LPDDR3",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 2000,
+      "writeSpeed": 1500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/DzvVpRN0/Lenovo-1.png",
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+      "https://i.postimg.cc/xC8wnMnS/Lenovo-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel UHD Graphics",
+      "memorySize": 1,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "TrackPoint"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Dolby Atmos Speaker System"
+    },
+    "audio": {
+      "speakerFeature": "Dolby Atmos Speaker System",
+      "microphoneFeature": "Dual Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 3", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["Ethernet", "SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "1.09 kg",
+      "thickness": "15.95mm",
+      "dimensions": "323 x 218 x 15.95 mm"
+    },
+    "batteryDetails": {
+      "capacity": "51 Wh",
+      "adapterWatt": 65,
+      "adapterType": "USB Type-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 20
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Dell XPS 13",
+      "cache": 8,
+      "display": "13.4-inch 4K UHD",
+      "generation": 11,
+      "brand": "Dell",
+      "ram": 16,
+      "ramType": "LPDDR4x",
+      "storage": 1,
+      "regularPrice": 1800,
+      "emiPrice": 150,
+      "discountedPrice": 1700,
+      "specialFeatures": [
+        "InfinityEdge Display",
+        "IR Webcam",
+        "Fingerprint Reader"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "1.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "13.4-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["InfinityEdge", "Touchscreen"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3733,
+      "ramType": "LPDDR4x",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "1TB NVMe SSD",
+      "storageSize": 1000,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/k45mGLNz/dell-2.png",
+"https://i.postimg.cc/qvdHyNX8/dell-1.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "Precision Touchpad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "IR Webcam",
+      "audioFeature": "Waves MaxxAudio Pro"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 4", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Platinum Silver",
+      "weight": "1.27 kg",
+      "thickness": "14.8mm",
+      "dimensions": "296 x 199 x 14.8 mm"
+    },
+    "batteryDetails": {
+      "capacity": "52 Wh",
+      "adapterWatt": 45,
+      "adapterType": "USB Type-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer Swift 5",
+      "cache": 6,
+      "display": "14-inch Full HD",
+      "generation": 11,
+      "brand": "Acer",
+      "ram": 8,
+      "ramType": "LPDDR4",
+      "storage": 256,
+      "regularPrice": 1000,
+      "emiPrice": 90,
+      "discountedPrice": 950,
+      "specialFeatures": [
+        "Thin and Light",
+        "Fingerprint Reader",
+        "Acer TrueHarmony Audio"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 6
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "Full HD",
+      "displayFeatures": ["IPS", "Anti-glare"]
+    },
+    "memory": {
+      "ramSize": 8,
+      "ramFrequency": 4266,
+      "ramType": "LPDDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 16,
+      "storageType": "NVMe SSD",
+      "storageSize": 256,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 2000,
+      "writeSpeed": 1500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "Precision Touchpad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Acer TrueHarmony Audio"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Built-in Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 4", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.2"
+    },
+    "physicalDetails": {
+      "color": "Silver",
+      "weight": "1.05 kg",
+      "thickness": "15.95mm",
+      "dimensions": "318.9 x 206 x 15.95 mm"
+    },
+    "batteryDetails": {
+      "capacity": "56 Wh",
+      "adapterWatt": 65,
+      "adapterType": "USB Type-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 25
+  },
+  {
+    "keyFeatures": {
+      "modelname": "MSI GS66 Stealth",
+      "cache": 16,
+      "display": "15.6-inch 240Hz FHD",
+      "generation": 10,
+      "brand": "MSI",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2200,
+      "emiPrice": 180,
+      "discountedPrice": 2000,
+      "specialFeatures": [
+        "NVIDIA RTX Graphics",
+        "SteelSeries RGB Keyboard",
+        "Thunderbolt 3"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9",
+      "generation": 10,
+      "clockSpeed": "2.4 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 16
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "240Hz FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "Thin Bezel"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 4,
+      "maxRamCapacity": 64,
+      "storageType": "1TB NVMe SSD",
+      "storageSize": 1000,
+      "ssdSlot": 2,
+      "extraSsdSlot": 1,
+      "readSpeed": 3500,
+      "writeSpeed": 3000
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/fLP6LyRS/msi-1.png",
+"https://i.postimg.cc/c6y2RzYs/msi-2.png",
+"https://i.postimg.cc/Hn7F7mrZ/msi-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GeForce RTX 3080",
+      "memorySize": 8,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["SteelSeries RGB", "Anti-Ghosting", "Per-Key RGB"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Nahimic 3 Audio Enhancer"
+    },
+    "audio": {
+      "speakerFeature": "Dynaudio Speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 3", "USB 3.2", "USB 3.1"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader", "Mini DisplayPort"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "2.1 kg",
+      "thickness": "19.8mm",
+      "dimensions": "358 x 248 x 19.8 mm"
+    },
+    "batteryDetails": {
+      "capacity": "99.9 Wh",
+      "adapterWatt": 230,
+      "adapterType": "230W Slim Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Global"
+    },
+    "quantity": 35
+  },
+  {
+    "keyFeatures": {
+      "modelname": "HP Spectre x360",
+      "cache": 12,
+      "display": "13.3-inch 4K UHD",
+      "generation": 11,
+      "brand": "HP",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1700,
+      "emiPrice": 140,
+      "discountedPrice": 1600,
+      "specialFeatures": [
+        "Convertible Design",
+        "HP Pen Support",
+        "Bang & Olufsen Audio"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "1.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 12
+    },
+    "display": {
+      "size": "13.3-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["IPS", "Touchscreen"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/6q2xLRmh/hp-1.png",
+"https://i.postimg.cc/W3fPkSX3/hp-2.png",
+"https://i.postimg.cc/hGsnSKmV/hp-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Numeric Keypad", "HP Imagepad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HD Camera",
+      "audioFeature": "Bang & Olufsen Audio"
+    },
+    "audio": {
+      "speakerFeature": "Bang & Olufsen Quad Speakers",
+      "microphoneFeature": "HP Wide Vision HD Camera"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 4", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.2"
+    },
+    "physicalDetails": {
+      "color": "Nightfall Black",
+      "weight": "1.32 kg",
+      "thickness": "13.5mm",
+      "dimensions": "306 x 194 x 13.5 mm"
+    },
+    "batteryDetails": {
+      "capacity": "60 Wh",
+      "adapterWatt": 65,
+      "adapterType": "USB Type-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 40
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Asus VivoBook 14",
+      "cache": 8,
+      "display": "14-inch Full HD",
+      "generation": 10,
+      "brand": "Asus",
+      "ram": 8,
+      "ramType": "DDR4",
+      "storage": 256,
+      "regularPrice": 800,
+      "emiPrice": 70,
+      "discountedPrice": 750,
+      "specialFeatures": ["NanoEdge Display", "ErgoLift Hinge", "NumberPad"]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 10,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "Full HD",
+      "displayFeatures": ["IPS", "NanoEdge"]
+    },
+    "memory": {
+      "ramSize": 8,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 16,
+      "storageType": "NVMe SSD",
+      "storageSize": 256,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 2000,
+      "writeSpeed": 1500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/qMKdNsnJ/Asus-1.png",
+"https://i.postimg.cc/nVgJVRXS/Asus-2.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel UHD Graphics",
+      "memorySize": 1,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "ErgoLift Hinge", "NumberPad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "ASUS SonicMaster Audio"
+    },
+    "audio": {
+      "speakerFeature": "ASUS SonicMaster Stereo Speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 5",
+      "bluetoothDetails": "Bluetooth 4.2"
+    },
+    "physicalDetails": {
+      "color": "Star Grey",
+      "weight": "1.4 kg",
+      "thickness": "19.9mm",
+      "dimensions": "324 x 215 x 19.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "42 Wh",
+      "adapterWatt": 45,
+      "adapterType": "45W Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 50
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer Predator Helios 300",
+      "cache": 12,
+      "display": "15.6-inch 144Hz FHD",
+      "generation": 10,
+      "brand": "Acer",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1500,
+      "emiPrice": 120,
+      "discountedPrice": 1400,
+      "specialFeatures": [
+        "NVIDIA RTX Graphics",
+        "PredatorSense",
+        "Backlit Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "2.6 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 12
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "144Hz FHD",
+      "displayFeatures": ["IPS", "NVIDIA G-SYNC"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GeForce RTX 2060",
+      "memorySize": 6,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "RGB Lighting", "PredatorSense Key"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Acer TrueHarmony Audio"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader", "Mini DisplayPort"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "2.3 kg",
+      "thickness": "23.9mm",
+      "dimensions": "363 x 254 x 23.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "58 Wh",
+      "adapterWatt": 180,
+      "adapterType": "180W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 30
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Asus ROG Zephyrus G14",
+      "cache": 16,
+      "display": "14-inch 120Hz QHD",
+      "generation": 9,
+      "brand": "Asus",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2000,
+      "emiPrice": 170,
+      "discountedPrice": 1900,
+      "specialFeatures": [
+        "NVIDIA GTX Graphics",
+        "AniMe Matrix",
+        "ROG ErgoLift Hinge"
+      ]
+    },
+    "processor": {
+      "brand": "AMD",
+      "model": "Ryzen 9",
+      "generation": 4,
+      "clockSpeed": "3.0 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 16
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "120Hz QHD",
+      "displayFeatures": ["IPS", "Pantone Validated", "AniMe Matrix LED"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "1TB NVMe SSD",
+      "storageSize": 1000,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/qMKdNsnJ/Asus-1.png",
+"https://i.postimg.cc/nVgJVRXS/Asus-2.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GeForce GTX 1650",
+      "memorySize": 4,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "AniMe Matrix", "ROG Aura Sync"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "ROG Smart Amp"
+    },
+    "audio": {
+      "speakerFeature": "4x 2.5W speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 3", "USB 3.2", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Moonlight White",
+      "weight": "1.6 kg",
+      "thickness": "17.9mm",
+      "dimensions": "324 x 222 x 17.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "76 Wh",
+      "adapterWatt": 180,
+      "adapterType": "180W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 20
+  },
+  {
+    "keyFeatures": {
+      "modelname": "MSI Modern 14",
+      "cache": 8,
+      "display": "14-inch Full HD",
+      "generation": 11,
+      "brand": "MSI",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1100,
+      "emiPrice": 100,
+      "discountedPrice": 1000,
+      "specialFeatures": [
+        "Ultra-thin Design",
+        "NVIDIA MX450 Graphics",
+        "Fingerprint Reader"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "Full HD",
+      "displayFeatures": ["IPS", "Thin Bezel"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/fLP6LyRS/msi-1.png",
+"https://i.postimg.cc/c6y2RzYs/msi-2.png",
+"https://i.postimg.cc/Hn7F7mrZ/msi-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia MX450",
+      "memorySize": 2,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "Backlit",
+        "Fingerprint Reader",
+        "Multi-touch Trackpad"
+      ],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Nahimic Audio"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Carbon Gray",
+      "weight": "1.29 kg",
+      "thickness": "16.9mm",
+      "dimensions": "319 x 220 x 16.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "52 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 25
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Dell XPS 15",
+      "cache": 12,
+      "display": "15.6-inch 4K UHD",
+      "generation": 10,
+      "brand": "Dell",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2200,
+      "emiPrice": 190,
+      "discountedPrice": 2000,
+      "specialFeatures": [
+        "InfinityEdge Display",
+        "NVIDIA GTX 1650 Ti Graphics",
+        "MagLev Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "2.3 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 12
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["InfinityEdge", "Anti-reflective", "Touchscreen"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 2933,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "1TB NVMe SSD",
+      "storageSize": 1000,
+      "ssdSlot": 2,
+      "extraSsdSlot": 1,
+      "readSpeed": 3500,
+      "writeSpeed": 3000
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/k45mGLNz/dell-2.png",
+"https://i.postimg.cc/qvdHyNX8/dell-1.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GTX 1650 Ti",
+      "memorySize": 4,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "MagLev Keyboard", "Precision Touchpad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Waves MaxxAudio Pro"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Dual-array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 3", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Platinum Silver",
+      "weight": "2 kg",
+      "thickness": "17 mm",
+      "dimensions": "344 x 230 x 17 mm"
+    },
+    "batteryDetails": {
+      "capacity": "86 Wh",
+      "adapterWatt": 130,
+      "adapterType": "130W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Lenovo ThinkPad X1 Carbon",
+      "cache": 8,
+      "display": "14-inch WQHD",
+      "generation": 11,
+      "brand": "Lenovo",
+      "ram": 16,
+      "ramType": "LPDDR4x",
+      "storage": 512,
+      "regularPrice": 1600,
+      "emiPrice": 130,
+      "discountedPrice": 1500,
+      "specialFeatures": [
+        "Carbon Fiber Chassis",
+        "Dolby Atmos Speakers",
+        "ThinkShutter Camera Cover"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "WQHD",
+      "displayFeatures": ["IPS", "Anti-glare", "Dolby Vision"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 4266,
+      "ramType": "LPDDR4x",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/DzvVpRN0/Lenovo-1.png",
+"https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/xC8wnMnS/Lenovo-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "TrackPoint"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Dolby Atmos Speakers"
+    },
+    "audio": {
+      "speakerFeature": "Dolby Atmos Stereo Speakers",
+      "microphoneFeature": "360-degree Far-field Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 4", "USB 3.2", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.2"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "1.09 kg",
+      "thickness": "14.9mm",
+      "dimensions": "323 x 218 x 14.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "51 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 18
+  },
+  {
+    "keyFeatures": {
+      "modelname": "HP Omen 15",
+      "cache": 10,
+      "display": "15.6-inch 144Hz FHD",
+      "generation": 10,
+      "brand": "HP",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 1700,
+      "emiPrice": 140,
+      "discountedPrice": 1600,
+      "specialFeatures": [
+        "NVIDIA RTX Graphics",
+        "RGB Lighting",
+        "Omen Tempest Cooling"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "2.6 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 10
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "144Hz FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "NVIDIA G-SYNC"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/6q2xLRmh/hp-1.png",
+"https://i.postimg.cc/W3fPkSX3/hp-2.png",
+"https://i.postimg.cc/hGsnSKmV/hp-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GeForce RTX 2070",
+      "memorySize": 8,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "RGB Lighting", "Omen Command Center"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Bang & Olufsen Dual Speakers"
+    },
+    "audio": {
+      "speakerFeature": "Bang & Olufsen Stereo Speakers",
+      "microphoneFeature": "Integrated Dual Array Digital Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C Thunderbolt 3", "USB 3.2", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Shadow Black",
+      "weight": "2.36 kg",
+      "thickness": "22.5mm",
+      "dimensions": "358.5 x 260 x 22.5 mm"
+    },
+    "batteryDetails": {
+      "capacity": "70.9 Wh",
+      "adapterWatt": 200,
+      "adapterType": "200W AC Smart Pin Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 12
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Asus VivoBook 15",
+      "cache": 6,
+      "display": "15.6-inch Full HD",
+      "generation": 11,
+      "brand": "Asus",
+      "ram": 8,
+      "ramType": "DDR4",
+      "storage": 256,
+      "regularPrice": 700,
+      "emiPrice": 60,
+      "discountedPrice": 650,
+      "specialFeatures": ["NanoEdge Display", "ErgoLift Hinge", "NumberPad"]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "1.0 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 6
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "Full HD",
+      "displayFeatures": ["IPS", "NanoEdge"]
+    },
+    "memory": {
+      "ramSize": 8,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 16,
+      "storageType": "NVMe SSD",
+      "storageSize": 256,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/qMKdNsnJ/Asus-1.png",
+"https://i.postimg.cc/nVgJVRXS/Asus-2.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel UHD Graphics",
+      "memorySize": 1,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "NumberPad", "ErgoLift Hinge"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Asus SonicMaster Audio"
+    },
+    "audio": {
+      "speakerFeature": "SonicMaster Stereo Speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Slate Grey",
+      "weight": "1.7 kg",
+      "thickness": "19.9mm",
+      "dimensions": "357 x 230 x 19.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "42 Wh",
+      "adapterWatt": 45,
+      "adapterType": "45W Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 20
+  },
+  {
+    "keyFeatures": {
+      "modelname": "MSI GF65 Thin",
+      "cache": 8,
+      "display": "15.6-inch 144Hz FHD",
+      "generation": 10,
+      "brand": "MSI",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1200,
+      "emiPrice": 100,
+      "discountedPrice": 1100,
+      "specialFeatures": [
+        "NVIDIA GTX Graphics",
+        "Thin and Light",
+        "Cooler Boost 3"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "2.6 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 8
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "144Hz FHD",
+      "displayFeatures": ["IPS", "Thin Bezel"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/fLP6LyRS/msi-1.png",
+"https://i.postimg.cc/c6y2RzYs/msi-2.png",
+"https://i.postimg.cc/Hn7F7mrZ/msi-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GTX 1660 Ti",
+      "memorySize": 6,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "SteelSeries RGB", "Silent Key Switch"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Nahimic 3 Audio"
+    },
+    "audio": {
+      "speakerFeature": "2x 2W Speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 5",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "1.86 kg",
+      "thickness": "21.7mm",
+      "dimensions": "359 x 254 x 21.7 mm"
+    },
+    "batteryDetails": {
+      "capacity": "51 Wh",
+      "adapterWatt": 180,
+      "adapterType": "180W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer Predator Helios 300",
+      "cache": 12,
+      "display": "15.6-inch 144Hz FHD",
+      "generation": 10,
+      "brand": "Acer",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 1600,
+      "emiPrice": 140,
+      "discountedPrice": 1500,
+      "specialFeatures": [
+        "NVIDIA RTX Graphics",
+        "PredatorSense",
+        "RGB Backlit Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "2.6 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 12
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "144Hz FHD",
+      "displayFeatures": ["IPS", "ComfyView", "NVIDIA G-SYNC"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 3000
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia RTX 3060",
+      "memorySize": 6,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "RGB Lighting", "PredatorSense Key"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "DTS:X Ultra Audio"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Killer Ethernet E2600",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "2.3 kg",
+      "thickness": "23.9mm",
+      "dimensions": "363 x 255 x 23.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "58.7 Wh",
+      "adapterWatt": 230,
+      "adapterType": "230W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 10
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Dell G5 15",
+      "cache": 8,
+      "display": "15.6-inch 120Hz FHD",
+      "generation": 10,
+      "brand": "Dell",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 1400,
+      "emiPrice": 120,
+      "discountedPrice": 1300,
+      "specialFeatures": [
+        "NVIDIA GTX Graphics",
+        "Alienware Command Center",
+        "RGB Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "2.6 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 8
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "120Hz FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "NVIDIA G-SYNC"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 2933,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/k45mGLNz/dell-2.png",
+      "https://i.postimg.cc/qvdHyNX8/dell-1.png",
+      "https://i.postimg.cc/sxqytKh8/dell-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "Nvidia GeForce GTX 1660 Ti",
+      "memorySize": 6,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "Backlit",
+        "RGB Lighting",
+        "Alienware Command Center"
+      ],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Nahimic Audio"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Deep Space Black",
+      "weight": "2.68 kg",
+      "thickness": "24.9mm",
+      "dimensions": "364 x 273 x 24.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "68 Wh",
+      "adapterWatt": 240,
+      "adapterType": "240W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "On-site"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer Swift 3",
+      "cache": 6,
+      "display": "14-inch Full HD",
+      "generation": 11,
+      "brand": "Acer",
+      "ram": 8,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 900,
+      "emiPrice": 80,
+      "discountedPrice": 850,
+      "specialFeatures": [
+        "Ultra-thin Design",
+        "Acer Color Intelligence",
+        "Fingerprint Reader"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 6
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "Full HD",
+      "displayFeatures": ["IPS", "Acer ComfyView"]
+    },
+    "memory": {
+      "ramSize": 8,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 16,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "Backlit",
+        "Fingerprint Reader",
+        "Precision Touchpad"
+      ],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Acer TrueHarmony Audio"
+    },
+    "audio": {
+      "speakerFeature": "Stereo speakers",
+      "microphoneFeature": "Built-in Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Steel Gray",
+      "weight": "1.19 kg",
+      "thickness": "15.95mm",
+      "dimensions": "323 x 218 x 15.95 mm"
+    },
+    "batteryDetails": {
+      "capacity": "56 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 20
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer Aspire 5",
+      "cache": 6,
+      "display": "15.6-inch Full HD",
+      "generation": 11,
+      "brand": "Acer",
+      "ram": 8,
+      "ramType": "DDR4",
+      "storage": 256,
+      "regularPrice": 700,
+      "emiPrice": 60,
+      "discountedPrice": 650,
+      "specialFeatures": [
+        "AMD Ryzen 5 Processor",
+        "Backlit Keyboard",
+        "Acer BlueLightShield"
+      ]
+    },
+    "processor": {
+      "brand": "AMD",
+      "model": "Ryzen 5",
+      "generation": 11,
+      "clockSpeed": "2.1 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 6
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "Full HD",
+      "displayFeatures": ["IPS", "ComfyView", "Acer Color Intelligence"]
+    },
+    "memory": {
+      "ramSize": 8,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 256,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2000
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "AMD",
+      "model": "AMD Radeon Vega 8",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Numeric Keypad", "Precision Touchpad"],
+      "touchpadFeatures": ["Multi-gesture Touchpad"]
+    },
+    "camera": {
+      "webcamFeature": "720p HD",
+      "audioFeature": "Acer TrueHarmony Audio"
+    },
+    "audio": {
+      "speakerFeature": "Two Built-in Stereo Speakers",
+      "microphoneFeature": "Built-in Dual Digital Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Silver",
+      "weight": "1.8 kg",
+      "thickness": "17.95mm",
+      "dimensions": "363.4 x 250.5 x 17.95 mm"
+    },
+    "batteryDetails": {
+      "capacity": "48 Wh",
+      "adapterWatt": 45,
+      "adapterType": "45W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 40
+  },
+  {
+    "keyFeatures": {
+      "modelname": "HP Spectre x360",
+      "cache": 8,
+      "display": "13.3-inch 4K UHD",
+      "generation": 11,
+      "brand": "HP",
+      "ram": 16,
+      "ramType": "LPDDR4x",
+      "storage": 512,
+      "regularPrice": 1800,
+      "emiPrice": 150,
+      "discountedPrice": 1700,
+      "specialFeatures": [
+        "Convertible Design",
+        "OLED Display",
+        "HP Pen Support"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "1.3 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "13.3-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["OLED", "Touchscreen", "Micro-edge Display"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3733,
+      "ramType": "LPDDR4x",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/6q2xLRmh/hp-1.png",
+"https://i.postimg.cc/W3fPkSX3/hp-2.png",
+"https://i.postimg.cc/hGsnSKmV/hp-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Full-size Island-style", "HP Imagepad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HP TrueVision HD",
+      "audioFeature": "Bang & Olufsen Quad Speakers"
+    },
+    "audio": {
+      "speakerFeature": "Bang & Olufsen Quad Speakers",
+      "microphoneFeature": "HP Audio Boost Quad Speakers"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 4", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Nightfall Black",
+      "weight": "1.27 kg",
+      "thickness": "14.7mm",
+      "dimensions": "306 x 194 x 14.7 mm"
+    },
+    "batteryDetails": {
+      "capacity": "60 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 30
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Dell XPS 13",
+      "cache": 8,
+      "display": "13.4-inch 4K UHD",
+      "generation": 11,
+      "brand": "Dell",
+      "ram": 16,
+      "ramType": "LPDDR4x",
+      "storage": 512,
+      "regularPrice": 1800,
+      "emiPrice": 150,
+      "discountedPrice": 1700,
+      "specialFeatures": [
+        "InfinityEdge Display",
+        "Dell Cinema Technology",
+        "Fingerprint Reader"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "1.3 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "13.4-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": [
+        "InfinityEdge",
+        "Anti-reflective",
+        "500-nit Brightness"
+      ]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3733,
+      "ramType": "LPDDR4x",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/k45mGLNz/dell-2.png",
+"https://i.postimg.cc/qvdHyNX8/dell-1.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "MagLev Keyboard", "Precision Touchpad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Waves MaxxAudio Pro"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Integrated Dual Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 4", "USB 3.1", "USB-C"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Platinum Silver",
+      "weight": "1.2 kg",
+      "thickness": "14.8mm",
+      "dimensions": "296 x 199 x 14.8 mm"
+    },
+    "batteryDetails": {
+      "capacity": "52 Wh",
+      "adapterWatt": 45,
+      "adapterType": "45W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 25
+  },
+  {
+    "keyFeatures": {
+      "modelname": "MSI Prestige 14",
+      "cache": 8,
+      "display": "14-inch FHD",
+      "generation": 11,
+      "brand": "MSI",
+      "ram": 16,
+      "ramType": "LPDDR4",
+      "storage": 512,
+      "regularPrice": 1400,
+      "emiPrice": 120,
+      "discountedPrice": 1300,
+      "specialFeatures": [
+        "Intel Evo Platform",
+        "NVIDIA GTX Graphics",
+        "Thunderbolt 4"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "1.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "FHD",
+      "displayFeatures": ["IPS", "TrueColor Technology", "72% NTSC"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 4267,
+      "ramType": "LPDDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2000
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/fLP6LyRS/msi-1.png",
+      "https://i.postimg.cc/c6y2RzYs/msi-2.png",
+      "https://i.postimg.cc/Hn7F7mrZ/msi-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "NVIDIA GTX 1650",
+      "memorySize": 4,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "White Backlight", "Precision Touchpad"],
+      "touchpadFeatures": ["Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Nahimic 3 Audio Enhancer"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Built-in Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 4", "USB-C", "USB 3.2"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Carbon Gray",
+      "weight": "1.29 kg",
+      "thickness": "16.9mm",
+      "dimensions": "319 x 215 x 16.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "52 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 20
+  },
+  {
+    "keyFeatures": {
+      "modelname": "HP Envy x360",
+      "cache": 8,
+      "display": "15.6-inch FHD",
+      "generation": 10,
+      "brand": "HP",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1300,
+      "emiPrice": 110,
+      "discountedPrice": 1200,
+      "specialFeatures": [
+        "AMD Ryzen 7 Processor",
+        "360-degree Convertible",
+        "Bang & Olufsen Audio"
+      ]
+    },
+    "processor": {
+      "brand": "AMD",
+      "model": "Ryzen 7",
+      "generation": 10,
+      "clockSpeed": "2.9 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 8
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "FHD",
+      "displayFeatures": ["IPS", "Touchscreen", "Corning Gorilla Glass"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/6q2xLRmh/hp-1.png",
+"https://i.postimg.cc/W3fPkSX3/hp-2.png",
+"https://i.postimg.cc/hGsnSKmV/hp-3.png"
+    ],
+    "graphics": {
+      "brand": "AMD",
+      "model": "AMD Radeon Graphics",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "Backlit",
+        "Full-size Island-style",
+        "Numeric Keypad"
+      ],
+      "touchpadFeatures": ["HP Imagepad with Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HP Wide Vision HD",
+      "audioFeature": "Bang & Olufsen Quad Speakers"
+    },
+    "audio": {
+      "speakerFeature": "Quad Speakers",
+      "microphoneFeature": "Dual Array Digital Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Nightfall Black",
+      "weight": "2.14 kg",
+      "thickness": "17.9mm",
+      "dimensions": "359.7 x 222.8 x 17.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "55.67 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "HP Omen 15",
+      "cache": 12,
+      "display": "15.6-inch 144Hz FHD",
+      "generation": 10,
+      "brand": "HP",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2000,
+      "emiPrice": 170,
+      "discountedPrice": 1900,
+      "specialFeatures": [
+        "Intel Core i9 Processor",
+        "NVIDIA RTX 3070 Graphics",
+        "144Hz Refresh Rate"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9",
+      "generation": 10,
+      "clockSpeed": "2.3 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 12
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "144Hz FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "Micro-edge Display"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/6q2xLRmh/hp-1.png",
+"https://i.postimg.cc/W3fPkSX3/hp-2.png",
+"https://i.postimg.cc/hGsnSKmV/hp-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "NVIDIA RTX 3070",
+      "memorySize": 8,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "4-zone RGB Lighting",
+        "Full-size Island-style",
+        "Numeric Keypad"
+      ],
+      "touchpadFeatures": ["Precision Touchpad"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Bang & Olufsen Dual Speakers"
+    },
+    "audio": {
+      "speakerFeature": "Dual Speakers",
+      "microphoneFeature": "Integrated Dual Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Shadow Black",
+      "weight": "2.36 kg",
+      "thickness": "22.5mm",
+      "dimensions": "358 x 239 x 22.5 mm"
+    },
+    "batteryDetails": {
+      "capacity": "70.9 Wh",
+      "adapterWatt": 200,
+      "adapterType": "200W Smart AC Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 12
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Lenovo ThinkPad X1 Carbon",
+      "cache": 8,
+      "display": "14-inch 4K UHD",
+      "generation": 11,
+      "brand": "Lenovo",
+      "ram": 16,
+      "ramType": "LPDDR4x",
+      "storage": 1,
+      "regularPrice": 2000,
+      "emiPrice": 170,
+      "discountedPrice": 1900,
+      "specialFeatures": [
+        "Intel Core i7 Processor",
+        "Dolby Vision HDR",
+        "Slim and Lightweight"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "1.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["IPS", "Anti-glare", "500-nit Brightness"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 4266,
+      "ramType": "LPDDR4x",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/DzvVpRN0/Lenovo-1.png",
+"https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/xC8wnMnS/Lenovo-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "TrackPoint"],
+      "touchpadFeatures": ["Microsoft Precision", "TrackPad"]
+    },
+    "camera": {
+      "webcamFeature": "HD IR Camera",
+      "audioFeature": "Dolby Atmos Speaker System"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Four Far-field Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 4", "USB 3.2", "USB-C"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "1.09 kg",
+      "thickness": "14.9mm",
+      "dimensions": "323 x 218 x 14.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "51 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 18
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Lenovo Legion 5",
+      "cache": 16,
+      "display": "15.6-inch 120Hz FHD",
+      "generation": 10,
+      "brand": "Lenovo",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 1500,
+      "emiPrice": 130,
+      "discountedPrice": 1400,
+      "specialFeatures": [
+        "AMD Ryzen 7 Processor",
+        "NVIDIA GTX 1660 Ti Graphics",
+        "Legion TrueStrike Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "AMD",
+      "model": "Ryzen 7",
+      "generation": 10,
+      "clockSpeed": "2.9 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 16
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "120Hz FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "300-nit Brightness"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/DzvVpRN0/Lenovo-1.png",
+"https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/xC8wnMnS/Lenovo-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "NVIDIA GTX 1660 Ti",
+      "memorySize": 6,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Legion TrueStrike", "Numeric Keypad"],
+      "touchpadFeatures": ["Precision Touchpad", "Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Harman Kardon Speaker System"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Built-in Dual Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.1", "USB 3.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Phantom Black",
+      "weight": "2.3 kg",
+      "thickness": "24.9mm",
+      "dimensions": "363 x 260 x 24.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "60 Wh",
+      "adapterWatt": 170,
+      "adapterType": "170W Slim Tip AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "MSI GS66 Stealth",
+      "cache": 16,
+      "display": "15.6-inch 240Hz FHD",
+      "generation": 11,
+      "brand": "MSI",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2200,
+      "emiPrice": 190,
+      "discountedPrice": 2100,
+      "specialFeatures": [
+        "Intel Core i9 Processor",
+        "NVIDIA RTX 3080 Graphics",
+        "SteelSeries RGB Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9",
+      "generation": 11,
+      "clockSpeed": "2.4 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 16
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "240Hz FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "Thin Bezel"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 2,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/fLP6LyRS/msi-1.png",
+"https://i.postimg.cc/c6y2RzYs/msi-2.png",
+"https://i.postimg.cc/Hn7F7mrZ/msi-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "NVIDIA RTX 3080",
+      "memorySize": 8,
+      "memoryType": "GDDR6"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "SteelSeries RGB",
+        "Per-Key Backlighting",
+        "Precision Touchpad"
+      ],
+      "touchpadFeatures": ["Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Nahimic 3 Audio Enhancer"
+    },
+    "audio": {
+      "speakerFeature": "Dynaudio Speakers",
+      "microphoneFeature": "Built-in Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 3", "USB-C", "USB 3.2"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6E",
+      "bluetoothDetails": "Bluetooth 5.2"
+    },
+    "physicalDetails": {
+      "color": "Core Black",
+      "weight": "2.1 kg",
+      "thickness": "19.8mm",
+      "dimensions": "358 x 248 x 19.8 mm"
+    },
+    "batteryDetails": {
+      "capacity": "99.9 Wh",
+      "adapterWatt": 230,
+      "adapterType": "230W Slim AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 10
+  },
+  {
+    "keyFeatures": {
+      "modelname": "MSI Prestige 15",
+      "cache": 12,
+      "display": "15.6-inch 4K UHD",
+      "generation": 10,
+      "brand": "MSI",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1800,
+      "emiPrice": 150,
+      "discountedPrice": 1700,
+      "specialFeatures": [
+        "Intel Core i7 Processor",
+        "NVIDIA GTX 1650 Graphics",
+        "True Color Technology"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 10,
+      "clockSpeed": "1.8 GHz",
+      "core": 6,
+      "thread": 12,
+      "cache": 12
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["IPS", "Anti-glare", "100% Adobe RGB"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2300
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/fLP6LyRS/msi-1.png",
+"https://i.postimg.cc/c6y2RzYs/msi-2.png",
+"https://i.postimg.cc/Hn7F7mrZ/msi-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "NVIDIA GTX 1650",
+      "memorySize": 4,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["White Backlight", "Precision Touchpad"],
+      "touchpadFeatures": ["Multi-touch"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Nahimic 3 Audio Enhancer"
+    },
+    "audio": {
+      "speakerFeature": "Dynaudio Speakers",
+      "microphoneFeature": "Built-in Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 3", "USB-C", "USB 3.2"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Carbon Gray",
+      "weight": "1.6 kg",
+      "thickness": "15.9mm",
+      "dimensions": "356.8 x 233.7 x 15.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "82 Wh",
+      "adapterWatt": 90,
+      "adapterType": "90W Slim AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 8
+  },
+  {
+    "keyFeatures": {
+      "modelname": "ASUS VivoBook S14",
+      "cache": 6,
+      "display": "14-inch FHD",
+      "generation": 11,
+      "brand": "ASUS",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 900,
+      "emiPrice": 80,
+      "discountedPrice": 850,
+      "specialFeatures": [
+        "Intel Core i5 Processor",
+        "NanoEdge Display",
+        "ErgoLift Hinge"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "2.4 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 6
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "FHD",
+      "displayFeatures": ["IPS", "NanoEdge", "ErgoLift Hinge"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2300
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/qMKdNsnJ/Asus-1.png",
+"https://i.postimg.cc/nVgJVRXS/Asus-2.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Integrated Graphics",
+      "memorySize": 0,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "ErgoLift", "Full-size Keyboard"],
+      "touchpadFeatures": ["Precision Touchpad"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "ASUS SonicMaster Audio"
+    },
+    "audio": {
+      "speakerFeature": "Harman Kardon Certified",
+      "microphoneFeature": "Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["MicroSD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Indie Black",
+      "weight": "1.4 kg",
+      "thickness": "15.9mm",
+      "dimensions": "324 x 215 x 15.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "50 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W Type-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "Carry-in"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Dell Inspiron 15 7000 2-in-1",
+      "cache": 8,
+      "display": "15.6-inch 4K UHD",
+      "generation": 11,
+      "brand": "Dell",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 1400,
+      "emiPrice": 120,
+      "discountedPrice": 1300,
+      "specialFeatures": [
+        "Intel Core i7 Processor",
+        "360-degree Hinge",
+        "Active Pen Compatible"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "2.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["IPS", "Touchscreen", "Active Pen Compatible"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/k45mGLNz/dell-2.png",
+"https://i.postimg.cc/qvdHyNX8/dell-1.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Numeric Keypad", "Active Pen"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Waves MaxxAudio Pro"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Integrated Dual Array Digital Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 4", "USB-C", "USB 3.2"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Silver",
+      "weight": "2.05 kg",
+      "thickness": "19.9mm",
+      "dimensions": "359.9 x 248.9 x 19.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "63 Wh",
+      "adapterWatt": 90,
+      "adapterType": "90W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 25
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Dell Inspiron 14 5000",
+      "cache": 6,
+      "display": "14-inch FHD",
+      "generation": 11,
+      "brand": "Dell",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 256,
+      "regularPrice": 950,
+      "emiPrice": 85,
+      "discountedPrice": 900,
+      "specialFeatures": [
+        "Intel Core i5 Processor",
+        "InfinityEdge Display",
+        "Backlit Keyboard"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 11,
+      "clockSpeed": "2.4 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 6
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "FHD",
+      "displayFeatures": ["IPS", "InfinityEdge", "Anti-glare"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 256,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2300
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/k45mGLNz/dell-2.png",
+"https://i.postimg.cc/qvdHyNX8/dell-1.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 1,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Numeric Keypad", "Precision Touchpad"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Waves MaxxAudio Pro"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Integrated Dual Array Digital Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Platinum Silver",
+      "weight": "1.42 kg",
+      "thickness": "17.9mm",
+      "dimensions": "323.9 x 219.9 x 17.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "53 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "1 year",
+      "warrantyType": "In-home Service"
+    },
+    "quantity": 18
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Lenovo Yoga C940",
+      "cache": 10,
+      "display": "15.6-inch 4K UHD",
+      "generation": 10,
+      "brand": "Lenovo",
+      "ram": 32,
+      "ramType": "DDR4",
+      "storage": 1,
+      "regularPrice": 2000,
+      "emiPrice": 180,
+      "discountedPrice": 1900,
+      "specialFeatures": [
+        "Intel Core i9 Processor",
+        "Rotating Sound Bar",
+        "NVIDIA GTX 1650 Graphics"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9",
+      "generation": 10,
+      "clockSpeed": "2.4 GHz",
+      "core": 8,
+      "thread": 16,
+      "cache": 10
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "4K UHD",
+      "displayFeatures": ["IPS", "HDR400", "Touchscreen"]
+    },
+    "memory": {
+      "ramSize": 32,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 64,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/DzvVpRN0/Lenovo-1.png",
+"https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/xC8wnMnS/Lenovo-3.png"
+    ],
+    "graphics": {
+      "brand": "Nvidia",
+      "model": "NVIDIA GTX 1650",
+      "memorySize": 4,
+      "memoryType": "GDDR5"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Rotating Sound Bar", "Numeric Keypad"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Rotating Sound Bar, Dolby Atmos"
+    },
+    "audio": {
+      "speakerFeature": "Rotating Sound Bar",
+      "microphoneFeature": "Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 3", "USB-C", "USB 3.1"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Mica",
+      "weight": "2 kg",
+      "thickness": "17.5mm",
+      "dimensions": "355.5 x 238.7 x 17.5 mm"
+    },
+    "batteryDetails": {
+      "capacity": "69 Wh",
+      "adapterWatt": 90,
+      "adapterType": "90W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Lenovo Yoga 9i",
+      "cache": 12,
+      "display": "14-inch UHD",
+      "generation": 11,
+      "brand": "Lenovo",
+      "ram": 16,
+      "ramType": "LPDDR4x",
+      "storage": 1,
+      "regularPrice": 1800,
+      "emiPrice": 160,
+      "discountedPrice": 1700,
+      "specialFeatures": [
+        "Intel Core i7 Processor",
+        "Rotating Sound Bar",
+        "Dolby Vision"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "2.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 12
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "UHD",
+      "displayFeatures": ["IPS", "Dolby Vision", "Touchscreen"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3733,
+      "ramType": "LPDDR4x",
+      "totalRamSlots": 1,
+      "maxRamCapacity": 16,
+      "storageType": "NVMe SSD",
+      "storageSize": 1,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/DzvVpRN0/Lenovo-1.png",
+"https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/xC8wnMnS/Lenovo-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 1,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Rotating Sound Bar", "Numeric Keypad"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Rotating Sound Bar, Dolby Atmos"
+    },
+    "audio": {
+      "speakerFeature": "Rotating Sound Bar",
+      "microphoneFeature": "Array Microphone"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["Thunderbolt 4", "USB-C", "USB 3.2"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Not available",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.1"
+    },
+    "physicalDetails": {
+      "color": "Shadow Black",
+      "weight": "1.35 kg",
+      "thickness": "15.7mm",
+      "dimensions": "317 x 216 x 15.7 mm"
+    },
+    "batteryDetails": {
+      "capacity": "60 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W USB-C Power Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Home",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 22
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer TravelMate X5",
+      "cache": 6,
+      "display": "15.6-inch HD",
+      "generation": 10,
+      "brand": "Acer",
+      "ram": 8,
+      "ramType": "DDR4",
+      "storage": 256,
+      "regularPrice": 1000,
+      "emiPrice": 90,
+      "discountedPrice": 950,
+      "specialFeatures": [
+        "Intel Core i5 Processor",
+        "Thin and Light Design",
+        "Fingerprint Reader"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i5",
+      "generation": 10,
+      "clockSpeed": "1.6 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 6
+    },
+    "display": {
+      "size": "15.6-inch",
+      "resolution": "HD",
+      "displayFeatures": ["LED-backlit", "ComfyView"]
+    },
+    "memory": {
+      "ramSize": 8,
+      "ramFrequency": 2666,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 256,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2300
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel UHD Graphics",
+      "memorySize": 1,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": [
+        "Backlit",
+        "Fingerprint Reader",
+        "Precision Touchpad"
+      ]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Acer TrueHarmony Technology"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Dual Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Black",
+      "weight": "1.65 kg",
+      "thickness": "17.9mm",
+      "dimensions": "363.4 x 250.5 x 17.9 mm"
+    },
+    "batteryDetails": {
+      "capacity": "48 Wh",
+      "adapterWatt": 45,
+      "adapterType": "45W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "On-site"
+    },
+    "quantity": 15
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Acer TravelMate P6",
+      "cache": 8,
+      "display": "14-inch FHD",
+      "generation": 11,
+      "brand": "Acer",
+      "ram": 16,
+      "ramType": "DDR4",
+      "storage": 512,
+      "regularPrice": 1300,
+      "emiPrice": 120,
+      "discountedPrice": 1200,
+      "specialFeatures": [
+        "Intel Core i7 Processor",
+        "MIL-STD 810G Certified",
+        "Long Battery Life"
+      ]
+    },
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i7",
+      "generation": 11,
+      "clockSpeed": "2.8 GHz",
+      "core": 4,
+      "thread": 8,
+      "cache": 8
+    },
+    "display": {
+      "size": "14-inch",
+      "resolution": "FHD",
+      "displayFeatures": ["IPS", "Anti-glare", "ComfyView"]
+    },
+    "memory": {
+      "ramSize": 16,
+      "ramFrequency": 3200,
+      "ramType": "DDR4",
+      "totalRamSlots": 2,
+      "maxRamCapacity": 32,
+      "storageType": "NVMe SSD",
+      "storageSize": 512,
+      "ssdSlot": 1,
+      "extraSsdSlot": 0,
+      "readSpeed": 3500,
+      "writeSpeed": 2500
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/0NcTTcgf/Lenovo-2.png",
+"https://i.postimg.cc/sxqytKh8/dell-3.png",
+"https://i.postimg.cc/6qkJHqsx/Asus-3.png"
+    ],
+    "graphics": {
+      "brand": "Intel",
+      "model": "Intel Iris Xe",
+      "memorySize": 2,
+      "memoryType": "Shared"
+    },
+    "keyboard": {
+      "keyboardFeatures": ["Backlit", "Spill-resistant", "Precision Touchpad"]
+    },
+    "camera": {
+      "webcamFeature": "HD Webcam",
+      "audioFeature": "Acer TrueHarmony Technology"
+    },
+    "audio": {
+      "speakerFeature": "Stereo Speakers",
+      "microphoneFeature": "Dual Array Microphones"
+    },
+    "ports": {
+      "opticalDrive": false,
+      "hdmiFeature": true,
+      "usbFeatures": ["USB-C", "USB 3.2", "USB 2.0"],
+      "headphonePort": true,
+      "audioPort": true,
+      "ioPorts": ["SD Card Reader"]
+    },
+    "network": {
+      "lanDetails": "Gigabit Ethernet",
+      "wifiDetails": "Wi-Fi 6",
+      "bluetoothDetails": "Bluetooth 5.0"
+    },
+    "physicalDetails": {
+      "color": "Silver",
+      "weight": "1.1 kg",
+      "thickness": "16.6mm",
+      "dimensions": "323 x 218 x 16.6 mm"
+    },
+    "batteryDetails": {
+      "capacity": "60 Wh",
+      "adapterWatt": 65,
+      "adapterType": "65W AC Adapter"
+    },
+    "osDetails": {
+      "os": "Windows 10 Pro",
+      "architecture": "64-bit"
+    },
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "International Travelers Warranty"
+    },
+    "quantity": 20
+  }
+]

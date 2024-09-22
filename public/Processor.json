@@ -1,0 +1,1622 @@
+[
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5800X",
+      "speed": 3.8,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 32,
+      "name": "AMD Ryzen 7 5000 Series",
+      "price": {
+        "regular": 350,
+        "discount": 320,
+        "emi": 30
+      }
+    },
+    "quantity": 40,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+"https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.8,
+      "boostFrequency": 4.7,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "105W",
+      "l2Cache": 4,
+      "l3Cache": 32,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "AMD StoreMI Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i9-11900K",
+      "speed": 3.5,
+      "core": 8,
+      "thread": 16,
+      "socket": "LGA 1200",
+      "cache": 16,
+      "name": "Intel Core i9 11th Gen",
+      "price": {
+        "regular": 450,
+        "discount": 420,
+        "emi": 40
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4", "DDR4-3200"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.5,
+      "boostFrequency": 5.3,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "125W",
+      "l2Cache": 2,
+      "l3Cache": 16,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 3.0",
+        "Hyper-Threading Technology",
+        "Intel Optane Memory Support"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 9 5900X",
+      "speed": 3.7,
+      "core": 12,
+      "thread": 24,
+      "socket": "AM4",
+      "cache": 70,
+      "name": "AMD Ryzen 9 5000 Series",
+      "price": {
+        "regular": 550,
+        "discount": 520,
+        "emi": 45
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.8,
+      "core": 12,
+      "Thread": 24,
+      "defaultTDP": "105W",
+      "l2Cache": 6,
+      "l3Cache": 70,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-11600K",
+      "speed": 3.9,
+      "core": 6,
+      "thread": 12,
+      "socket": "LGA 1200",
+      "cache": 12,
+      "name": "Intel Core i5 11th Gen",
+      "price": {
+        "regular": 300,
+        "discount": 280,
+        "emi": 25
+      }
+    },
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4", "DDR4-2933"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.9,
+      "boostFrequency": 4.9,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "125W",
+      "l2Cache": 3,
+      "l3Cache": 12,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5600X",
+      "speed": 3.7,
+      "core": 6,
+      "thread": 12,
+      "socket": "AM4",
+      "cache": 35,
+      "name": "AMD Ryzen 5 5000 Series",
+      "price": {
+        "regular": 250,
+        "discount": 230,
+        "emi": 20
+      }
+    },
+    "quantity": 45,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.6,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 35,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "AMD Precision Boost Overdrive"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i7-11700K",
+      "speed": 3.6,
+      "core": 8,
+      "thread": 16,
+      "socket": "LGA 1200",
+      "cache": 16,
+      "name": "Intel Core i7 11th Gen",
+      "price": {
+        "regular": 400,
+        "discount": 380,
+        "emi": 35
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4", "DDR4-3200"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 5.0,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "125W",
+      "l2Cache": 4,
+      "l3Cache": 16,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Hyper-Threading Technology",
+        "Intel Quick Sync Video"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 3 3300X",
+      "speed": 3.8,
+      "core": 4,
+      "thread": 8,
+      "socket": "AM4",
+      "cache": 18,
+      "name": "AMD Ryzen 3 3000 Series",
+      "price": {
+        "regular": 150,
+        "discount": 140,
+        "emi": 15
+      }
+    },
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.8,
+      "boostFrequency": 4.3,
+      "core": 4,
+      "Thread": 8,
+      "defaultTDP": "65W",
+      "l2Cache": 2,
+      "l3Cache": 18,
+      "specialFeatures": [
+        "Precision Boost",
+        "Simultaneous Multithreading",
+        "AMD Ryzen Master Utility"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i9-12900K",
+      "speed": 3.2,
+      "core": 16,
+      "thread": 24,
+      "socket": "LGA 1700",
+      "cache": 30,
+      "name": "Intel Core i9 12th Gen",
+      "price": {
+        "regular": 650,
+        "discount": 620,
+        "emi": 55
+      }
+    },
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.2,
+      "boostFrequency": 5.3,
+      "core": 16,
+      "Thread": 24,
+      "defaultTDP": "150W",
+      "l2Cache": 8,
+      "l3Cache": 30,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 770"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5700G",
+      "speed": 3.8,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 20,
+      "name": "AMD Ryzen 7 5000 Series",
+      "price": {
+        "regular": 400,
+        "discount": 380,
+        "emi": 35
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.8,
+      "boostFrequency": 4.6,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "65W",
+      "l2Cache": 4,
+      "l3Cache": 20,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Vega Graphics"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5600G",
+      "speed": 3.9,
+      "core": 6,
+      "thread": 12,
+      "socket": "AM4",
+      "cache": 19,
+      "name": "AMD Ryzen 5 5000 Series",
+      "price": {
+        "regular": 280,
+        "discount": 260,
+        "emi": 22
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.9,
+      "boostFrequency": 4.4,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 19,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Vega Graphics"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-12600K",
+      "speed": 3.7,
+      "core": 10,
+      "thread": 16,
+      "socket": "LGA 1700",
+      "cache": 18,
+      "name": "Intel Core i5 12th Gen",
+      "price": {
+        "regular": 350,
+        "discount": 330,
+        "emi": 30
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.9,
+      "core": 10,
+      "Thread": 16,
+      "defaultTDP": "125W",
+      "l2Cache": 5,
+      "l3Cache": 18,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 770"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 9 5950X",
+      "speed": 3.4,
+      "core": 16,
+      "thread": 32,
+      "socket": "AM4",
+      "cache": 72,
+      "name": "AMD Ryzen 9 5000 Series",
+      "price": {
+        "regular": 750,
+        "discount": 720,
+        "emi": 60
+      }
+    },
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.4,
+      "boostFrequency": 4.9,
+      "core": 16,
+      "Thread": 32,
+      "defaultTDP": "105W",
+      "l2Cache": 8,
+      "l3Cache": 72,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i3-12100",
+      "speed": 3.1,
+      "core": 4,
+      "thread": 8,
+      "socket": "LGA 1700",
+      "cache": 9,
+      "name": "Intel Core i3 12th Gen",
+      "price": {
+        "regular": 150,
+        "discount": 140,
+        "emi": 12
+      }
+    },
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4", "DDR4-3200"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.1,
+      "boostFrequency": 4.1,
+      "core": 4,
+      "Thread": 8,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 9,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5800G",
+      "speed": 3.8,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 20,
+      "name": "AMD Ryzen 7 5000 Series",
+      "price": {
+        "regular": 400,
+        "discount": 380,
+        "emi": 35
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.8,
+      "boostFrequency": 4.6,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "65W",
+      "l2Cache": 4,
+      "l3Cache": 20,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Vega Graphics"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i7-12700K",
+      "speed": 3.6,
+      "core": 12,
+      "thread": 20,
+      "socket": "LGA 1700",
+      "cache": 24,
+      "name": "Intel Core i7 12th Gen",
+      "price": {
+        "regular": 500,
+        "discount": 480,
+        "emi": 40
+      }
+    },
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 5.0,
+      "core": 12,
+      "Thread": 20,
+      "defaultTDP": "125W",
+      "l2Cache": 6,
+      "l3Cache": 24,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 770"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5700X",
+      "speed": 3.8,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 36,
+      "name": "AMD Ryzen 5 5000 Series",
+      "price": {
+        "regular": 300,
+        "discount": 280,
+        "emi": 25
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.8,
+      "boostFrequency": 4.6,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "105W",
+      "l2Cache": 4,
+      "l3Cache": 36,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-13400",
+      "speed": 2.8,
+      "core": 6,
+      "thread": 12,
+      "socket": "LGA 1700",
+      "cache": 12,
+      "name": "Intel Core i5 13th Gen",
+      "price": {
+        "regular": 250,
+        "discount": 230,
+        "emi": 20
+      }
+    },
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 2.8,
+      "boostFrequency": 4.4,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 12,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 3 3500X",
+      "speed": 3.6,
+      "core": 6,
+      "thread": 6,
+      "socket": "AM4",
+      "cache": 16,
+      "name": "AMD Ryzen 3 3000 Series",
+      "price": {
+        "regular": 120,
+        "discount": 110,
+        "emi": 12
+      }
+    },
+    "quantity": 40,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4", "DDR4-2666"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 4.1,
+      "core": 6,
+      "Thread": 6,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 16,
+      "specialFeatures": [
+        "Precision Boost",
+        "Simultaneous Multithreading",
+        "AMD Ryzen Master Utility"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i9-13900K",
+      "speed": 3.5,
+      "core": 16,
+      "thread": 24,
+      "socket": "LGA 1700",
+      "cache": 30,
+      "name": "Intel Core i9 13th Gen",
+      "price": {
+        "regular": 700,
+        "discount": 670,
+        "emi": 55
+      }
+    },
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.5,
+      "boostFrequency": 5.3,
+      "core": 16,
+      "Thread": 24,
+      "defaultTDP": "150W",
+      "l2Cache": 8,
+      "l3Cache": 30,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 770"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 4700G",
+      "speed": 3.6,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 16,
+      "name": "AMD Ryzen 7 4000 Series",
+      "price": {
+        "regular": 300,
+        "discount": 280,
+        "emi": 25
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 4.4,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "65W",
+      "l2Cache": 4,
+      "l3Cache": 16,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Vega Graphics"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-12400",
+      "speed": 2.5,
+      "core": 6,
+      "thread": 12,
+      "socket": "LGA 1700",
+      "cache": 15,
+      "name": "Intel Core i5 12th Gen",
+      "price": {
+        "regular": 220,
+        "discount": 200,
+        "emi": 18
+      }
+    },
+    "quantity": 40,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 2.5,
+      "boostFrequency": 4.2,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 15,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 3 3100",
+      "speed": 3.6,
+      "core": 4,
+      "thread": 8,
+      "socket": "AM4",
+      "cache": 18,
+      "name": "AMD Ryzen 3 3000 Series",
+      "price": {
+        "regular": 120,
+        "discount": 110,
+        "emi": 12
+      }
+    },
+    "quantity": 45,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4", "DDR4-2666"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 3.9,
+      "core": 4,
+      "Thread": 8,
+      "defaultTDP": "65W",
+      "l2Cache": 2,
+      "l3Cache": 18,
+      "specialFeatures": [
+        "Precision Boost",
+        "Simultaneous Multithreading",
+        "AMD Ryzen Master Utility"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i3-14100",
+      "speed": 3.2,
+      "core": 4,
+      "thread": 8,
+      "socket": "LGA 1700",
+      "cache": 10,
+      "name": "Intel Core i3 14th Gen",
+      "price": {
+        "regular": 160,
+        "discount": 150,
+        "emi": 14
+      }
+    },
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4", "DDR4-3200"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.2,
+      "boostFrequency": 4.0,
+      "core": 4,
+      "Thread": 8,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 10,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 9 5900X",
+      "speed": 3.7,
+      "core": 12,
+      "thread": 24,
+      "socket": "AM4",
+      "cache": 70,
+      "name": "AMD Ryzen 9 5000 Series",
+      "price": {
+        "regular": 600,
+        "discount": 580,
+        "emi": 50
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.8,
+      "core": 12,
+      "Thread": 24,
+      "defaultTDP": "105W",
+      "l2Cache": 6,
+      "l3Cache": 70,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i7-13700K",
+      "speed": 3.4,
+      "core": 10,
+      "thread": 20,
+      "socket": "LGA 1700",
+      "cache": 20,
+      "name": "Intel Core i7 13th Gen",
+      "price": {
+        "regular": 480,
+        "discount": 460,
+        "emi": 38
+      }
+    },
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.4,
+      "boostFrequency": 5.0,
+      "core": 10,
+      "Thread": 20,
+      "defaultTDP": "125W",
+      "l2Cache": 5,
+      "l3Cache": 20,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 770"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5500X",
+      "speed": 3.7,
+      "core": 6,
+      "thread": 12,
+      "socket": "AM4",
+      "cache": 24,
+      "name": "AMD Ryzen 5 5000 Series",
+      "price": {
+        "regular": 320,
+        "discount": 300,
+        "emi": 28
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.5,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "95W",
+      "l2Cache": 3,
+      "l3Cache": 24,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-13600",
+      "speed": 2.6,
+      "core": 6,
+      "thread": 12,
+      "socket": "LGA 1700",
+      "cache": 18,
+      "name": "Intel Core i5 13th Gen",
+      "price": {
+        "regular": 280,
+        "discount": 260,
+        "emi": 24
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 2.6,
+      "boostFrequency": 4.2,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 18,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 4650G",
+      "speed": 3.7,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 12,
+      "name": "AMD Ryzen 7 4000 Series",
+      "price": {
+        "regular": 280,
+        "discount": 260,
+        "emi": 24
+      }
+    },
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.2,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "65W",
+      "l2Cache": 4,
+      "l3Cache": 12,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Vega Graphics"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i9-14400",
+      "speed": 3.3,
+      "core": 12,
+      "thread": 24,
+      "socket": "LGA 1700",
+      "cache": 28,
+      "name": "Intel Core i9 14th Gen",
+      "price": {
+        "regular": 550,
+        "discount": 530,
+        "emi": 45
+      }
+    },
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.3,
+      "boostFrequency": 5.1,
+      "core": 12,
+      "Thread": 24,
+      "defaultTDP": "150W",
+      "l2Cache": 6,
+      "l3Cache": 28,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 770"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5600",
+      "speed": 3.6,
+      "core": 6,
+      "thread": 12,
+      "socket": "AM4",
+      "cache": 24,
+      "name": "AMD Ryzen 5 5000 Series",
+      "price": {
+        "regular": 350,
+        "discount": 330,
+        "emi": 30
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 128,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 4.4,
+      "core": 6,
+      "Thread": 12,
+      "defaultTDP": "65W",
+      "l2Cache": 3,
+      "l3Cache": 24,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i7-14700K",
+      "speed": 3.6,
+      "core": 12,
+      "thread": 24,
+      "socket": "LGA 1700",
+      "cache": 24,
+      "name": "Intel Core i7 14th Gen",
+      "price": {
+        "regular": 550,
+        "discount": 530,
+        "emi": 45
+      }
+    },
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.6,
+      "boostFrequency": 5.2,
+      "core": 12,
+      "Thread": 24,
+      "defaultTDP": "125W",
+      "l2Cache": 6,
+      "l3Cache": 24,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 780"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 9 5950X",
+      "speed": 3.4,
+      "core": 16,
+      "thread": 32,
+      "socket": "AM4",
+      "cache": 72,
+      "name": "AMD Ryzen 9 5000 Series",
+      "price": {
+        "regular": 700,
+        "discount": 680,
+        "emi": 55
+      }
+    },
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.4,
+      "boostFrequency": 4.9,
+      "core": 16,
+      "Thread": 32,
+      "defaultTDP": "105W",
+      "l2Cache": 8,
+      "l3Cache": 72,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i3-14900",
+      "speed": 3.0,
+      "core": 4,
+      "thread": 8,
+      "socket": "LGA 1700",
+      "cache": 8,
+      "name": "Intel Core i3 14th Gen",
+      "price": {
+        "regular": 180,
+        "discount": 160,
+        "emi": 15
+      }
+    },
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/VksBZHX1/Ryzen-5-5600-X-1.png",
+      "https://i.postimg.cc/9FYYpjRJ/Ryzen-5-5600-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 64,
+      "supportedTypes": ["DDR4", "DDR4-3200"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.0,
+      "boostFrequency": 4.3,
+      "core": 4,
+      "Thread": 8,
+      "defaultTDP": "65W",
+      "l2Cache": 2,
+      "l3Cache": 8,
+      "specialFeatures": [
+        "Intel Turbo Boost Technology 2.0",
+        "Quick Sync Video",
+        "Intel Virtualization Technology"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 5 5900",
+      "speed": 3.7,
+      "core": 12,
+      "thread": 24,
+      "socket": "AM4",
+      "cache": 36,
+      "name": "AMD Ryzen 5 5000 Series",
+      "price": {
+        "regular": 400,
+        "discount": 380,
+        "emi": 35
+      }
+    },
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/9M9Gq3HP/9th-Gen-Intel-Core-i5-9600-K-1.png",
+      "https://i.postimg.cc/hvbTp9jf/9th-Gen-Intel-Core-i5-9600-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 4.6,
+      "core": 12,
+      "Thread": 24,
+      "defaultTDP": "105W",
+      "l2Cache": 6,
+      "l3Cache": 36,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i9-15600K",
+      "speed": 3.7,
+      "core": 16,
+      "thread": 32,
+      "socket": "LGA 1700",
+      "cache": 32,
+      "name": "Intel Core i9 15th Gen",
+      "price": {
+        "regular": 650,
+        "discount": 630,
+        "emi": 50
+      }
+    },
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/43q6dfqN/Ryzen-9-5900-X-1.png",
+      "https://i.postimg.cc/vZP7JLvn/Ryzen-9-5900-X-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR5", "DDR4-6400"],
+      "maxMemoryChannels": 4
+    },
+    "basic": {
+      "baseFrequency": 3.7,
+      "boostFrequency": 5.3,
+      "core": 16,
+      "Thread": 32,
+      "defaultTDP": "150W",
+      "l2Cache": 8,
+      "l3Cache": 32,
+      "specialFeatures": [
+        "Intel Turbo Boost Max Technology 4.0",
+        "Hyper-Threading Technology",
+        "Intel UHD Graphics 780"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5800",
+      "speed": 3.8,
+      "core": 8,
+      "thread": 16,
+      "socket": "AM4",
+      "cache": 32,
+      "name": "AMD Ryzen 7 5000 Series",
+      "price": {
+        "regular": 400,
+        "discount": 380,
+        "emi": 35
+      }
+    },
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "imageLinks": [
+      "https://i.postimg.cc/CKzCSBvQ/11th-Gen-Intel-Core-i3-12300-K-1.png",
+      "https://i.postimg.cc/HnCbwSTq/11th-Gen-Intel-Core-i3-12300-K-2.png"
+    ],
+    "memory": {
+      "maxSize": 256,
+      "supportedTypes": ["DDR4"],
+      "maxMemoryChannels": 2
+    },
+    "basic": {
+      "baseFrequency": 3.8,
+      "boostFrequency": 4.7,
+      "core": 8,
+      "Thread": 16,
+      "defaultTDP": "105W",
+      "l2Cache": 4,
+      "l3Cache": 32,
+      "specialFeatures": [
+        "Precision Boost 2",
+        "Simultaneous Multithreading",
+        "Infinity Fabric"
+      ]
+    }
+  } 
+]

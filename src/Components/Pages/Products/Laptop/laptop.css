@@ -1,0 +1,22 @@
+.custom-checkbox {
+    --unchecked-color: white; /* Define the color when checkbox is unchecked */
+  }
+  
+  .custom-checkbox input[type="checkbox"] {
+    appearance: none; /* Remove default appearance */
+    -webkit-appearance: none; /* For Safari */
+    -moz-appearance: none; /* For Firefox */
+    width: 1em; /* Adjust the checkbox size */
+    height: 1em;
+    border: 2px solid #000; /* Add a border for visibility */
+    border-radius: 2px; /* Adjust border radius */
+  }
+  
+  .custom-checkbox input[type="checkbox"]:checked {
+    background-color: indigo; /* Set the background color when checkbox is checked */
+  }
+  
+  .custom-checkbox input[type="checkbox"]:not(:checked) {
+    background-color: var(--unchecked-color); /* Set the background color when checkbox is unchecked */
+  }
+  

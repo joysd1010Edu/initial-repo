@@ -1,0 +1,823 @@
+[
+  {
+    "keyFeatures": {
+      "modelname": "Cooler Master Hyper 212 RGB",
+      "brand": "Cooler Master",
+      "price": {
+        "regular": 50,
+        "discount": 45,
+        "emi": 5
+      },
+      "connector": "4-pin",
+      "airflow": 58,
+      "bearingType": "Rifle Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1600,
+      "airflow": 58,
+      "noise": 26,
+      "specialFeature": ["RGB Lighting", "Direct Contact Heatpipes"]
+    },
+    "physical": {
+      "weight": "0.8 kg",
+      "heatsink": "Aluminum",
+      "dimension": "120 x 79.6 x 158.8 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+"https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+"https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 100,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "AM2+", "AM2", "FM2+", "FM2", "FM1"],
+      "intel": [
+        "LGA2066",
+        "LGA2011-v3",
+        "LGA2011",
+        "LGA1200",
+        "LGA1156",
+        "LGA1155",
+        "LGA1151",
+        "LGA1150"
+      ]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Noctua NH-D15",
+      "brand": "Noctua",
+      "price": {
+        "regular": 90,
+        "discount": 85,
+        "emi": 8
+      },
+      "connector": "4-pin",
+      "airflow": 82,
+      "bearingType": "SSO2 Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1500,
+      "airflow": 82,
+      "noise": 24,
+      "specialFeature": ["Dual Tower Design", "PWM Support"]
+    },
+    "physical": {
+      "weight": "1.32 kg",
+      "heatsink": "Dual Aluminum Fins",
+      "dimension": "150 x 161 x 165 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/xCGNh9jx/Cooler-Master-Hyper-212-1.png",
+"https://i.postimg.cc/V6PbKJw0/Cooler-Master-Hyper-212-2.png",
+"https://i.postimg.cc/7L221gFy/Cooler-Master-Hyper-212-3.png"
+    ],
+    "quantity": 50,
+    "warrantyDetails": {
+      "warrantyPeriod": "5 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA2066", "LGA2011-v3", "LGA2011", "LGA1200", "LGA115x"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Corsair H115i RGB Platinum",
+      "brand": "Corsair",
+      "price": {
+        "regular": 140,
+        "discount": 130,
+        "emi": 12
+      },
+      "connector": "3-pin",
+      "airflow": 97,
+      "bearingType": "Rifle Bearing"
+    },
+    "basic": {
+      "fanSpeed": 2000,
+      "airflow": 97,
+      "noise": 28,
+      "specialFeature": ["RGB Lighting", "240mm Radiator"]
+    },
+    "physical": {
+      "weight": "1.75 kg",
+      "heatsink": "Aluminum Radiator",
+      "dimension": "280 x 120 x 25 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MK9VzZ7g/Corsair-Hydro-1.png",
+"https://i.postimg.cc/2y2bjTZn/Corsair-Hydro-2.png",
+"https://i.postimg.cc/y6PST6bW/Corsair-Hydro-3.png"
+    ],
+    "quantity": 30,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "NZXT Kraken X63",
+      "brand": "NZXT",
+      "price": {
+        "regular": 160,
+        "discount": 150,
+        "emi": 15
+      },
+      "connector": "4-pin",
+      "airflow": 98,
+      "bearingType": "Fluid Dynamic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1800,
+      "airflow": 98,
+      "noise": 30,
+      "specialFeature": ["RGB Lighting", "280mm Radiator"]
+    },
+    "physical": {
+      "weight": "1.45 kg",
+      "heatsink": "Aluminum Radiator",
+      "dimension": "315 x 143 x 30 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MTwvyg0y/EVGA-CLC-280-RGB-1.png",
+"https://i.postimg.cc/VkSr1qLb/EVGA-CLC-280-RGB-2.png",
+"https://i.postimg.cc/pXSr0mYV/EVGA-CLC-280-RGB-3.png"
+    ],
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Cooler Master Hyper 212 RGB",
+      "brand": "Cooler Master",
+      "price": {
+        "regular": 45,
+        "discount": 40,
+        "emi": 5
+      },
+      "connector": "4-pin",
+      "airflow": 75,
+      "bearingType": "Rifle Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1600,
+      "airflow": 75,
+      "noise": 26,
+      "specialFeature": ["RGB Lighting", "Direct Contact Heat Pipes"]
+    },
+    "physical": {
+      "weight": "0.72 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "120 x 80 x 159 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+"https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+"https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 40,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Deepcool GAMMAXX 400 V2",
+      "brand": "Deepcool",
+      "price": {
+        "regular": 35,
+        "discount": 30,
+        "emi": 4
+      },
+      "connector": "3-pin",
+      "airflow": 74,
+      "bearingType": "Hydro Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1600,
+      "airflow": 74,
+      "noise": 27,
+      "specialFeature": ["4 Heat Pipes", "Tower-Style Design"]
+    },
+    "physical": {
+      "weight": "0.75 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "135 x 80 x 154 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/xCGNh9jx/Cooler-Master-Hyper-212-1.png",
+"https://i.postimg.cc/V6PbKJw0/Cooler-Master-Hyper-212-2.png",
+"https://i.postimg.cc/7L221gFy/Cooler-Master-Hyper-212-3.png"
+    ],
+    "quantity": 35,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Arctic Freezer 34 eSports DUO",
+      "brand": "Arctic",
+      "price": {
+        "regular": 45,
+        "discount": 42,
+        "emi": 5
+      },
+      "connector": "4-pin",
+      "airflow": 74,
+      "bearingType": "Fluid Dynamic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 2100,
+      "airflow": 74,
+      "noise": 23,
+      "specialFeature": ["Dual Fan Configuration", "Direct Touch Heat Pipes"]
+    },
+    "physical": {
+      "weight": "0.85 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "124 x 157 x 103 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MK9VzZ7g/Corsair-Hydro-1.png",
+"https://i.postimg.cc/2y2bjTZn/Corsair-Hydro-2.png",
+"https://i.postimg.cc/y6PST6bW/Corsair-Hydro-3.png"
+    ],
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Thermalright Le Grand Macho RT",
+      "brand": "Thermalright",
+      "price": {
+        "regular": 80,
+        "discount": 75,
+        "emi": 8
+      },
+      "connector": "4-pin",
+      "airflow": 73,
+      "bearingType": "Fluid Dynamic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1500,
+      "airflow": 73,
+      "noise": 21,
+      "specialFeature": ["Nickel-Plated Copper Base", "Passive Heatsink Design"]
+    },
+    "physical": {
+      "weight": "1.25 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "159 x 140 x 130 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MTwvyg0y/EVGA-CLC-280-RGB-1.png",
+"https://i.postimg.cc/VkSr1qLb/EVGA-CLC-280-RGB-2.png",
+"https://i.postimg.cc/pXSr0mYV/EVGA-CLC-280-RGB-3.png"
+    ],
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "5 years",
+      "warrantyType": "Extended Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Be Quiet! Dark Rock Pro 4",
+      "brand": "Be Quiet!",
+      "price": {
+        "regular": 85,
+        "discount": 80,
+        "emi": 8
+      },
+      "connector": "4-pin",
+      "airflow": 88,
+      "bearingType": "Fluid Dynamic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1500,
+      "airflow": 88,
+      "noise": 24,
+      "specialFeature": ["Dual Tower Design", "Silent Wings Fans"]
+    },
+    "physical": {
+      "weight": "1.13 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "145 x 136 x 162 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+"https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+"https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 18,
+    "warrantyDetails": {
+      "warrantyPeriod": "4 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Scythe Mugen 5 Rev.B",
+      "brand": "Scythe",
+      "price": {
+        "regular": 60,
+        "discount": 55,
+        "emi": 6
+      },
+      "connector": "4-pin",
+      "airflow": 70,
+      "bearingType": "Sealed Precision FDB"
+    },
+    "basic": {
+      "fanSpeed": 1200,
+      "airflow": 70,
+      "noise": 24,
+      "specialFeature": ["Kaze Flex Fan", "Asymmetrical Design"]
+    },
+    "physical": {
+      "weight": "1.17 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "130 x 154.5 x 110 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/xCGNh9jx/Cooler-Master-Hyper-212-1.png",
+"https://i.postimg.cc/V6PbKJw0/Cooler-Master-Hyper-212-2.png",
+"https://i.postimg.cc/7L221gFy/Cooler-Master-Hyper-212-3.png"
+    ],
+    "quantity": 22,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "EVGA CLC 280",
+      "brand": "EVGA",
+      "price": {
+        "regular": 130,
+        "discount": 120,
+        "emi": 12
+      },
+      "connector": "4-pin",
+      "airflow": 113,
+      "bearingType": "Teflon Nano Bearing"
+    },
+    "basic": {
+      "fanSpeed": 2200,
+      "airflow": 113,
+      "noise": 39,
+      "specialFeature": ["RGB Lighting", "280mm Radiator"]
+    },
+    "physical": {
+      "weight": "1.5 kg",
+      "heatsink": "Aluminum Radiator",
+      "dimension": "312 x 139 x 27 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MK9VzZ7g/Corsair-Hydro-1.png",
+"https://i.postimg.cc/2y2bjTZn/Corsair-Hydro-2.png",
+"https://i.postimg.cc/y6PST6bW/Corsair-Hydro-3.png"
+    ],
+    "quantity": 12
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Phanteks PH-TC14PE",
+      "brand": "Phanteks",
+      "price": {
+        "regular": 95,
+        "discount": 90,
+        "emi": 9
+      },
+      "connector": "4-pin",
+      "airflow": 78,
+      "bearingType": "UFB (Updraft Floating Balance) Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1200,
+      "airflow": 78,
+      "noise": 19,
+      "specialFeature": ["Dual Tower Design", "Five 8mm Heatpipes"]
+    },
+    "physical": {
+      "weight": "1.5 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "159 x 140 x 171 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MTwvyg0y/EVGA-CLC-280-RGB-1.png",
+"https://i.postimg.cc/VkSr1qLb/EVGA-CLC-280-RGB-2.png",
+"https://i.postimg.cc/pXSr0mYV/EVGA-CLC-280-RGB-3.png"
+    ],
+    "quantity": 18,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Noctua NH-U12S Redux-1500 PWM",
+      "brand": "Noctua",
+      "price": {
+        "regular": 60,
+        "discount": 55,
+        "emi": 6
+      },
+      "connector": "4-pin",
+      "airflow": 74,
+      "bearingType": "SSO-Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1500,
+      "airflow": 74,
+      "noise": 23,
+      "specialFeature": ["Classic Redux Edition", "PWM Support"]
+    },
+    "physical": {
+      "weight": "0.87 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "158 x 125 x 45 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+"https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+"https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Cryorig H7 Quad Lumi",
+      "brand": "Cryorig",
+      "price": {
+        "regular": 80,
+        "discount": 75,
+        "emi": 8
+      },
+      "connector": "4-pin",
+      "airflow": 49,
+      "bearingType": "Fluid Dynamic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1600,
+      "airflow": 49,
+      "noise": 25,
+      "specialFeature": ["RGB Lighting", "Quad Lumi RGB System"]
+    },
+    "physical": {
+      "weight": "1.15 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "145 x 123 x 98 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+"https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+"https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "4 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Silverstone Argon Series AR11",
+      "brand": "Silverstone",
+      "price": {
+        "regular": 50,
+        "discount": 48,
+        "emi": 5
+      },
+      "connector": "3-pin",
+      "airflow": 47,
+      "bearingType": "Rifle Bearing"
+    },
+    "basic": {
+      "fanSpeed": 2500,
+      "airflow": 47,
+      "noise": 18,
+      "specialFeature": ["Low-Profile Design", "92mm PWM Fan"]
+    },
+    "physical": {
+      "weight": "0.46 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "123 x 123 x 47 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MK9VzZ7g/Corsair-Hydro-1.png",
+      "https://i.postimg.cc/2y2bjTZn/Corsair-Hydro-2.png",
+      "https://i.postimg.cc/y6PST6bW/Corsair-Hydro-3.png"
+    ],
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "ID-COOLING SE-234-ARGB",
+      "brand": "ID-COOLING",
+      "price": {
+        "regular": 40,
+        "discount": 38,
+        "emi": 4
+      },
+      "connector": "4-pin",
+      "airflow": 56,
+      "bearingType": "Hydraulic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1600,
+      "airflow": 56,
+      "noise": 22,
+      "specialFeature": ["ARGB Lighting", "120mm PWM Fan"]
+    },
+    "physical": {
+      "weight": "0.8 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "120 x 120 x 74 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MTwvyg0y/EVGA-CLC-280-RGB-1.png",
+      "https://i.postimg.cc/VkSr1qLb/EVGA-CLC-280-RGB-2.png",
+      "https://i.postimg.cc/pXSr0mYV/EVGA-CLC-280-RGB-3.png"
+    ],
+    "quantity": 25,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "AORUS ATC800",
+      "brand": "Gigabyte",
+      "price": {
+        "regular": 90,
+        "discount": 85,
+        "emi": 9
+      },
+      "connector": "4-pin",
+      "airflow": 75,
+      "bearingType": "Hydraulic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1800,
+      "airflow": 75,
+      "noise": 27,
+      "specialFeature": ["RGB Fusion 2.0", "Dual 120mm Fans"]
+    },
+    "physical": {
+      "weight": "1.2 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "139 x 107 x 166 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+      "https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+      "https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 20,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "DEEPCOOL Castle 240EX",
+      "brand": "DEEPCOOL",
+      "price": {
+        "regular": 120,
+        "discount": 110,
+        "emi": 11
+      },
+      "connector": "4-pin",
+      "airflow": 69,
+      "bearingType": "Fluid Dynamic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1800,
+      "airflow": 69,
+      "noise": 30,
+      "specialFeature": ["Anti-Leak Tech Inside", "Addressable RGB Lighting"]
+    },
+    "physical": {
+      "weight": "1.52 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "274 x 120 x 27 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/xCGNh9jx/Cooler-Master-Hyper-212-1.png",
+      "https://i.postimg.cc/V6PbKJw0/Cooler-Master-Hyper-212-2.png",
+      "https://i.postimg.cc/7L221gFy/Cooler-Master-Hyper-212-3.png"
+    ],
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "LEPA AquaChanger 240",
+      "brand": "LEPA",
+      "price": {
+        "regular": 80,
+        "discount": 75,
+        "emi": 8
+      },
+      "connector": "4-pin",
+      "airflow": 89,
+      "bearingType": "Ceramic Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1600,
+      "airflow": 89,
+      "noise": 25,
+      "specialFeature": ["High-Performance Pump", "240mm Radiator"]
+    },
+    "physical": {
+      "weight": "1.35 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "278 x 123 x 27 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MK9VzZ7g/Corsair-Hydro-1.png",
+      "https://i.postimg.cc/2y2bjTZn/Corsair-Hydro-2.png",
+      "https://i.postimg.cc/y6PST6bW/Corsair-Hydro-3.png"
+    ],
+    "quantity": 18,
+    "warrantyDetails": {
+      "warrantyPeriod": "2 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "ENERMAX ETS-T40F-RF",
+      "brand": "ENERMAX",
+      "price": {
+        "regular": 50,
+        "discount": 45,
+        "emi": 5
+      },
+      "connector": "4-pin",
+      "airflow": 65,
+      "bearingType": "Twister Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1800,
+      "airflow": 65,
+      "noise": 26,
+      "specialFeature": ["Vortex Generation Flow", "Heat Pipe Direct Touch"]
+    },
+    "physical": {
+      "weight": "0.91 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "126 x 126 x 160 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/MTwvyg0y/EVGA-CLC-280-RGB-1.png",
+      "https://i.postimg.cc/VkSr1qLb/EVGA-CLC-280-RGB-2.png",
+      "https://i.postimg.cc/pXSr0mYV/EVGA-CLC-280-RGB-3.png"
+    ],
+    "quantity": 22,
+    "warrantyDetails": {
+      "warrantyPeriod": "3 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  },
+  {
+    "keyFeatures": {
+      "modelname": "Cooler Master MasterAir MA620M",
+      "brand": "Cooler Master",
+      "price": {
+        "regular": 100,
+        "discount": 95,
+        "emi": 10
+      },
+      "connector": "4-pin",
+      "airflow": 57,
+      "bearingType": "Rifle Bearing"
+    },
+    "basic": {
+      "fanSpeed": 1800,
+      "airflow": 57,
+      "noise": 30,
+      "specialFeature": ["Dual Tower Heatsink", "Addressable RGB Lighting"]
+    },
+    "physical": {
+      "weight": "1.62 kg",
+      "heatsink": "Aluminum Fins",
+      "dimension": "135 x 125 x 165 mm"
+    },
+    "images": [
+      "https://i.postimg.cc/NjP6kGLR/be-quiet-D-1.png",
+      "https://i.postimg.cc/tJXnH8YX/be-quiet-D-2.png",
+      "https://i.postimg.cc/sDj5FGhp/be-quiet-D-3.png"
+    ],
+    "quantity": 15,
+    "warrantyDetails": {
+      "warrantyPeriod": "4 years",
+      "warrantyType": "Limited Warranty"
+    },
+    "socket": {
+      "amd": ["AM4", "AM3+", "AM3", "FM2+", "FM2", "FM1"],
+      "intel": ["LGA1200", "LGA115x", "LGA2066"]
+    }
+  }
+  
+]

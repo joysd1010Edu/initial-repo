@@ -1,0 +1,1474 @@
+[
+    {
+      "keyFeatures": {
+        "name": "NZXT H510",
+        "brandName": "NZXT",
+        "modelName": "H510",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 100,
+          "discount": 90,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "210 x 460 x 428 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm, 360mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 2 Type-C", "USB 3.1 Gen 1 Type-A", "Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm"
+        },
+        "driveBayList": ["2.5-inch: 2+1", "3.5-inch: 2+1"],
+        "maxCPUCoolerHeight": "165mm",
+        "maxGPULength": "381mm",
+        "maxPSULength": "311mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/fTkczwm3/Be-quiet-Pure-Base-500-DX-1.png",
+"https://i.postimg.cc/3wjpSW5q/Be-quiet-Pure-Base-500-DX-2.png",
+"https://i.postimg.cc/J4gbt95p/Be-quiet-Pure-Base-500-DX-3.png"
+
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "name": "Corsair Carbide 200R",
+        "brandName": "Corsair",
+        "modelName": "Carbide 200R",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX"],
+        "maxFanSupport": 8,
+        "temperedGlass": false,
+        "preInstalledFan": 2,
+        "preInstalledPSU": true,
+        "price": {
+          "regular": 80,
+          "discount": 75,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Plastic",
+        "dimensionDetails": "497 x 210 x 430 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "240mm, 280mm",
+          "front": "240mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0", "Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm"
+        },
+        "driveBayList": ["3.5-inch: 4", "5.25-inch: 3"],
+        "maxCPUCoolerHeight": "160mm",
+        "maxGPULength": "430mm",
+        "maxPSULength": "180mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/ZRVNmgqF/Be-quiet-Pure-Base-500-DX-Mini-1.png",
+"https://i.postimg.cc/fyy9RKt4/Be-quiet-Pure-Base-500-DX-Mini-2.png",
+"https://i.postimg.cc/fyP0t9mV/Be-quiet-Pure-Base-500-DX-Mini-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "NZXT H510",
+        "brandName": "NZXT",
+        "modelName": "H510",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 7,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 99.99,
+          "discount": 94.99,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "color": "White",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "210 x 460 x 428 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 140mm, 240mm",
+          "front": "120mm, 140mm, 240mm, 280mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 1", "USB-C", "Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "165mm",
+        "maxGPULength": "381mm",
+        "maxPSULength": "311mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/FR9S2mhH/Gigabyte-AORUS-C500-Xtreme-1.png",
+"https://i.postimg.cc/DwX1GBCn/Gigabyte-AORUS-C500-Xtreme-2.png",
+"https://i.postimg.cc/Dz3LPLDs/Gigabyte-AORUS-C500-Xtreme-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "name": "Cooler Master MasterBox Q300L",
+        "brandName": "Cooler Master",
+        "modelName": "MasterBox Q300L",
+        "formFactor": "Micro ATX",
+        "motherboardSupportList": ["Micro ATX", "Mini ITX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 1,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 59.99,
+          "discount": 54.99,
+          "emi": 7
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Acrylic",
+        "dimensionDetails": "387 x 230 x 378 mm",
+        "expansionSlot": 4,
+        "radiatorSupport": {
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0", "Audio/Mic"],
+        "coolingSupport": {
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "driveBayList": ["3.5-inch: 1", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "157mm",
+        "maxGPULength": "360mm",
+        "maxPSULength": "160mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "rear": 1,
+          "front": 1
+        },
+        "supportedFanSize": {
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/TYZDTnTS/Lian-Li-Lancool-2-Mesh-1.png",
+"https://i.postimg.cc/MKcBk9JV/Lian-Li-Lancool-2-Mesh-2.png",
+"https://i.postimg.cc/qBDKZ9Sp/Lian-Li-Lancool-2-Mesh-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Fractal Design Meshify C",
+        "brandName": "Fractal Design",
+        "modelName": "Meshify C",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 7,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 89.99,
+          "discount": 84.99,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "color": "Dark Tint",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "395 x 212 x 440 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "240mm, 280mm",
+          "front": "360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0", "USB 3.1 Gen 2", "Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 3"],
+        "maxCPUCoolerHeight": "172mm",
+        "maxGPULength": "315mm",
+        "maxPSULength": "175mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/fTkczwm3/Be-quiet-Pure-Base-500-DX-1.png",
+"https://i.postimg.cc/3wjpSW5q/Be-quiet-Pure-Base-500-DX-2.png",
+"https://i.postimg.cc/J4gbt95p/Be-quiet-Pure-Base-500-DX-3.png"
+
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "Phanteks Eclipse P400",
+        "brandName": "Phanteks",
+        "modelName": "Eclipse P400",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 79.99,
+          "discount": 74.99,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "color": "Anthracite Grey",
+        "materialDetails": "Steel, ABS, Tempered Glass",
+        "dimensionDetails": "210 x 465 x 470 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "240mm",
+          "front": "360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0", "USB 3.1 Gen 1", "Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 6", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "160mm",
+        "maxGPULength": "395mm",
+        "maxPSULength": "270mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/ZRVNmgqF/Be-quiet-Pure-Base-500-DX-Mini-1.png",
+"https://i.postimg.cc/fyy9RKt4/Be-quiet-Pure-Base-500-DX-Mini-2.png",
+"https://i.postimg.cc/fyP0t9mV/Be-quiet-Pure-Base-500-DX-Mini-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Lian Li Lancool II Mesh",
+        "brandName": "Lian Li",
+        "modelName": "Lancool II Mesh",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "E-ATX", "Micro ATX"],
+        "maxFanSupport": 9,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 129.99,
+          "discount": 124.99,
+          "emi": 12
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Tempered Glass, Mesh",
+        "dimensionDetails": "230 x 494 x 478 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "360mm",
+          "front": "360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 2 Type-C", "USB 3.0", "Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 4"],
+        "maxCPUCoolerHeight": "176mm",
+        "maxGPULength": "384mm",
+        "maxPSULength": "200mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3,
+          "bottom": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "bottom": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/FR9S2mhH/Gigabyte-AORUS-C500-Xtreme-1.png",
+"https://i.postimg.cc/DwX1GBCn/Gigabyte-AORUS-C500-Xtreme-2.png",
+"https://i.postimg.cc/Dz3LPLDs/Gigabyte-AORUS-C500-Xtreme-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 12
+    },
+    {
+      "keyFeatures": {
+        "name": "InWin A1 Plus",
+        "brandName": "InWin",
+        "modelName": "A1 Plus",
+        "formFactor": "Mini ITX",
+        "motherboardSupportList": ["Mini ITX"],
+        "maxFanSupport": 2,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": true,
+        "price": {
+          "regular": 149.99,
+          "discount": 144.99,
+          "emi": 15
+        }
+      },
+      "basic": {
+        "color": "White",
+        "materialDetails": "SECC, Tempered Glass",
+        "dimensionDetails": "273 x 216 x 355 mm",
+        "expansionSlot": 2,
+        "radiatorSupport": {
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 2 Type-C", "USB 3.0", "Audio/Mic"],
+        "coolingSupport": {
+          "rear": "120mm"
+        },
+        "driveBayList": ["2.5-inch: 2"],
+        "maxCPUCoolerHeight": "160mm",
+        "maxGPULength": "320mm",
+        "maxPSULength": "160mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "rear": 1
+        },
+        "supportedFanSize": {
+          "rear": "120mm"
+        },
+        "images": [
+          "https://i.postimg.cc/TYZDTnTS/Lian-Li-Lancool-2-Mesh-1.png",
+"https://i.postimg.cc/MKcBk9JV/Lian-Li-Lancool-2-Mesh-2.png",
+"https://i.postimg.cc/qBDKZ9Sp/Lian-Li-Lancool-2-Mesh-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "keyFeatures": {
+        "name": "Thermaltake View 71 RGB",
+        "brandName": "Thermaltake",
+        "modelName": "View 71 RGB",
+        "formFactor": "Full Tower",
+        "motherboardSupportList": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 10,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 169.99,
+          "discount": 159.99,
+          "emi": 18
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "SPCC, Tempered Glass",
+        "dimensionDetails": "592 x 274 x 577 mm",
+        "expansionSlot": 8,
+        "radiatorSupport": {
+          "top": "360mm, 420mm",
+          "front": "360mm, 420mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, USB 2.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 200mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 200mm"
+        },
+        "driveBayList": ["3.5-inch: 8", "2.5-inch: 4"],
+        "maxCPUCoolerHeight": "190mm",
+        "maxGPULength": "410mm",
+        "maxPSULength": "220mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 4,
+          "rear": 1,
+          "front": 3,
+          "bottom": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm, 200mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 200mm",
+          "bottom": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/fTkczwm3/Be-quiet-Pure-Base-500-DX-1.png",
+"https://i.postimg.cc/3wjpSW5q/Be-quiet-Pure-Base-500-DX-2.png",
+"https://i.postimg.cc/J4gbt95p/Be-quiet-Pure-Base-500-DX-3.png"
+
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "NZXT H200i",
+        "brandName": "NZXT",
+        "modelName": "H200i",
+        "formFactor": "Mini ITX",
+        "motherboardSupportList": ["Mini ITX"],
+        "maxFanSupport": 4,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 119.99,
+          "discount": 114.99,
+          "emi": 12
+        }
+      },
+      "basic": {
+        "color": "Matte Black/Red",
+        "materialDetails": "SECC Steel, Tempered Glass",
+        "dimensionDetails": "210 x 349 x 372 mm",
+        "expansionSlot": 2,
+        "radiatorSupport": {
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 1 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "driveBayList": ["3.5-inch: 1", "2.5-inch: 3"],
+        "maxCPUCoolerHeight": "165mm",
+        "maxGPULength": "325mm",
+        "maxPSULength": "311mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "rear": 1,
+          "front": 2
+        },
+        "supportedFanSize": {
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/ZRVNmgqF/Be-quiet-Pure-Base-500-DX-Mini-1.png",
+"https://i.postimg.cc/fyy9RKt4/Be-quiet-Pure-Base-500-DX-Mini-2.png",
+"https://i.postimg.cc/fyP0t9mV/Be-quiet-Pure-Base-500-DX-Mini-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Corsair Crystal 570X RGB",
+        "brandName": "Corsair",
+        "modelName": "Crystal 570X RGB",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 179.99,
+          "discount": 169.99,
+          "emi": 15
+        }
+      },
+      "basic": {
+        "color": "White",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "234 x 512 x 549 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "240mm, 280mm",
+          "front": "240mm, 280mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "170mm",
+        "maxGPULength": "370mm",
+        "maxPSULength": "225mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/FR9S2mhH/Gigabyte-AORUS-C500-Xtreme-1.png",
+"https://i.postimg.cc/DwX1GBCn/Gigabyte-AORUS-C500-Xtreme-2.png",
+"https://i.postimg.cc/Dz3LPLDs/Gigabyte-AORUS-C500-Xtreme-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "SilverStone RL08",
+        "brandName": "SilverStone",
+        "modelName": "RL08",
+        "formFactor": "Micro ATX",
+        "motherboardSupportList": ["Micro ATX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": true,
+        "price": {
+          "regular": 69.99,
+          "discount": 64.99,
+          "emi": 7
+        }
+      },
+      "basic": {
+        "color": "Red",
+        "materialDetails": "Steel, Plastic, Tempered Glass",
+        "dimensionDetails": "222 x 448 x 396 mm",
+        "expansionSlot": 4,
+        "radiatorSupport": {
+          "top": "120mm",
+          "front": "120mm",
+          "rear": "80mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm",
+          "rear": "80mm",
+          "front": "120mm"
+        },
+        "driveBayList": ["3.5-inch: 3", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "138mm",
+        "maxGPULength": "330mm",
+        "maxPSULength": "150mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 1,
+          "rear": 1,
+          "front": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm",
+          "rear": "80mm",
+          "front": "120mm"
+        },
+        "images": [
+          "https://i.postimg.cc/TYZDTnTS/Lian-Li-Lancool-2-Mesh-1.png",
+"https://i.postimg.cc/MKcBk9JV/Lian-Li-Lancool-2-Mesh-2.png",
+"https://i.postimg.cc/qBDKZ9Sp/Lian-Li-Lancool-2-Mesh-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 1,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "name": "Deepcool MATREXX 55",
+        "brandName": "Deepcool",
+        "modelName": "MATREXX 55",
+        "formFactor": "ATX",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 4,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 79.99,
+          "discount": 74.99,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "SPCC, Tempered Glass",
+        "dimensionDetails": "440 x 210 x 480 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm",
+          "front": "120mm, 240mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 240mm",
+          "rear": "120mm",
+          "front": "120mm, 240mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "168mm",
+        "maxGPULength": "370mm",
+        "maxPSULength": "170mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm",
+          "rear": "120mm",
+          "front": "120mm"
+        },
+        "images": [
+          "https://i.postimg.cc/fTkczwm3/Be-quiet-Pure-Base-500-DX-1.png",
+"https://i.postimg.cc/3wjpSW5q/Be-quiet-Pure-Base-500-DX-2.png",
+"https://i.postimg.cc/J4gbt95p/Be-quiet-Pure-Base-500-DX-3.png"
+
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "name": "Antec P120 Crystal",
+        "brandName": "Antec",
+        "modelName": "P120 Crystal",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["E-ATX", "ATX", "Micro ATX"],
+        "maxFanSupport": 9,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 129.99,
+          "discount": 119.99,
+          "emi": 14
+        }
+      },
+      "basic": {
+        "color": "White",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "475 x 232 x 480 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "240mm, 360mm",
+          "front": "240mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, USB 2.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 360mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 3"],
+        "maxCPUCoolerHeight": "185mm",
+        "maxGPULength": "450mm",
+        "maxPSULength": "290mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3,
+          "bottom": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm",
+          "bottom": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/ZRVNmgqF/Be-quiet-Pure-Base-500-DX-Mini-1.png",
+"https://i.postimg.cc/fyy9RKt4/Be-quiet-Pure-Base-500-DX-Mini-2.png",
+"https://i.postimg.cc/fyP0t9mV/Be-quiet-Pure-Base-500-DX-Mini-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Be Quiet! Dark Base Pro 900 Rev.2",
+        "brandName": "Be Quiet!",
+        "modelName": "Dark Base Pro 900 Rev.2",
+        "formFactor": "Full Tower",
+        "motherboardSupportList": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 10,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 249.99,
+          "discount": 239.99,
+          "emi": 20
+        }
+      },
+      "basic": {
+        "color": "Black/Orange",
+        "materialDetails": "Steel, Aluminum, Tempered Glass",
+        "dimensionDetails": "577 x 243 x 586 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm, 140mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 2 x 2, USB 3.0 x 2, Qi Wireless Charger, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm, 140mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 7", "2.5-inch: 15"],
+        "maxCPUCoolerHeight": "185mm",
+        "maxGPULength": "472mm",
+        "maxPSULength": "284mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3,
+          "bottom": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm, 140mm",
+          "front": "120mm, 140mm",
+          "bottom": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/FR9S2mhH/Gigabyte-AORUS-C500-Xtreme-1.png",
+"https://i.postimg.cc/DwX1GBCn/Gigabyte-AORUS-C500-Xtreme-2.png",
+"https://i.postimg.cc/Dz3LPLDs/Gigabyte-AORUS-C500-Xtreme-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 10
+    },
+    {
+      "keyFeatures": {
+        "name": "Rosewill CULLINAN MX RGB",
+        "brandName": "Rosewill",
+        "modelName": "CULLINAN MX RGB",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 8,
+        "temperedGlass": true,
+        "preInstalledFan": 4,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 109.99,
+          "discount": 99.99,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "432 x 203 x 468 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm",
+          "front": "120mm, 240mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, USB 2.0 x 4, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm, 140mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 4"],
+        "maxCPUCoolerHeight": "160mm",
+        "maxGPULength": "360mm",
+        "maxPSULength": "230mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3,
+          "bottom": 1
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm, 140mm",
+          "front": "120mm, 140mm",
+          "bottom": "120mm"
+        },
+        "images": [
+          "https://i.postimg.cc/TYZDTnTS/Lian-Li-Lancool-2-Mesh-1.png",
+"https://i.postimg.cc/MKcBk9JV/Lian-Li-Lancool-2-Mesh-2.png",
+"https://i.postimg.cc/qBDKZ9Sp/Lian-Li-Lancool-2-Mesh-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "Fractal Design Define 7",
+        "brandName": "Fractal Design",
+        "modelName": "Define 7",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 9,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 169.99,
+          "discount": 159.99,
+          "emi": 16
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "547 x 240 x 475 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm, 140mm"
+        },
+        "iOPortList": ["USB 3.1 Gen 2 Type-C x 1, USB 3.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm, 140mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 6", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "185mm",
+        "maxGPULength": "467mm",
+        "maxPSULength": "250mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3,
+          "bottom": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm, 140mm",
+          "front": "120mm, 140mm",
+          "bottom": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/fTkczwm3/Be-quiet-Pure-Base-500-DX-1.png",
+"https://i.postimg.cc/3wjpSW5q/Be-quiet-Pure-Base-500-DX-2.png",
+"https://i.postimg.cc/J4gbt95p/Be-quiet-Pure-Base-500-DX-3.png"
+
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Be Quiet! Dark Base 700",
+        "brandName": "Be Quiet!",
+        "modelName": "Dark Base 700",
+        "formFactor": "Full Tower",
+        "motherboardSupportList": ["E-ATX", "ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 7,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 199.99,
+          "discount": 189.99,
+          "emi": 20
+        }
+      },
+      "basic": {
+        "color": "Gunmetal",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "519 x 241 x 544 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, USB 2.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 280mm, 360mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 280mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 7"],
+        "maxCPUCoolerHeight": "180mm",
+        "maxGPULength": "323mm",
+        "maxPSULength": "284mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/ZRVNmgqF/Be-quiet-Pure-Base-500-DX-Mini-1.png",
+"https://i.postimg.cc/fyy9RKt4/Be-quiet-Pure-Base-500-DX-Mini-2.png",
+"https://i.postimg.cc/fyP0t9mV/Be-quiet-Pure-Base-500-DX-Mini-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "name": "Antec NX400",
+        "brandName": "Antec",
+        "modelName": "NX400",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 6,
+        "temperedGlass": true,
+        "preInstalledFan": 3,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 79.99,
+          "discount": 74.99,
+          "emi": 8
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "SPCC, Plastic, Tempered Glass",
+        "dimensionDetails": "220 x 486 x 463 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm",
+          "front": "120mm, 240mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, USB 2.0 x 1, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 4"],
+        "maxCPUCoolerHeight": "165mm",
+        "maxGPULength": "330mm",
+        "maxPSULength": "200mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 3
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/FR9S2mhH/Gigabyte-AORUS-C500-Xtreme-1.png",
+"https://i.postimg.cc/DwX1GBCn/Gigabyte-AORUS-C500-Xtreme-2.png",
+"https://i.postimg.cc/Dz3LPLDs/Gigabyte-AORUS-C500-Xtreme-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "name": "Rosewill CULLINAN MX-Blue",
+        "brandName": "Rosewill",
+        "modelName": "CULLINAN MX-Blue",
+        "formFactor": "ATX",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 8,
+        "temperedGlass": true,
+        "preInstalledFan": 4,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 109.99,
+          "discount": 99.99,
+          "emi": 10
+        }
+      },
+      "basic": {
+        "color": "Blue",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "502 x 215 x 495 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm, 360mm",
+          "front": "120mm, 240mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, USB 2.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm, 360mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm, 360mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 4"],
+        "maxCPUCoolerHeight": "180mm",
+        "maxGPULength": "360mm",
+        "maxPSULength": "200mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 3,
+          "rear": 1,
+          "front": 3,
+          "bottom": 1
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm",
+          "bottom": "120mm"
+        },
+        "images": [
+          "https://i.postimg.cc/TYZDTnTS/Lian-Li-Lancool-2-Mesh-1.png",
+"https://i.postimg.cc/MKcBk9JV/Lian-Li-Lancool-2-Mesh-2.png",
+"https://i.postimg.cc/qBDKZ9Sp/Lian-Li-Lancool-2-Mesh-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "name": "Fractal Design Meshify C",
+        "brandName": "Fractal Design",
+        "modelName": "Meshify C",
+        "formFactor": "Mid Tower",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 7,
+        "temperedGlass": true,
+        "preInstalledFan": 2,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 89.99,
+          "discount": 79.99,
+          "emi": 9
+        }
+      },
+      "basic": {
+        "color": "Dark TG",
+        "materialDetails": "Steel, Tempered Glass",
+        "dimensionDetails": "395 x 212 x 440 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm",
+          "front": "120mm, 240mm, 360mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm, 240mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm, 240mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 3"],
+        "maxCPUCoolerHeight": "172mm",
+        "maxGPULength": "315mm",
+        "maxPSULength": "175mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 3,
+          "bottom": 1
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm",
+          "bottom": "120mm"
+        },
+        "images": [
+          "https://i.postimg.cc/fTkczwm3/Be-quiet-Pure-Base-500-DX-1.png",
+"https://i.postimg.cc/3wjpSW5q/Be-quiet-Pure-Base-500-DX-2.png",
+"https://i.postimg.cc/J4gbt95p/Be-quiet-Pure-Base-500-DX-3.png"
+
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "name": "Phanteks Eclipse P300A",
+        "brandName": "Phanteks",
+        "modelName": "Eclipse P300A",
+        "formFactor": "ATX",
+        "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+        "maxFanSupport": 7,
+        "temperedGlass": false,
+        "preInstalledFan": 1,
+        "preInstalledPSU": false,
+        "price": {
+          "regular": 69.99,
+          "discount": 64.99,
+          "emi": 7
+        }
+      },
+      "basic": {
+        "color": "Black",
+        "materialDetails": "Steel, Plastic",
+        "dimensionDetails": "200 x 450 x 400 mm",
+        "expansionSlot": 7,
+        "radiatorSupport": {
+          "top": "120mm, 240mm",
+          "front": "120mm, 240mm",
+          "rear": "120mm"
+        },
+        "iOPortList": ["USB 3.0 x 2, Audio/Mic"],
+        "coolingSupport": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "driveBayList": ["3.5-inch: 2", "2.5-inch: 2"],
+        "maxCPUCoolerHeight": "160mm",
+        "maxGPULength": "330mm",
+        "maxPSULength": "160mm"
+      },
+      "fan": {
+        "supportedFanNumber": {
+          "top": 2,
+          "rear": 1,
+          "front": 2
+        },
+        "supportedFanSize": {
+          "top": "120mm, 140mm",
+          "rear": "120mm",
+          "front": "120mm, 140mm"
+        },
+        "images": [
+          "https://i.postimg.cc/ZRVNmgqF/Be-quiet-Pure-Base-500-DX-Mini-1.png",
+"https://i.postimg.cc/fyy9RKt4/Be-quiet-Pure-Base-500-DX-Mini-2.png",
+"https://i.postimg.cc/fyP0t9mV/Be-quiet-Pure-Base-500-DX-Mini-3.png"
+        ]
+      },
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+  "keyFeatures": {
+    "name": "NZXT H510 Elite",
+    "brandName": "NZXT",
+    "modelName": "H510 Elite",
+    "formFactor": "Mid Tower",
+    "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+    "maxFanSupport": 6,
+    "temperedGlass": true,
+    "preInstalledFan": 2,
+    "preInstalledPSU": false,
+    "price": {
+      "regular": 149.99,
+      "discount": 139.99,
+      "emi": 14
+    }
+  },
+  "basic": {
+    "color": "Black",
+    "materialDetails": "SECC Steel, Tempered Glass",
+    "dimensionDetails": "210 x 428 x 460 mm",
+    "expansionSlot": 7,
+    "radiatorSupport": {
+      "top": "120mm, 140mm, 240mm",
+      "front": "120mm, 140mm, 240mm",
+      "rear": "120mm"
+    },
+    "iOPortList": ["USB 3.1 Gen 2 x 1, USB 3.1 Gen 1 x 1, Audio/Mic"],
+    "coolingSupport": {
+      "top": "120mm, 140mm, 240mm",
+      "rear": "120mm",
+      "front": "120mm, 140mm, 240mm"
+    },
+    "driveBayList": ["3.5-inch: 2", "2.5-inch: 2"],
+    "maxCPUCoolerHeight": "165mm",
+    "maxGPULength": "381mm",
+    "maxPSULength": "311mm"
+  },
+  "fan": {
+    "supportedFanNumber": {
+      "top": 2,
+      "rear": 1,
+      "front": 3
+    },
+    "supportedFanSize": {
+      "top": "120mm, 140mm",
+      "rear": "120mm",
+      "front": "120mm, 140mm"
+    },
+    "images": [
+      "https://i.postimg.cc/FR9S2mhH/Gigabyte-AORUS-C500-Xtreme-1.png",
+"https://i.postimg.cc/DwX1GBCn/Gigabyte-AORUS-C500-Xtreme-2.png",
+"https://i.postimg.cc/Dz3LPLDs/Gigabyte-AORUS-C500-Xtreme-3.png"
+    ]
+  },
+  "warrantyDetails": {
+    "warrantyPeriod": 2,
+    "warrantyType": "Limited Warranty"
+  },
+  "quantity": 15
+    },
+    {
+  "keyFeatures": {
+    "name": "Lian Li PC-O11 Dynamic",
+    "brandName": "Lian Li",
+    "modelName": "PC-O11 Dynamic",
+    "formFactor": "ATX",
+    "motherboardSupportList": ["ATX", "Micro ATX", "Mini ITX"],
+    "maxFanSupport": 9,
+    "temperedGlass": true,
+    "preInstalledFan": 0,
+    "preInstalledPSU": false,
+    "price": {
+      "regular": 179.99,
+      "discount": 169.99,
+      "emi": 15
+    }
+  },
+  "basic": {
+    "color": "White",
+    "materialDetails": "Aluminum, Tempered Glass",
+    "dimensionDetails": "272 x 446 x 446 mm",
+    "expansionSlot": 8,
+    "radiatorSupport": {
+      "top": "120mm, 240mm, 360mm",
+      "front": "120mm, 240mm, 360mm",
+      "bottom": "120mm, 240mm"
+    },
+    "iOPortList": ["USB 3.0 x 2, USB 3.1 Type-C x 1, Audio/Mic"],
+    "coolingSupport": {
+      "top": "120mm, 140mm, 240mm, 360mm",
+      "rear": "120mm",
+      "front": "120mm, 140mm, 240mm, 360mm",
+      "bottom": "120mm, 240mm"
+    },
+    "driveBayList": ["3.5-inch: 3", "2.5-inch: 6"],
+    "maxCPUCoolerHeight": "155mm",
+    "maxGPULength": "420mm",
+    "maxPSULength": "255mm"
+  },
+  "fan": {
+    "supportedFanNumber": {
+      "top": 3,
+      "rear": 1,
+      "front": 3,
+      "bottom": 2
+    },
+    "supportedFanSize": {
+      "top": "120mm, 140mm",
+      "rear": "120mm",
+      "front": "120mm, 140mm",
+      "bottom": "120mm, 140mm"
+    },
+    "images": [
+      "https://i.postimg.cc/TYZDTnTS/Lian-Li-Lancool-2-Mesh-1.png",
+"https://i.postimg.cc/MKcBk9JV/Lian-Li-Lancool-2-Mesh-2.png",
+"https://i.postimg.cc/qBDKZ9Sp/Lian-Li-Lancool-2-Mesh-3.png"
+    ]
+  },
+  "warrantyDetails": {
+    "warrantyPeriod": 2,
+    "warrantyType": "Limited Warranty"
+  },
+  "quantity": 17
+    }
+]
+  

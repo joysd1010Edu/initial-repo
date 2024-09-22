@@ -1,0 +1,579 @@
+[
+    {
+      "keyFeatures": {
+        "readSpeed": "3500 MB/s",
+        "writeSpeed": "2500 MB/s",
+        "interface": "NVMe PCIe 3.0",
+        "modelName": "Samsung 970 EVO Plus",
+        "brandName": "Samsung",
+        "formFactor": "M.2 2280",
+        "name": "970 EVO Plus",
+        "cellStatus": "MLC",
+        "price": {
+          "regular": 150,
+          "discount": 140,
+          "emi": 15
+        },
+        "tbw": "600TB",
+        "mtbf": "1.5 million hours",
+        "flashType": "V-NAND",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-45°C to 85°C",
+        "shockResistance": "1500G",
+        "weight": "8 grams",
+        "physicalDimension": "80.15 x 22.15 x 2.38 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/MKDrkv4M/samsung-1.png",
+        "https://i.postimg.cc/Hn1Pm5d5/samsung-2.png",
+        "https://i.postimg.cc/PrhFFm6n/samsung-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "560 MB/s",
+        "writeSpeed": "530 MB/s",
+        "interface": "SATA III",
+        "modelName": "Crucial MX500",
+        "brandName": "Crucial",
+        "formFactor": "2.5-inch",
+        "name": "MX500",
+        "cellStatus": "3D NAND",
+        "price": {
+          "regular": 80,
+          "discount": 75,
+          "emi": 8
+        },
+        "tbw": "360TB",
+        "mtbf": "1.8 million hours",
+        "flashType": "3D NAND",
+        "size": "500GB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1500G",
+        "weight": "45 grams",
+        "physicalDimension": "100.45 x 69.85 x 7 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/m2b8STDb/westerndigital-1.png",
+        "https://i.postimg.cc/NFxbwzNq/westerndigital-2.png",
+        "https://i.postimg.cc/J4PK6SDj/westerndigital-4.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 50
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3200 MB/s",
+        "writeSpeed": "2000 MB/s",
+        "interface": "NVMe PCIe 4.0",
+        "modelName": "Corsair MP510",
+        "brandName": "Corsair",
+        "formFactor": "M.2 2280",
+        "name": "MP510",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 130,
+          "discount": 120,
+          "emi": 12
+        },
+        "tbw": "500TB",
+        "mtbf": "1.2 million hours",
+        "flashType": "3D NAND",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 75°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1200G",
+        "weight": "7 grams",
+        "physicalDimension": "80.5 x 22.2 x 2.5 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/d1r451r0/sandisk-1.png",
+        "https://i.postimg.cc/fW78XVM2/sandisk-2.png",
+        "https://i.postimg.cc/d3FnpYjj/sandisk-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3000 MB/s",
+        "writeSpeed": "1800 MB/s",
+        "interface": "SATA III",
+        "modelName": "Crucial MX500",
+        "brandName": "Crucial",
+        "formFactor": "2.5-inch",
+        "name": "MX500",
+        "cellStatus": "3D NAND",
+        "price": {
+          "regular": 100,
+          "discount": 95,
+          "emi": 10
+        },
+        "tbw": "400TB",
+        "mtbf": "1.8 million hours",
+        "flashType": "Micron TLC",
+        "size": "500GB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-30°C to 85°C",
+        "shockResistance": "2000G",
+        "weight": "70 grams",
+        "physicalDimension": "100.5 x 69.85 x 7 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/Bnn7JJ9h/adata-1.png",
+        "https://i.postimg.cc/tTxm8DQp/adata-2.png",
+        "https://i.postimg.cc/QMB6WSM1/adata-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3400 MB/s",
+        "writeSpeed": "2200 MB/s",
+        "interface": "NVMe PCIe 4.0",
+        "modelName": "WD Black SN750",
+        "brandName": "Western Digital",
+        "formFactor": "M.2 2280",
+        "name": "Black SN750",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 180,
+          "discount": 170,
+          "emi": 18
+        },
+        "tbw": "800TB",
+        "mtbf": "1.6 million hours",
+        "flashType": "3D NAND",
+        "size": "2TB",
+        "operatingTemperature": "0°C to 80°C",
+        "storageTemperature": "-35°C to 85°C",
+        "shockResistance": "1800G",
+        "weight": "6 grams",
+        "physicalDimension": "85 x 22 x 2.5 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/m2b8STDb/westerndigital-1.png",
+        "https://i.postimg.cc/NFxbwzNq/westerndigital-2.png",
+        "https://i.postimg.cc/J4PK6SDj/westerndigital-4.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 15
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "2800 MB/s",
+        "writeSpeed": "1600 MB/s",
+        "interface": "SATA III",
+        "modelName": "Kingston A2000",
+        "brandName": "Kingston",
+        "formFactor": "M.2 2280",
+        "name": "A2000",
+        "cellStatus": "NVMe",
+        "price": {
+          "regular": 90,
+          "discount": 85,
+          "emi": 9
+        },
+        "tbw": "300TB",
+        "mtbf": "2 million hours",
+        "flashType": "3D NAND",
+        "size": "500GB",
+        "operatingTemperature": "0°C to 75°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1500G",
+        "weight": "5 grams",
+        "physicalDimension": "80 x 22 x 1.8 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/d1r451r0/sandisk-1.png",
+        "https://i.postimg.cc/fW78XVM2/sandisk-2.png",
+        "https://i.postimg.cc/d3FnpYjj/sandisk-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3600 MB/s",
+        "writeSpeed": "2400 MB/s",
+        "interface": "NVMe PCIe 3.0",
+        "modelName": "ADATA XPG SX8200 Pro",
+        "brandName": "ADATA",
+        "formFactor": "M.2 2280",
+        "name": "XPG SX8200 Pro",
+        "cellStatus": "3D NAND",
+        "price": {
+          "regular": 160,
+          "discount": 150,
+          "emi": 16
+        },
+        "tbw": "700TB",
+        "mtbf": "1.5 million hours",
+        "flashType": "TLC",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1700G",
+        "weight": "7 grams",
+        "physicalDimension": "80 x 22 x 3.5 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/Bnn7JJ9h/adata-1.png",
+        "https://i.postimg.cc/tTxm8DQp/adata-2.png",
+        "https://i.postimg.cc/QMB6WSM1/adata-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3100 MB/s",
+        "writeSpeed": "2000 MB/s",
+        "interface": "NVMe PCIe 3.0",
+        "modelName": "Seagate FireCuda 520",
+        "brandName": "Seagate",
+        "formFactor": "M.2 2280",
+        "name": "FireCuda 520",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 140,
+          "discount": 130,
+          "emi": 14
+        },
+        "tbw": "600TB",
+        "mtbf": "1.7 million hours",
+        "flashType": "3D NAND",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 75°C",
+        "storageTemperature": "-35°C to 80°C",
+        "shockResistance": "1600G",
+        "weight": "6 grams",
+        "physicalDimension": "80 x 22 x 3.7 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/x8Gp1C1Z/hp-1.png",
+        "https://i.postimg.cc/J7j2qT5Q/hp-2.png",
+        "https://i.postimg.cc/JzY6nSRR/hp-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 19
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3300 MB/s",
+        "writeSpeed": "2100 MB/s",
+        "interface": "NVMe PCIe 4.0",
+        "modelName": "Intel 670p",
+        "brandName": "Intel",
+        "formFactor": "M.2 2280",
+        "name": "670p",
+        "cellStatus": "QLC",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 12
+        },
+        "tbw": "500TB",
+        "mtbf": "1.4 million hours",
+        "flashType": "3D NAND",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-30°C to 85°C",
+        "shockResistance": "1400G",
+        "weight": "7 grams",
+        "physicalDimension": "80 x 22 x 2.2 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/m2b8STDb/westerndigital-1.png",
+        "https://i.postimg.cc/NFxbwzNq/westerndigital-2.png",
+        "https://i.postimg.cc/J4PK6SDj/westerndigital-4.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "2900 MB/s",
+        "writeSpeed": "1700 MB/s",
+        "interface": "SATA III",
+        "modelName": "SanDisk Ultra 3D",
+        "brandName": "SanDisk",
+        "formFactor": "2.5-inch",
+        "name": "Ultra 3D",
+        "cellStatus": "3D NAND",
+        "price": {
+          "regular": 80,
+          "discount": 75,
+          "emi": 8
+        },
+        "tbw": "400TB",
+        "mtbf": "1.9 million hours",
+        "flashType": "BiCS3",
+        "size": "500GB",
+        "operatingTemperature": "0°C to 65°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1800G",
+        "weight": "75 grams",
+        "physicalDimension": "100 x 69.85 x 7 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/d1r451r0/sandisk-1.png",
+        "https://i.postimg.cc/fW78XVM2/sandisk-2.png",
+        "https://i.postimg.cc/d3FnpYjj/sandisk-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 30
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3500 MB/s",
+        "writeSpeed": "2400 MB/s",
+        "interface": "NVMe PCIe 3.0",
+        "modelName": "HP EX950",
+        "brandName": "HP",
+        "formFactor": "M.2 2280",
+        "name": "EX950",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 170,
+          "discount": 160,
+          "emi": 17
+        },
+        "tbw": "700TB",
+        "mtbf": "1.6 million hours",
+        "flashType": "3D NAND",
+        "size": "2TB",
+        "operatingTemperature": "0°C to 75°C",
+        "storageTemperature": "-35°C to 85°C",
+        "shockResistance": "1600G",
+        "weight": "6 grams",
+        "physicalDimension": "80 x 22 x 3 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/x8Gp1C1Z/hp-1.png",
+        "https://i.postimg.cc/J7j2qT5Q/hp-2.png",
+        "https://i.postimg.cc/JzY6nSRR/hp-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 22
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3200 MB/s",
+        "writeSpeed": "1900 MB/s",
+        "interface": "SATA III",
+        "modelName": "ADATA SU800",
+        "brandName": "ADATA",
+        "formFactor": "2.5-inch",
+        "name": "SU800",
+        "cellStatus": "3D NAND",
+        "price": {
+          "regular": 85,
+          "discount": 80,
+          "emi": 9
+        },
+        "tbw": "350TB",
+        "mtbf": "2 million hours",
+        "flashType": "TLC",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1700G",
+        "weight": "70 grams",
+        "physicalDimension": "100.45 x 69.85 x 7 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/Bnn7JJ9h/adata-1.png",
+        "https://i.postimg.cc/tTxm8DQp/adata-2.png",
+        "https://i.postimg.cc/QMB6WSM1/adata-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 18
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3600 MB/s",
+        "writeSpeed": "2300 MB/s",
+        "interface": "NVMe PCIe 4.0",
+        "modelName": "Crucial P5",
+        "brandName": "Crucial",
+        "formFactor": "M.2 2280",
+        "name": "P5",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 190,
+          "discount": 180,
+          "emi": 19
+        },
+        "tbw": "750TB",
+        "mtbf": "1.7 million hours",
+        "flashType": "3D NAND",
+        "size": "2TB",
+        "operatingTemperature": "0°C to 80°C",
+        "storageTemperature": "-35°C to 85°C",
+        "shockResistance": "1800G",
+        "weight": "5 grams",
+        "physicalDimension": "80.5 x 22.15 x 2.2 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/MKDrkv4M/samsung-1.png",
+        "https://i.postimg.cc/Hn1Pm5d5/samsung-2.png",
+        "https://i.postimg.cc/PrhFFm6n/samsung-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 5,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 20
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3200 MB/s",
+        "writeSpeed": "2000 MB/s",
+        "interface": "NVMe PCIe 4.0",
+        "modelName": "WD Black SN850",
+        "brandName": "Western Digital",
+        "formFactor": "M.2 2280",
+        "name": "Black SN850",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 180,
+          "discount": 170,
+          "emi": 18
+        },
+        "tbw": "800TB",
+        "mtbf": "1.8 million hours",
+        "flashType": "3D NAND",
+        "size": "2TB",
+        "operatingTemperature": "0°C to 75°C",
+        "storageTemperature": "-40°C to 85°C",
+        "shockResistance": "1200G",
+        "weight": "10 grams",
+        "physicalDimension": "80.15 x 22.15 x 3.5 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/m2b8STDb/westerndigital-1.png",
+        "https://i.postimg.cc/NFxbwzNq/westerndigital-2.png",
+        "https://i.postimg.cc/J4PK6SDj/westerndigital-4.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 3,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 25
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "3000 MB/s",
+        "writeSpeed": "1800 MB/s",
+        "interface": "SATA III",
+        "modelName": "Crucial MX500",
+        "brandName": "Crucial",
+        "formFactor": "2.5-inch",
+        "name": "MX500",
+        "cellStatus": "3D NAND",
+        "price": {
+          "regular": 120,
+          "discount": 110,
+          "emi": 12
+        },
+        "tbw": "500TB",
+        "mtbf": "2 million hours",
+        "flashType": "3D NAND",
+        "size": "1TB",
+        "operatingTemperature": "0°C to 70°C",
+        "storageTemperature": "-30°C to 85°C",
+        "shockResistance": "1300G",
+        "weight": "7 grams",
+        "physicalDimension": "69.85 x 100.5 x 7.0 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/x8Gp1C1Z/hp-1.png",
+        "https://i.postimg.cc/J7j2qT5Q/hp-2.png",
+        "https://i.postimg.cc/JzY6nSRR/hp-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 4,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 40
+    },
+    {
+      "keyFeatures": {
+        "readSpeed": "2800 MB/s",
+        "writeSpeed": "1600 MB/s",
+        "interface": "NVMe PCIe 3.0",
+        "modelName": "Kingston A2000",
+        "brandName": "Kingston",
+        "formFactor": "M.2 2280",
+        "name": "A2000",
+        "cellStatus": "TLC",
+        "price": {
+          "regular": 100,
+          "discount": 90,
+          "emi": 10
+        },
+        "tbw": "400TB",
+        "mtbf": "1.5 million hours",
+        "flashType": "3D NAND",
+        "size": "500GB",
+        "operatingTemperature": "0°C to 75°C",
+        "storageTemperature": "-40°C to 80°C",
+        "shockResistance": "1000G",
+        "weight": "6 grams",
+        "physicalDimension": "80 x 22 x 3.5 mm"
+      },
+      "images": [
+        "https://i.postimg.cc/MKDrkv4M/samsung-1.png",
+        "https://i.postimg.cc/Hn1Pm5d5/samsung-2.png",
+        "https://i.postimg.cc/PrhFFm6n/samsung-3.png"
+      ],
+      "warrantyDetails": {
+        "warrantyPeriod": 2,
+        "warrantyType": "Limited Warranty"
+      },
+      "quantity": 50
+    }
+  ]
+  
